@@ -1,4 +1,4 @@
-"""K-Startup 모집중 공고를 받아 detail 페이지까지 fetch해서 grants.md + grants.json 생성.
+"""K-Startup 모집중 공고를 받아 detail 페이지까지 fetch해서 grants.md 생성.
 
 환경변수:
   KSTARTUP_API_KEY   (필수) 공공데이터포털 인증키
@@ -7,7 +7,6 @@
 
 from __future__ import annotations
 
-import json
 import os
 import re
 import sys
@@ -181,38 +180,48 @@ def make_detail_url(pbanc_sn) -> str:
     return f"{DETAIL_BASE}?{urlencode(params)}"
 
 
+CONTENT_SELECTOR = ".app_notice_details-wrap"
+
+
+def _normalize_body(text: str) -> str:
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r" *\n *", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
 def extract_raw_body(soup: BeautifulSoup) -> str:
-    """페이지의 본문 텍스트를 그대로 추출.
+    """본문 영역을 그대로 추출. 섹션 분리/정규화는 하지 않음 — AI가 자체 분석.
 
-    헤더(전역 메뉴 + 공유 버튼들)와 푸터(공공누리/개인정보처리방침 등)만 잘라내고
-    본문은 그대로 둔다. 섹션 분리/정규화는 하지 않음 — AI가 자체 분석.
-
-    K-Startup 페이지의 공유 버튼 영역은 "닫기"라는 토큰으로 끝남.
-    "닫기" 이후 첫 줄바꿈부터 본문 시작으로 본다.
+    K-Startup detail 페이지의 본문은 `<div class="app_notice_details-wrap">`
+    안에 들어있다. 이 컨테이너만 잡으면 메뉴/팝업/푸터가 자연스럽게 제외됨.
+    selector를 못 잡는 페이지가 나오면 fallback으로 텍스트 컷 휴리스틱 사용.
     """
-    for tag in soup.find_all(
-        ["script", "style", "noscript", "nav", "header", "footer"]
-    ):
+    container = soup.select_one(CONTENT_SELECTOR)
+    if container is not None:
+        return _normalize_body(container.get_text("\n", strip=True))
+    return _extract_raw_body_fallback(soup)
+
+
+def _extract_raw_body_fallback(soup: BeautifulSoup) -> str:
+    """Fallback: 컨테이너 selector 실패 시 텍스트 컷.
+
+    "닫기" 이후를 본문 시작으로 보고, FOOTER_MARKERS 중 가장 앞을 종료점으로.
+    """
+    for tag in soup.find_all(["script", "style", "noscript", "nav", "header", "footer"]):
         tag.decompose()
 
     text = soup.get_text("\n", strip=True)
-
-    # 본문 시작: "닫기"(공유 영역 끝 마커) 이후 — 없으면 처음부터
     cut_close = text.find("닫기")
     start_idx = cut_close + len("닫기") if cut_close >= 0 else 0
 
-    # 본문 종료: 푸터 마커 중 가장 앞 (시작 + 50자 이후에서 탐색해 오탐 방지)
     end_idx = len(text)
     for marker in FOOTER_MARKERS:
         i = text.find(marker, start_idx + 50)
         if i >= 0 and i < end_idx:
             end_idx = i
 
-    body = text[start_idx:end_idx]
-    body = re.sub(r"[ \t]+", " ", body)
-    body = re.sub(r" *\n *", "\n", body)
-    body = re.sub(r"\n{3,}", "\n\n", body)
-    return body.strip()
+    return _normalize_body(text[start_idx:end_idx])
 
 
 def extract_attachments(soup: BeautifulSoup) -> list[dict]:
@@ -409,8 +418,7 @@ def build_markdown(
         "> 창업진흥원 K-Startup 공공데이터 API + 상세 페이지 파싱 결과. "
         "마감일 가까운 순. 매일 KST 02:00 갱신.",
         "",
-        f"상세 페이지 파싱 성공 **{stats['success']}건** / 실패 **{stats['failed']}건**. "
-        "구조화 데이터는 [grants.json](./grants.json) 참고.",
+        f"상세 페이지 파싱 성공 **{stats['success']}건** / 실패 **{stats['failed']}건**.",
         "",
         "**AI 사용 가이드:** 이 문서를 컨텍스트에 넣고 본인 프로필"
         "(예비/창업기업, 업력, 연령, 지역, 분야)에 맞는 공고를 추천하도록 요청하세요.",
@@ -490,6 +498,55 @@ def build_markdown(
     return "\n".join(out)
 
 
+# ─── 본문 추출 품질 통계 ───
+SECTION_CHECKS = [
+    ("신청방법", ["신청방법"]),
+    ("제출서류", ["제출서류"]),
+    ("선정절차", ["선정절차", "평가방법"]),
+    ("지원내용", ["지원내용", "교육안내", "사업내용"]),
+]
+
+
+def section_score(text: str) -> int:
+    return sum(any(kw in text for kw in kws) for _, kws in SECTION_CHECKS)
+
+
+def print_extraction_stats(items: list[dict]) -> None:
+    total = len(items)
+    if total == 0:
+        return
+    poor: list[tuple] = []
+    histogram = [0, 0, 0, 0, 0]  # score 0~4 count
+    for it in items:
+        raw = it.get("detail_raw") or ""
+        s = section_score(raw)
+        histogram[s] += 1
+        if s <= 1:
+            poor.append((it.get("pbanc_sn"), it.get("title") or "", len(raw), s))
+
+    poor_rate = len(poor) / total * 100
+    print(
+        f"[stats] 본문 추출 부실(0~1 섹션): {len(poor)}/{total}건 ({poor_rate:.1f}%)",
+        flush=True,
+    )
+    print(
+        f"[stats] 섹션 카운트 분포: 0={histogram[0]} 1={histogram[1]} "
+        f"2={histogram[2]} 3={histogram[3]} 4={histogram[4]}",
+        flush=True,
+    )
+    if poor:
+        print(f"[stats] 부실 샘플(최대 10건):", flush=True)
+        for sn, title, length, s in poor[:10]:
+            t = (title or "")[:50]
+            print(f"  pbancSn={sn} len={length:5d} sec={s}/4 | {t}", flush=True)
+    if poor_rate > 10:
+        print(
+            f"[stats] WARNING: 부실 추출 비율 {poor_rate:.1f}% > 10%. "
+            "selector 또는 페이지 구조 변경 가능성 점검 필요.",
+            file=sys.stderr,
+        )
+
+
 # ─── 메인 ───
 def main() -> None:
     load_env_local()
@@ -545,25 +602,11 @@ def main() -> None:
 
     md_stats = {"success": stats["success"], "failed": failed_total}
 
-    json_payload = {
-        "fetched_at": fetched_at.isoformat(),
-        "fetched_at_kst": fetched_at.astimezone(KST).strftime(
-            "%Y-%m-%d %H:%M KST"
-        ),
-        "source": "K-Startup 공공데이터 API + detail page",
-        "total": len(items),
-        "detail_fetch_success_count": stats["success"],
-        "detail_fetch_failed_count": failed_total,
-        "items": items,
-    }
-    Path("grants.json").write_text(
-        json.dumps(json_payload, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    print(f"[main] grants.json 작성 완료", flush=True)
-
     md = build_markdown(items, fetched_at, md_stats)
     Path("grants.md").write_text(md, encoding="utf-8")
     print(f"[main] grants.md 작성 완료 ({len(md):,} chars)", flush=True)
+
+    print_extraction_stats(items)
 
 
 if __name__ == "__main__":
