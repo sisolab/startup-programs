@@ -1,0 +1,9 @@
+[project]
+name = "startup-programs"
+version = "0.1.0"
+description = "K-Startup 모집중 공고를 detail 페이지까지 fetch해서 grants.md + grants.json으로 발행"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.34.2",
+]

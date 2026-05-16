@@ -1,5 +1,11 @@
-# dependencies
-node_modules/
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
 # env files
 .env
@@ -13,6 +19,3 @@ credentials*
 
 # logs
 *.log
-
-# typescript / tooling
-*.tsbuildinfo
