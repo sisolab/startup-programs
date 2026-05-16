@@ -1,4 +1,4 @@
-"""K-Startup 모집중 공고를 받아 detail 페이지까지 fetch해서 grants.md 생성.
+"""K-Startup 모집중 공고를 받아 detail 페이지까지 fetch해서 grants.md + grants.json 생성.
 
 환경변수:
   KSTARTUP_API_KEY   (필수) 공공데이터포털 인증키
@@ -7,6 +7,7 @@
 
 from __future__ import annotations
 
+import json
 import os
 import re
 import sys
@@ -418,7 +419,8 @@ def build_markdown(
         "> 창업진흥원 K-Startup 공공데이터 API + 상세 페이지 파싱 결과. "
         "마감일 가까운 순. 매일 KST 02:00 갱신.",
         "",
-        f"상세 페이지 파싱 성공 **{stats['success']}건** / 실패 **{stats['failed']}건**.",
+        f"상세 페이지 파싱 성공 **{stats['success']}건** / 실패 **{stats['failed']}건**. "
+        "구조화 데이터는 [grants.json](./grants.json) 참고.",
         "",
         "**AI 사용 가이드:** 이 문서를 컨텍스트에 넣고 본인 프로필"
         "(예비/창업기업, 업력, 연령, 지역, 분야)에 맞는 공고를 추천하도록 요청하세요.",
@@ -601,6 +603,20 @@ def main() -> None:
         sys.exit(2)
 
     md_stats = {"success": stats["success"], "failed": failed_total}
+
+    json_payload = {
+        "fetched_at": fetched_at.isoformat(),
+        "fetched_at_kst": fetched_at.astimezone(KST).strftime("%Y-%m-%d %H:%M KST"),
+        "source": "K-Startup 공공데이터 API + detail page",
+        "total": len(items),
+        "detail_fetch_success_count": stats["success"],
+        "detail_fetch_failed_count": failed_total,
+        "items": items,
+    }
+    Path("grants.json").write_text(
+        json.dumps(json_payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"[main] grants.json 작성 완료", flush=True)
 
     md = build_markdown(items, fetched_at, md_stats)
     Path("grants.md").write_text(md, encoding="utf-8")
