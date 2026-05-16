@@ -1,8 +1,8 @@
 ---
 title: K-Startup 모집중 공고
 total: 279
-fetched_at: 2026-05-16T16:23:26.344Z
-fetched_at_kst: "2026-05-17 01:23 KST"
+fetched_at: 2026-05-16T16:32:17.880Z
+fetched_at_kst: "2026-05-17 01:32 KST"
 source: https://www.data.go.kr/data/15125364/openapi.do
 refresh: 매일 KST 02:00
 ---
