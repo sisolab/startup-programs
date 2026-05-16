@@ -1,26 +1,16 @@
 {
-  "name": "startup-grant",
+  "name": "startup-programs",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
+  "description": "K-Startup 공공데이터 API에서 모집중 공고를 가져와 grants.md로 발행. AI 챗봇이 fetch해서 사용자 프로필에 맞게 큐레이션하도록 설계.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
-  },
-  "dependencies": {
-    "next": "16.2.6",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "gen": "tsx scripts/generate.ts",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4",
+    "tsx": "^4.19.2",
     "typescript": "^5"
   }
 }
