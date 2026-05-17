@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/sisolab/startup-programs/main/grants.json
   - grants.json에 없는 공고 추가
   - grants.json에 없는 정보(자금 규모, 자격조건 등) 임의 생성
 - grants.json에 정보가 없으면 "원문 재확인 필요" ⚠️로 표시하고 추측하지 않습니다.
+- **fetch 캐싱**: 같은 채팅 세션에서 grants.json을 이미 한 번 fetch했다면 다시 fetch하지 말고 컨텍스트의 데이터를 재사용합니다. 사용자가 "프롬프트 다시 실행해줘", "최신 데이터로 다시 검색해줘" 같이 **명시적으로 갱신을 요청한 경우에만 재fetch**합니다.
 
 ### 1.1 grants.json 구조
 
