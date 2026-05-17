@@ -2,7 +2,7 @@ K-Startup(창업진흥원)의 모집중 창업지원 공고 전체를 가져와 
 사용자는 AI 프롬프트를 활용하여 내 사업에 맞는 공고를 정리하는 작업을 요청할 수 있습니다.
 AI 프롬프트는 아래와 같은 결과를 제공합니다.  
 
-<img src="./docs/curation-example.jpeg" alt="큐레이션 결과 예시" width="400">
+<img src="./docs/curation-example.jpeg" alt="큐레이션 결과 예시" width="600">
 
 ## 사용 방법
 
