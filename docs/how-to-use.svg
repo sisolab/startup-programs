@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+  <defs>
+    <style>
+      .card { fill: #ffffff; stroke: #d0d7de; stroke-width: 1.5; }
+      .step-num { fill: #ffffff; font-size: 18px; font-weight: 700; }
+      .step-circle { fill: #2563eb; }
+      .title { fill: #0f172a; font-size: 22px; font-weight: 800; }
+      .item { fill: #1f2937; font-size: 16px; font-weight: 600; }
+      .item-sub { fill: #64748b; font-size: 12px; font-family: 'SFMono-Regular', Consolas, monospace; }
+      .desc { fill: #334155; font-size: 16px; }
+      .arrow { fill: #94a3b8; }
+      .icon-bg { fill: #eff6ff; }
+      .icon-stroke { stroke: #2563eb; stroke-width: 2.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="360" fill="#f8fafc"/>
+
+  <text x="500" y="42" text-anchor="middle" fill="#0f172a" font-size="24" font-weight="700">사용 방법</text>
+
+  <!-- Step 1 -->
+  <g transform="translate(30, 70)">
+    <rect class="card" width="290" height="270" rx="14"/>
+    <circle class="step-circle" cx="28" cy="28" r="16"/>
+    <text class="step-num" x="28" y="34" text-anchor="middle">1</text>
+
+    <g transform="translate(145, 65)">
+      <circle class="icon-bg" cx="0" cy="0" r="26"/>
+      <path class="icon-stroke" d="M 0 -12 L 0 8 M -9 0 L 0 9 L 9 0"/>
+      <line class="icon-stroke" x1="-12" y1="16" x2="12" y2="16"/>
+    </g>
+
+    <text class="title" x="145" y="130" text-anchor="middle">파일 다운로드</text>
+
+    <text class="item" x="20" y="175">공고문 데이터 파일</text>
+    <text class="item-sub" x="20" y="195">grants.json</text>
+
+    <text class="item" x="20" y="225">큐레이션 프롬프트</text>
+    <text class="item-sub" x="20" y="245">kstartup-curation-prompt.md</text>
+  </g>
+
+  <polygon class="arrow" points="327,200 348,210 327,220"/>
+
+  <!-- Step 2 -->
+  <g transform="translate(355, 70)">
+    <rect class="card" width="290" height="270" rx="14"/>
+    <circle class="step-circle" cx="28" cy="28" r="16"/>
+    <text class="step-num" x="28" y="34" text-anchor="middle">2</text>
+
+    <g transform="translate(145, 65)">
+      <circle class="icon-bg" cx="0" cy="0" r="26"/>
+      <path class="icon-stroke" d="M 9 -10 L -6 6 a 7 7 0 0 0 10 10 L 16 4 a 12 12 0 0 0 -17 -17 L -11 0 a 16 16 0 0 0 22 22 L 18 12"/>
+    </g>
+
+    <text class="title" x="145" y="150" text-anchor="middle">AI 채팅창에</text>
+    <text class="title" x="145" y="180" text-anchor="middle">두 개 파일을 첨부</text>
+  </g>
+
+  <polygon class="arrow" points="652,200 673,210 652,220"/>
+
+  <!-- Step 3 -->
+  <g transform="translate(680, 70)">
+    <rect class="card" width="290" height="270" rx="14"/>
+    <circle class="step-circle" cx="28" cy="28" r="16"/>
+    <text class="step-num" x="28" y="34" text-anchor="middle">3</text>
+
+    <g transform="translate(145, 65)">
+      <circle class="icon-bg" cx="0" cy="0" r="26"/>
+      <rect class="icon-stroke" x="-10" y="-13" width="20" height="26" rx="2.5"/>
+      <line class="icon-stroke" x1="-6" y1="-6" x2="6" y2="-6"/>
+      <line class="icon-stroke" x1="-6" y1="0" x2="6" y2="0"/>
+      <line class="icon-stroke" x1="-6" y1="6" x2="2" y2="6"/>
+    </g>
+
+    <text class="title" x="145" y="150" text-anchor="middle">내 프로필은 채팅창에</text>
+    <text class="title" x="145" y="180" text-anchor="middle">입력한 후에 실행</text>
+  </g>
+</svg>
