@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" font-family="-apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" font-family="-apple-system, 'Apple SD Gothic Neo', 'Segoe UI', sans-serif">
+  <g transform="translate(-30,-20)">
   <defs>
     <style>
       .browser { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
@@ -105,5 +106,6 @@
     <polygon points="822,120 818,113 826,114" fill="#f59e0b"/>
     <rect class="callout-box" x="700" y="60" width="170" height="34" rx="8"/>
     <text class="callout-text" x="785" y="82" text-anchor="middle">이 ↓ 버튼을 클릭</text>
+  </g>
   </g>
 </svg>
