@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-12T17:49:49.399858+00:00",
-  "fetched_at_kst": "2026-06-13 02:49 KST",
+  "fetched_at": "2026-06-13T17:36:12.296137+00:00",
+  "fetched_at_kst": "2026-06-14 02:36 KST",
   "source": "K-Startup 공공데이터 API + detail page",
-  "total": 327,
-  "detail_fetch_success_count": 327,
+  "total": 338,
+  "detail_fetch_success_count": 338,
   "detail_fetch_failed_count": 0,
   "items": [
     {
@@ -16,7 +16,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -75,7 +75,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -128,7 +128,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -186,7 +186,7 @@
       "application_period": {
         "start": "2026-05-19",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "대학생",
@@ -231,7 +231,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "대학생",
@@ -277,7 +277,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "대학생",
@@ -319,7 +319,7 @@
       "application_period": {
         "start": "2026-05-29",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -369,7 +369,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "일반기업"
@@ -422,7 +422,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "일반인",
@@ -492,7 +492,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -535,7 +535,7 @@
       "application_period": {
         "start": "2026-04-27",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "대학생",
@@ -586,7 +586,7 @@
       "application_period": {
         "start": "2026-05-13",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "대학생",
@@ -649,7 +649,7 @@
       "application_period": {
         "start": "2026-05-08",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "일반인"
@@ -691,7 +691,7 @@
       "application_period": {
         "start": "2026-05-08",
         "end": "2026-06-14",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "연구기관",
@@ -733,7 +733,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반인",
@@ -783,7 +783,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -839,7 +839,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반기업"
@@ -882,7 +882,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -939,7 +939,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -993,7 +993,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1047,7 +1047,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -1096,7 +1096,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1171,7 +1171,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1221,7 +1221,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1281,7 +1281,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반인",
@@ -1327,7 +1327,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반인"
@@ -1377,7 +1377,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1431,7 +1431,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1481,7 +1481,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -1524,7 +1524,7 @@
       "application_period": {
         "start": "2026-05-21",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -1576,7 +1576,7 @@
       "application_period": {
         "start": "2026-05-19",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반기업",
@@ -1629,7 +1629,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반인",
@@ -1674,7 +1674,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1732,7 +1732,7 @@
       "application_period": {
         "start": "2026-04-14",
         "end": "2026-06-15",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -1787,7 +1787,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생"
@@ -1822,7 +1822,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -1872,7 +1872,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -1939,7 +1939,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -1985,7 +1985,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "일반기업"
@@ -2029,7 +2029,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2080,7 +2080,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2133,7 +2133,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -2196,7 +2196,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2249,7 +2249,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "일반기업",
@@ -2304,7 +2304,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -2355,7 +2355,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -2406,7 +2406,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2456,7 +2456,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "일반인",
@@ -2506,7 +2506,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2550,7 +2550,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -2598,7 +2598,7 @@
       "application_period": {
         "start": "2026-04-30",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학",
@@ -2648,7 +2648,7 @@
       "application_period": {
         "start": "2026-03-25",
         "end": "2026-06-16",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -2699,7 +2699,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반기업"
@@ -2752,7 +2752,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "청소년",
@@ -2818,7 +2818,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반인"
@@ -2859,7 +2859,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "대학생",
@@ -2904,7 +2904,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반인",
@@ -2948,7 +2948,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "대학생",
@@ -2989,7 +2989,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반기업"
@@ -3037,7 +3037,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반기업"
@@ -3097,7 +3097,7 @@
       "application_period": {
         "start": "2026-05-29",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "연구기관",
@@ -3137,7 +3137,7 @@
       "application_period": {
         "start": "2026-05-06",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "청소년",
@@ -3188,7 +3188,7 @@
       "application_period": {
         "start": "2026-04-30",
         "end": "2026-06-17",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "청소년",
@@ -3245,7 +3245,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3299,7 +3299,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3348,7 +3348,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3403,7 +3403,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3458,7 +3458,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3529,7 +3529,7 @@
       "application_period": {
         "start": "2026-06-15",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3579,7 +3579,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -3625,7 +3625,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -3671,7 +3671,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -3722,7 +3722,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학",
@@ -3777,7 +3777,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3825,7 +3825,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -3871,7 +3871,7 @@
       "application_period": {
         "start": "2026-05-19",
         "end": "2026-06-18",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3922,7 +3922,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -3958,6 +3958,58 @@
       ]
     },
     {
+      "pbanc_sn": 178090,
+      "title": "메이커스페이스 전문랩 창업공간 입주기업 추가모집",
+      "organization": "차세대융합기술연구원",
+      "supervising_institution": "공공기관",
+      "category": "시설ㆍ공간ㆍ보육",
+      "region": "경기",
+      "application_period": {
+        "start": "2026-06-10",
+        "end": "2026-06-19",
+        "d_day": "D-5"
+      },
+      "target": [
+        "대학생",
+        "일반인",
+        "연구기관",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0318889569",
+      "summary": "차세대융합기술연구원 메이커스페이스 전문랩 창업공간 잔여 1개실(2인실) 입주기업을 추가 모집하오니 관심 있는 기업의 많은 신청 바랍니다.",
+      "application_target_detail": "도내 거주 ICT 제조 분야 (예비)창업자 또는 창업 7년 이내 중소기업",
+      "exclusion_target": "",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178090",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "메이커스페이스 전문랩 창업공간 입주기업 추가모집\n사업안내 바로가기\n지원분야\n시설ㆍ공간ㆍ보육\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n연구기획실 메이커스페이스 전문랩\n지역\n경기도\n접수기간\n2026-06-10 ~ 2026-06-19 17:00\n주관기관명\n차세대융합기술연구원\n대상\n대학생, 일반인, 연구기관, 일반기업, 1인 창조기업\n창업업력\n예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만\n연락처\n031-888-9569\n메이커스페이스 전문랩 창업공간 입주기업 추가모집\n차세대융합기술연구원 메이커스페이스 전문랩 창업공간 잔여 1개실(2인실) 입주기업을 추가 모집하오니 관심 있는 기업의 많은 신청 바랍니다.\n2026년 06월 10일\n차세대융합기술연구원\n신청방법 및 대상\n신청기간\n2026.06.10(수) 09:00\r\n~\r\n2026.06.19(금) 17:00\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n도내 거주 ICT 제조 분야 (예비)창업자 또는 창업 7년 이내 중소기업\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n제출서류 안내\n① 지원 신청서\n② 입주공간 활용 계획서\n③ 개인정보 수집 및 이용에 관한 동의서\n④ 참가 확약서\n⑤ 기업 소개 및 사업 계획서에 대한 발표 영상 (약 5분 분량)\n⑥ 사업자등록증 사본 (예비창업자의 경우 주민등록등본 제출)\n⑦ 법인인감증명서 (개인일 경우, 개인인감증명서 또는 본인서명사실확인서)\n⑧ 국세, 지방세, 4대 보험 완납 확인서\n⑨ 최근 3개년 결산 재무제표 (해당 시)\n⑩ 자금투자확인서 (해당 시)\n⑪ 지식재산권 등록증 (해당 시)\n⑫ (예비)사회적 기업 확인서, 소셜벤처기업 확인서, 여성기업 확인서 (해당 시)\n⑬ 그 외 사업실적 증명서류 (해당 시)\n※ 누락 된 서류 있을 시 문의처로 연락 후 메일 제출 hychang24@snu.ac.kr\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n외부 심사위원 선정평가\n-제출 서류 및 발표 동영상 자료 기반\n입주모집개요\n1. 입주공간 : 1개실(2인실, 약 8.3㎡)\n2. 소재지: 차세대융합기술연구원 메이커스페이스 전문랩 A동 105호 프로젝트 룸\n(경기도 수원시 영통구 광교로 145)\n3. 입주기간: 2026년 7월~ 2026년 12월 ( 약 6개월 )\n※ 입주기간 연장 불가\n4. 입주비용: 220,000원(부가가치세 포함, 6개월 기준)\n※자세한 내용은 메이커스페이스 전문랩 홈페이지 참조\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n창업공간(2인실) 제공 및 메이커스페이스 전문랩 공용시설 이용 지원\n문의처\n차세대융합기술연구원 메이커스페이스 전문랩\n031-888-9569\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n2026 메이커스페이스 전문랩 창업공간 입주기업 추가 모집.pdf\n바로보기\n다운로드\n입주공간 사진.jpg\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "2026 메이커스페이스 전문랩 창업공간 입주기업 추가 모집.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/Mp9Ln"
+        },
+        {
+          "name": "입주공간 사진.jpg",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/5mbLn"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178082,
       "title": "청년 취·창업 아카데미 「청취캠퍼스」참가자 모집",
       "organization": "야탑유스센터",
@@ -3967,7 +4019,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -4011,7 +4063,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -4062,7 +4114,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -4114,7 +4166,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -4166,7 +4218,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -4209,7 +4261,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4263,7 +4315,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -4308,7 +4360,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "연구기관",
@@ -4359,7 +4411,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4417,7 +4469,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -4464,7 +4516,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4514,7 +4566,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -4561,7 +4613,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -4622,7 +4674,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4683,7 +4735,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4738,7 +4790,7 @@
       "application_period": {
         "start": "2026-05-25",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4797,7 +4849,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -4835,7 +4887,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학",
@@ -4877,7 +4929,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -4921,7 +4973,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -4971,7 +5023,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -5010,7 +5062,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반인"
@@ -5053,7 +5105,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5116,7 +5168,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5171,7 +5223,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반인",
@@ -5216,7 +5268,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업",
@@ -5261,7 +5313,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -5320,7 +5372,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -5374,7 +5426,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -5428,7 +5480,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5473,7 +5525,7 @@
       "application_period": {
         "start": "2026-05-13",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학생",
@@ -5521,7 +5573,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5611,7 +5663,7 @@
       "application_period": {
         "start": "2026-04-13",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5672,7 +5724,7 @@
       "application_period": {
         "start": "2026-03-20",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -5735,7 +5787,7 @@
       "application_period": {
         "start": "2026-03-04",
         "end": "2026-06-19",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "일반기업"
@@ -5791,7 +5843,7 @@
       "application_period": {
         "start": "2026-06-06",
         "end": "2026-06-20",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "청소년",
@@ -5833,6 +5885,58 @@
       ]
     },
     {
+      "pbanc_sn": 178104,
+      "title": "2026년 대전 재도전 창업자 아카데미",
+      "organization": "(재)대전창조경제혁신센터",
+      "supervising_institution": "공공기관",
+      "category": "시설ㆍ공간ㆍ보육",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-10",
+        "end": "2026-06-21",
+        "d_day": "D-7"
+      },
+      "target": [
+        "대학생",
+        "일반인",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0423850584",
+      "summary": "2026년 대전 재도전 창업자 지원 계획을 다음과 같이 공고하오니 참여 희망자는 안내에 따라 신청하기 바랍니다.",
+      "application_target_detail": "재도전 창업에 관심 있는 누구나",
+      "exclusion_target": "",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178104",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "2026년 대전 재도전 창업자 아카데미\n지원분야\n시설ㆍ공간ㆍ보육\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n창업생태계본부 / 글로벌상생협력실\n지역\n전국\n접수기간\n2026-06-11 ~ 2026-06-21 23:59\n주관기관명\n대전창조경제혁신센터\n대상\n대학생, 일반인, 일반기업, 1인 창조기업\n창업업력\n전체\n연락처\n042-385-0584\n2026년 대전 재도전 창업자 아카데미\n2026년 대전 재도전 창업자 지원 계획을 다음과 같이 공고하오니 참여 희망자는 안내에 따라 신청하기 바랍니다.\n2026년 06월 10일\n(재)대전창조경제혁신센터\n신청방법 및 대상\n신청기간\n2026.06.11(목) 00:00\r\n~\r\n2026.06.21(일) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n재도전 창업에 관심 있는 누구나\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n온라인 신청\n온라인 폼을 통해 신청서 작성 및 제출\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n온라인 신청\n온라인 폼을 통해 신청\n신청 제한은 없으나, 신청 인원이 많을 경우 접수 순서에 따라 선정될 수 있습니다.\n지원내용\n교육 및 사업화 지원금 신청 자격 부여\n3개의 트랙으로 이루어진 실패 원인 분석 및 사업화 역량 강화 교육\n수료시 2027년 대전 재도전·혁신캠퍼스 사업화 지원금 신청 자격 부여(2026년 기준 최대 2천만원 지급)\n문의처\n문의처\n운영사무국 : 070-4772-7287\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n모집_2026 대전 재도전 창업자 아카데미.png\n바로보기\n다운로드\n모집_2026 대전 재도전 창업자 아카데미_1.txt\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "모집_2026 대전 재도전 창업자 아카데미.png",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/Kv9Ln"
+        },
+        {
+          "name": "모집_2026 대전 재도전 창업자 아카데미_1.txt",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/PmbLn"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178092,
       "title": "AI시대, 창업기업의 일하는 방식이 바뀐다.",
       "organization": "네스토리움 주식회사",
@@ -5842,7 +5946,7 @@
       "application_period": {
         "start": "2026-06-15",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "청소년",
@@ -5897,7 +6001,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "일반인",
@@ -5945,7 +6049,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "대학생",
@@ -6004,7 +6108,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "일반인",
@@ -6050,7 +6154,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "대학",
@@ -6097,7 +6201,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "청소년",
@@ -6147,7 +6251,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "대학생",
@@ -6204,7 +6308,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "일반기업"
@@ -6244,7 +6348,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "청소년",
@@ -6299,7 +6403,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "청소년",
@@ -6354,7 +6458,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-06-21",
-        "d_day": "D-8"
+        "d_day": "D-7"
       },
       "target": [
         "일반기업"
@@ -6401,7 +6505,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "청소년",
@@ -6452,7 +6556,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반인"
@@ -6502,7 +6606,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "대학생",
@@ -6563,7 +6667,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반인",
@@ -6621,7 +6725,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반기업"
@@ -6673,7 +6777,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "대학생",
@@ -6719,7 +6823,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "대학생",
@@ -6769,7 +6873,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "청소년",
@@ -6819,7 +6923,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "청소년",
@@ -6880,7 +6984,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반기업"
@@ -6928,7 +7032,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "청소년",
@@ -6990,7 +7094,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "대학생",
@@ -7041,7 +7145,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반기업"
@@ -7124,7 +7228,7 @@
       "application_period": {
         "start": "2026-05-19",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "일반기업",
@@ -7169,7 +7273,7 @@
       "application_period": {
         "start": "2026-05-04",
         "end": "2026-06-22",
-        "d_day": "D-9"
+        "d_day": "D-8"
       },
       "target": [
         "대학생",
@@ -7212,7 +7316,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -7267,7 +7371,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -7325,7 +7429,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "1인 창조기업"
@@ -7369,7 +7473,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -7425,7 +7529,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "일반기업"
@@ -7468,7 +7572,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "일반기업"
@@ -7515,7 +7619,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "일반기업"
@@ -7563,7 +7667,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -7618,7 +7722,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "일반인",
@@ -7664,7 +7768,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-06-23",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -7720,7 +7824,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -7774,7 +7878,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -7829,7 +7933,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "일반인",
@@ -7870,7 +7974,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -7945,7 +8049,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -8004,7 +8108,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -8059,7 +8163,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -8105,7 +8209,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -8157,7 +8261,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-24",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "일반기업"
@@ -8208,7 +8312,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업"
@@ -8238,6 +8342,73 @@
       ]
     },
     {
+      "pbanc_sn": 178098,
+      "title": "국토교통부 혁신제품 지정공고",
+      "organization": "국토교통부 ",
+      "supervising_institution": "공공기관",
+      "category": "판로ㆍ해외진출",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-11",
+        "end": "2026-06-25",
+        "d_day": "D-11"
+      },
+      "target": [
+        "청소년",
+        "대학생",
+        "일반인",
+        "대학",
+        "연구기관",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0313896568",
+      "summary": "국토교통부에서는 「조달사업에 관한 법률」 제27조 제1항 및 「국토교통부 혁신제품 지정 지침」에 따라 2026년도 2차 혁신제품 지정 제도” 시행을 다음과 같이 공고하오니, 많은 관심과 참여를 바랍니다.",
+      "application_target_detail": "① 신규지정 (공통) 상업적 거래가 없거나, 최초 매출이 지정신청서 접수마감일기준으로 5년 이내인 제품\n② 추가등록",
+      "exclusion_target": "*신청 사이트 참조",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178098",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "국토교통부 혁신제품 지정공고\n사업안내 바로가기\n지원분야\n판로ㆍ해외진출\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n국토교통과학기술진흥원 산업진흥본부 기업성장지원실\n지역\n전국\n접수기간\n2026-06-11 ~ 2026-06-25 23:00\n주관기관명\n국토교통과학기술진흥원\n대상\n전체\n창업업력\n전체\n연락처\n031-389-6568\n제2026–782호\n국토교통부 혁신제품 지정공고\n국토교통부에서는 「조달사업에 관한 법률」 제27조 제1항 및 「국토교통부 혁신제품 지정 지침」에 따라 2026년도 2차 혁신제품 지정 제도” 시행을 다음과 같이 공고하오니, 많은 관심과 참여를 바랍니다.\n2026년 06월 05일\n국토교통부\n신청방법 및 대상\n신청기간\n2026.06.11(목) 13:00\r\n~\r\n2026.06.25(목) 23:00\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n※ 아래와 같이 신청 서류를 제출해주시기 바랍니다.\n1. 첨부 '표준 폴더' 압축 해제\n2. '표준 폴더' 하위에 있는 각 폴더에 관련 서류 삽입\n3. 각 폴더에 해당되는 서류를 넣으신 뒤에, 전체 폴더를 하나의 파일로 압축하여(ex. 신청서류 1식.zip) 공문과 함께 제출\n※ '표준 폴더' 내의 '진행 이력' 엑셀표에\n금번에 신청한 제품의 혁신제품 신청 이력을 기재해주시기 바랍니다.\n※ 추가등록의 경우,\n기존 제품의 혁신제품 지정서'를 '14 - 기타 관련 서류' 폴더에 넣어주시기 바랍니다.\n신청대상\n① 신규지정 (공통) 상업적 거래가 없거나, 최초 매출이 지정신청서 접수마감일기준으로 5년 이내인 제품\n② 추가등록\n제외대상\n*신청 사이트 참조\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n신청 유형(신규 지정·추가 등록) 및 분야별 요건 상이\n*신청 사이트 참조\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n현장평가·서류평가\n*신청 사이트 참조\n지원내용\n주요내용\nㅇ 국토교통과학기술 연구개발사업(R&D)을 통해 개발한 기술을 사업화한 제품, 혁신성 인정제품, 혁신정책 연계형 제품 대상으로 공공성, 혁신성 심사를 거쳐 선정된 제품을 “혁신제품”으로 지정\nㅇ “혁신제품”은 ‘국가를 당사자로 하는 계약’에서 수의계약 연계(지정기간 3년) 등 지원\n문의처\n국토교통과학기술진흥원 산업진흥본부 기업성장지원실\n고승범 선임연구원(031-389-6568)\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n2026년도_2차_국토교통부_혁신제품_지정_공고문.hwpx\n바로보기\n다운로드\n2026년도_2차_국토교통부_혁신제품_지정_공고문.pdf\n바로보기\n다운로드\n별첨1 - (분야1,2,3) 신청 시 신청분야 - 국가과학기술표준분류체계(과기부, 23.2).hwpx\n바로보기\n다운로드\n별첨2 - (분야2) 중소기업기술마켓(SOC 공공기관 협의체) 유형 신청 시 신청분야.hwp\n바로보기\n다운로드\n★★★(공통) 작성시 주의사항 (1).txt\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "2026년도_2차_국토교통부_혁신제품_지정_공고문.hwpx",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/6v9Ln"
+        },
+        {
+          "name": "2026년도_2차_국토교통부_혁신제품_지정_공고문.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/Mv9Ln"
+        },
+        {
+          "name": "별첨1 - (분야1,2,3) 신청 시 신청분야 - 국가과학기술표준분류체계(과기부, 23.2).hwpx",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/Nv9Ln"
+        },
+        {
+          "name": "별첨2 - (분야2) 중소기업기술마켓(SOC 공공기관 협의체) 유형 신청 시 신청분야.hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/7v9Ln"
+        },
+        {
+          "name": "★★★(공통) 작성시 주의사항 (1).txt",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/8v9Ln"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178088,
       "title": "2026년 제2차 I-PLEX광주 신규 입주기업 모집공고",
       "organization": "(재)광주테크노파크",
@@ -8247,7 +8418,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "연구기관",
@@ -8301,7 +8472,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업",
@@ -8354,7 +8525,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "대학생",
@@ -8399,7 +8570,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "청소년",
@@ -8454,7 +8625,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반인",
@@ -8506,7 +8677,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업",
@@ -8559,7 +8730,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업"
@@ -8607,7 +8778,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업"
@@ -8686,7 +8857,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업",
@@ -8734,7 +8905,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "대학생",
@@ -8785,7 +8956,7 @@
       "application_period": {
         "start": "2026-05-29",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "청소년",
@@ -8831,7 +9002,7 @@
       "application_period": {
         "start": "2026-05-01",
         "end": "2026-06-25",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "청소년",
@@ -8885,6 +9056,50 @@
       ]
     },
     {
+      "pbanc_sn": 178105,
+      "title": "중소벤처기업진흥공단 안산창업보육센터 신규 입주기업 모집공고",
+      "organization": "에스엠비컨설팅(중소벤처기업진흥공단 안산창업보육센터장)",
+      "supervising_institution": "민간",
+      "category": "시설ㆍ공간ㆍ보육",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-11",
+        "end": "2026-06-26",
+        "d_day": "D-12"
+      },
+      "target": [
+        "일반인",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "7년미만"
+      ],
+      "age": [
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0314927854",
+      "summary": "중소벤처기업진흥공단 안산POST-BI센터에서는 유망 기술력 보유 중소기업을 대상으로 기업 성장에 필요한 각종 지원을 통해 IPO를 지향하는 기업의 성장을 지원합니다. 창업 이후 도약을 희망하는 신규 입주기업을 아래와 같이 모집하오니 많은 관심과 참여 바랍니다.",
+      "application_target_detail": "- 기술성과 사업성이 우수한 창업 후 7년 이내 기업\n- 자체기술로 개발한 제품 보유, 자사 매출실적 증빙이 가능한 기업\n- 일반BI 및 청년창업사관학교 졸업기업 우대 등\n- 입주 1개월 이내 중진공 안산POST-BI센터에 본점 이전이 가능한 기업",
+      "exclusion_target": "- 중소기업창업 지원법 시행령 제4조에 해당되는 업종\n- 금융기관으로부터 불량거래자로 규제받고 있는 자 또는 기업\n- 국세 또는 지방세 체납 중인 자 또는 기업\n- 입주 심사위원회에서 부적합하다고 인정하는 자 또는 기업",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178105",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "중소벤처기업진흥공단 안산창업보육센터 신규 입주기업 모집공고\n지원분야\n시설ㆍ공간ㆍ보육\n대상연령\n만 20세 이상 ~ 만 39세 이하, 만 40세 이상\n기관구분\n민간\n담당부서\n창업보육센터\n지역\n전국\n접수기간\n2026-06-11 ~ 2026-06-26 18:00\n주관기관명\n에스엠비컨설팅\n대상\n일반인, 일반기업, 1인 창조기업\n창업업력\n7년미만\n연락처\n031-492-7854\n중소벤처기업진흥공단 안산 창업보육센터 신규 입주기업 모집공고\n중소벤처기업진흥공단 안산창업보육센터 신규 입주기업 모집공고\n중소벤처기업진흥공단 안산POST-BI센터에서는 유망 기술력 보유 중소기업을 대상으로 기업 성장에 필요한 각종 지원을 통해 IPO를 지향하는 기업의 성장을 지원합니다. 창업 이후 도약을 희망하는 신규 입주기업을 아래와 같이 모집하오니 많은 관심과 참여 바랍니다.\n2026년 06월 11일\n에스엠비컨설팅(중소벤처기업진흥공단 안산창업보육센터장)\n신청방법 및 대상\n신청기간\n2026.06.11(목) 15:00\r\n~\r\n2026.06.26(금) 18:00\r\n까지\n신청방법\n이메일 접수 : ansanbi@naver.com\n신청대상\n- 기술성과 사업성이 우수한 창업 후 7년 이내 기업\n- 자체기술로 개발한 제품 보유, 자사 매출실적 증빙이 가능한 기업\n- 일반BI 및 청년창업사관학교 졸업기업 우대 등\n- 입주 1개월 이내 중진공 안산POST-BI센터에 본점 이전이 가능한 기업\n제외대상\n- 중소기업창업 지원법 시행령 제4조에 해당되는 업종\n- 금융기관으로부터 불량거래자로 규제받고 있는 자 또는 기업\n- 국세 또는 지방세 체납 중인 자 또는 기업\n- 입주 심사위원회에서 부적합하다고 인정하는 자 또는 기업\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n제출서류 : 입주신청서 및 사업계획서 등\n- [필수] 입주신청서 및 사업계획서(양식)\n- 사업자등록증 및 법인등기부등본\n- 최근 3개년 표준재무제표증명원\n- 4대보험 사업장 가입자명부\n- 인증서(벤처기업, 이노비즈, 여성, 장애인 등)\n- 기타관련서류(지식재산권, 수상 등)\n- 금융거래확인서 1부\n- 주주명부 사본 1부(해당자에 한함)\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n선정절차 및 평가방법(서류평가, 대면/서면평가 등)\n- 적격여부 검토 : 신청대상 및 제외대상 여부 확인 등\n- 1차 서류평가\n- 2차 (대면평가 or 서면평가) : 사업성, 기술성, 시장성, 경영능력 등 평가 진행(10분발표/10분질의)\n입주모집개요\n입주기업 모집 개요\n- 위치 : 경기도 안산시 단원구 연수원로 64\n- 모집규모 : 총 7개사\n(공유형 : 2석, 독립형: 5개사_ 23평형(3개), 27평(1개사), 58평형(1개사))\n- 입주부담금 및 월 임대료\n- 보증금 : 178,000원/평당 (예시 : 23평형 기준 : 4,094,000원)\n- 월 임대료 및 시설사용료 : 22,800원/평당 (예시 : 23평형 기준 : 524,400원)\n- 관리비(전기, 수도세 등) : 실비정산\n* 부가세 별도\n- 입주기간 : 최초 계약일로부터 1년(매년 연장평가 결과에 따라 재계약)\n- 입주시기 : 2026년 7월~8월 예정임\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n입주기업 지원사항\n- 입주기업 간 네트워킹 간담회 개최\n- 입주활동에 필요한 부대시설(공용회의실, 화상회의실, 휴게실 등) 제공\n- 사업화 지원 등\n문의처\n중소벤처기업진흥공단 안산 창업보육센터\n- 연락처 : 031-492-7854\n- E-Mail : ansanbi@naver.com\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n(신청양식)신청서-사업계획서-정보동의서(2026).hwp\n바로보기\n다운로드\n중진공 안산BI센터 입주기업 모집공고 안내문.pdf\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n목록",
+      "attachments": [
+        {
+          "name": "(신청양식)신청서-사업계획서-정보동의서(2026).hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/av9Ln"
+        },
+        {
+          "name": "중진공 안산BI센터 입주기업 모집공고 안내문.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/OI9Ln"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178074,
       "title": "2026 지역이음 관광기업 참여기업 모집(재공고)",
       "organization": "사단법인 한국지역개발연구원",
@@ -8894,7 +9109,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업"
@@ -8936,12 +9151,12 @@
       "title": "2026년 WoW!메이커스 투자유치 아카데미",
       "organization": "수원대학교 WoW!메이커스",
       "supervising_institution": "교육기관",
-      "category": "시설ㆍ공간ㆍ보육",
+      "category": "멘토링ㆍ컨설팅ㆍ교육",
       "region": "전국",
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -8998,7 +9213,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -9047,7 +9262,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "대학생",
@@ -9099,7 +9314,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "대학생",
@@ -9145,7 +9360,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -9195,7 +9410,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -9238,7 +9453,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업"
@@ -9291,7 +9506,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업"
@@ -9347,7 +9562,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -9410,7 +9625,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "대학",
@@ -9458,7 +9673,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -9513,7 +9728,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -9583,7 +9798,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -9640,7 +9855,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업"
@@ -9683,7 +9898,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "대학생",
@@ -9728,7 +9943,7 @@
       "application_period": {
         "start": "2026-05-27",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반인",
@@ -9784,7 +9999,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -9840,7 +10055,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -9896,7 +10111,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -9952,7 +10167,7 @@
       "application_period": {
         "start": "2026-05-04",
         "end": "2026-06-26",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업"
@@ -9999,7 +10214,7 @@
       "application_period": {
         "start": "2026-05-01",
         "end": "2026-06-27",
-        "d_day": "D-14"
+        "d_day": "D-13"
       },
       "target": [
         "대학생",
@@ -10044,7 +10259,7 @@
       "application_period": {
         "start": "2026-04-01",
         "end": "2026-06-27",
-        "d_day": "D-14"
+        "d_day": "D-13"
       },
       "target": [
         "대학생",
@@ -10100,7 +10315,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-28",
-        "d_day": "D-15"
+        "d_day": "D-14"
       },
       "target": [
         "청소년",
@@ -10147,7 +10362,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-28",
-        "d_day": "D-15"
+        "d_day": "D-14"
       },
       "target": [
         "청소년",
@@ -10206,7 +10421,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-28",
-        "d_day": "D-15"
+        "d_day": "D-14"
       },
       "target": [
         "청소년",
@@ -10252,6 +10467,52 @@
       ]
     },
     {
+      "pbanc_sn": 178103,
+      "title": "항공우주기술 기반 예비창업자 지원사업 「2026 STAR-Exploration」",
+      "organization": "조슈아파트너스(주)",
+      "supervising_institution": "민간",
+      "category": "멘토링ㆍ컨설팅ㆍ교육",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-11",
+        "end": "2026-06-29",
+        "d_day": "D-15"
+      },
+      "target": [
+        "청소년",
+        "대학생",
+        "일반인",
+        "대학"
+      ],
+      "startup_period": [
+        "예비창업자"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0423641002",
+      "summary": "항공.우주 기술을 기반으로 사업모델을 발굴하여, 고도화 지원을 통한 시제품 제작과 자금조달 및 시장진출을 희망하는 우수 예비창업자들을 모집합니다.",
+      "application_target_detail": "신청대상\t항공, 우주 기술에 관심있고, 관련 사업모델을 구상하고 있는 누구나[대학(원)생, 직장인, 일반인 등]\n*단, 사업자등록이 되어 있지 않아야 하며, 국세청 홈택스 발급 “사업자등록 사실증명원” 제출 필수",
+      "exclusion_target": "사업자등록 완료한 자사",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178103",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "항공우주기술 기반 예비창업자 지원사업 「2026 STAR-Exploration」\n사업안내 바로가기\n지원분야\n멘토링ㆍ컨설팅ㆍ교육\n대상연령\n전체\n기관구분\n민간\n담당부서\n엑셀러레이팅팀\n지역\n전국\n접수기간\n2026-06-11 ~ 2026-06-29 18:00\n주관기관명\n조슈아파트너스 주식회사\n대상\n청소년, 대학생, 일반인, 대학\n창업업력\n예비창업자\n연락처\n042-364-1002\n항공우주기술 기반 예비창업자 지원사업 「2026 STAR-Exploration」\n항공.우주 기술을 기반으로 사업모델을 발굴하여, 고도화 지원을 통한 시제품 제작과 자금조달 및 시장진출을 희망하는 우수 예비창업자들을 모집합니다.\n2026년 06월 11일\n조슈아파트너스(주)\n신청방법 및 대상\n신청기간\n2026.06.11(목) 15:00\r\n~\r\n2026.06.29(월) 18:00\r\n까지\n신청방법\n이메일 접수 : jp@jptnr.com\n신청대상\n신청대상 항공, 우주 기술에 관심있고, 관련 사업모델을 구상하고 있는 누구나[대학(원)생, 직장인, 일반인 등]\n*단, 사업자등록이 되어 있지 않아야 하며, 국세청 홈택스 발급 “사업자등록 사실증명원” 제출 필수\n제외대상\n사업자등록 완료한 자사\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n- 참가신청서 및 사업계획서\n- 개인정보 수집, 조회 및 활용 동의서\n- 사업자등록 사실증명원(*국세청 홈택스 발급)\n- [선택] 창업 아이템 소개자료, 기타 자료 등\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n선정평가(2026. 6월 중)\n평가일정은 신청서에 제출한 이메일주소로 개별 통보 예정\n행사안내\n일시 및 장소는 합격자에 한하여 추후 안내 예정\n참가비: 무료\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n맞춤형 창업지원 프로그램\n최종 합격된 자에 한하여 개별 안내 예정\n문의처\n042-364-1002\n조슈아파트너스 : 042-364-1002\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n항공우주기술 기반 예비창업자 지원 사업.hwpx\n바로보기\n다운로드\n항공우주기술 기반 예비창업자 지원 사업.png\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n목록",
+      "attachments": [
+        {
+          "name": "항공우주기술 기반 예비창업자 지원 사업.hwpx",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/qmbLn"
+        },
+        {
+          "name": "항공우주기술 기반 예비창업자 지원 사업.png",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/OmbLn"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 177881,
       "title": "2026 서울 라이프스타일 오픈이노베이션",
       "organization": "서울경제진흥원",
@@ -10261,7 +10522,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-29",
-        "d_day": "D-16"
+        "d_day": "D-15"
       },
       "target": [
         "일반기업"
@@ -10305,7 +10566,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반기업"
@@ -10377,7 +10638,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학생",
@@ -10428,7 +10689,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -10477,7 +10738,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -10531,7 +10792,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -10590,7 +10851,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -10636,7 +10897,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -10699,7 +10960,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -10761,7 +11022,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -10806,7 +11067,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학",
@@ -10878,7 +11139,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학생",
@@ -10935,7 +11196,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -10993,7 +11254,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -11056,7 +11317,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -11104,7 +11365,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -11159,7 +11420,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반기업",
@@ -11208,7 +11469,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -11267,7 +11528,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -11317,7 +11578,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -11368,7 +11629,7 @@
       "application_period": {
         "start": "2026-05-19",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반기업"
@@ -11411,7 +11672,7 @@
       "application_period": {
         "start": "2026-04-13",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반기업"
@@ -11466,7 +11727,7 @@
       "application_period": {
         "start": "2026-04-01",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학생",
@@ -11524,7 +11785,7 @@
       "application_period": {
         "start": "2026-03-11",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반기업",
@@ -11574,7 +11835,7 @@
       "application_period": {
         "start": "2026-01-13",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학생",
@@ -11635,7 +11896,7 @@
       "application_period": {
         "start": "2026-01-13",
         "end": "2026-06-30",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "일반인",
@@ -11691,7 +11952,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-07-01",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "대학",
@@ -11750,7 +12011,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-07-01",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "청소년",
@@ -11808,7 +12069,7 @@
       "application_period": {
         "start": "2026-05-20",
         "end": "2026-07-01",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "연구기관",
@@ -11860,7 +12121,7 @@
       "application_period": {
         "start": "2026-05-15",
         "end": "2026-07-01",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "청소년",
@@ -11914,7 +12175,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-07-02",
-        "d_day": "D-19"
+        "d_day": "D-18"
       },
       "target": [
         "청소년",
@@ -11954,6 +12215,61 @@
       ]
     },
     {
+      "pbanc_sn": 178117,
+      "title": "「2026 서울AI로봇쇼」혁신기업관 참가기업 모집",
+      "organization": "(재)서울경제진흥원",
+      "supervising_institution": "공공기관",
+      "category": "행사ㆍ네트워크",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-12",
+        "end": "2026-07-03",
+        "d_day": "D-19"
+      },
+      "target": [
+        "연구기관",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0222223882",
+      "summary": "‘로봇 친화 도시 서울’의 저변 확대를 위해 개최되는 「2026년 서울AI로봇쇼」에서 로봇 분야 스타트업 및 중소기업의 제품·서비스 홍보를 위한 혁신기업관을 운영합니다. 기업 제품 및 서비스의 홍보를 원하는 로봇 분야 스타트업 및 중소기업의 많은 신청 바랍니다.",
+      "application_target_detail": "〇 전시 및 투자유치를 희망하는 로봇 분야 스타트업 및 중소기업(자사 제품 보유 시 우대)\n  - 로봇 관련 기술을 보유하고 있거나 로봇 아이템을 토대로 사업을 영위하는 기업\n  - 로봇 관련 S/W를 개발하거나, 로봇관련 AI, 빅데이터 관련 사업을 영위하는 기업",
+      "exclusion_target": "",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178117",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "「2026 서울AI로봇쇼」혁신기업관 참가기업 모집\n사업안내 바로가기\n지원분야\n행사ㆍ네트워크\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n전략사업팀\n지역\n전국\n접수기간\n2026-06-12 ~ 2026-07-03 23:59\n주관기관명\n서울경제진흥원\n대상\n연구기관, 일반기업, 1인 창조기업\n창업업력\n전체\n연락처\n02-2222-3882\n「2026 서울AI로봇쇼」혁신기업관 참가기업 모집\n‘로봇 친화 도시 서울’의 저변 확대를 위해 개최되는 「2026년 서울AI로봇쇼」에서 로봇 분야 스타트업 및 중소기업의 제품·서비스 홍보를 위한 혁신기업관을 운영합니다. 기업 제품 및 서비스의 홍보를 원하는 로봇 분야 스타트업 및 중소기업의 많은 신청 바랍니다.\n2026년 06월 12일\n(재)서울경제진흥원\n신청방법 및 대상\n신청기간\n2026.06.12(금) 10:00\r\n~\r\n2026.07.03(금) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n〇 전시 및 투자유치를 희망하는 로봇 분야 스타트업 및 중소기업(자사 제품 보유 시 우대)\n- 로봇 관련 기술을 보유하고 있거나 로봇 아이템을 토대로 사업을 영위하는 기업\n- 로봇 관련 S/W를 개발하거나, 로봇관련 AI, 빅데이터 관련 사업을 영위하는 기업\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n공고문의 제출서류 참고\n〇 (필수)참가 신청서(표지, 2025~2026년 참여 박람회/전시회 전시 사진 포함 최대 6페이지)\n〇 (필수)개인정보 수집・이용 및 제공 동의서\n〇 (필수)사업자등록증 사본(최근 3개월 이내 발급분)\n〇 (필수)부스에 전시하는 제품/서비스 홍보 자료(브로셔, 시연 동영상 등)\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n공고문의 제출서류 참고\n외부 전문가로 평가위원회에서 기업이 제출한 문서를 기반으로 서류심 사\n행사안내\n공고문의 제출서류 참고\n〇 행 사 명 : 2026 서울AI로봇쇼 (2026 Seoul AI Robot Show)\n〇 기 간 : ’26. 10. 6.(화) ~ 10. 8.(목), 3일간\n〇 장 소 : 코엑스(COEX) 1층 B홀 및 컨퍼런스룸(남) 307호\n〇 프로그램 : 로봇 기술 전시 및 체험, 로봇산업 포럼 및 비즈니스 밋업\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n공고문의 제출서류 참고\n〇 기업 제품/서비스를 전시/홍보할 수 있는 부스 및 기본 집기 무료 제공\n※ 이외의 비용(운송비, 홍보비, 운영비 등)은 기업 부담\n〇 투자사와의 1:1 매칭을 통해 투자유치를 위한 기업별 맞춤형 상담 지원\n〇 참관객 설문조사 결과 피드백 제공 및 참관객이 선정한 우수 기업에 서울시장표창 수여\n문의처\n공고문의 제출서류 참고\n〇 서울경제진흥원 전략사업팀 안희환 책임: 02-2222-3882 / irene47@sba.seoul.kr\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n1. [공고문] 2026년도 서울AI로봇쇼 혁신기업관 참가기업 모집.pdf\n바로보기\n다운로드\n2. 2026년 서울AI로봇쇼 혁신기업관 참가 신청서_기업명.hwp\n바로보기\n다운로드\n3. 개인정보 수집_이용 및 제공동의서_기업명.hwp\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "1. [공고문] 2026년도 서울AI로봇쇼 혁신기업관 참가기업 모집.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/FmbLn"
+        },
+        {
+          "name": "2. 2026년 서울AI로봇쇼 혁신기업관 참가 신청서_기업명.hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/GmbLn"
+        },
+        {
+          "name": "3. 개인정보 수집_이용 및 제공동의서_기업명.hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/HmbLn"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 177718,
       "title": "[경기테크노파크, 무료교육] 2026년 디지털 전환 실습 전문가 양성 교육 교육생 모집",
       "organization": "(주)그란코",
@@ -11963,7 +12279,7 @@
       "application_period": {
         "start": "2026-05-18",
         "end": "2026-07-03",
-        "d_day": "D-20"
+        "d_day": "D-19"
       },
       "target": [
         "일반기업",
@@ -12012,7 +12328,7 @@
       "application_period": {
         "start": "2026-06-09",
         "end": "2026-07-05",
-        "d_day": "D-22"
+        "d_day": "D-21"
       },
       "target": [
         "청소년",
@@ -12067,7 +12383,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-07-05",
-        "d_day": "D-22"
+        "d_day": "D-21"
       },
       "target": [
         "청소년",
@@ -12122,7 +12438,7 @@
       "application_period": {
         "start": "2026-05-15",
         "end": "2026-07-05",
-        "d_day": "D-22"
+        "d_day": "D-21"
       },
       "target": [
         "대학생",
@@ -12163,6 +12479,76 @@
       ]
     },
     {
+      "pbanc_sn": 178115,
+      "title": "2026년 스타트업·벤처 캠퍼스(SVC) 사전 프로그램 창업기업 2차 모집공고",
+      "organization": "중소벤처기업부 장관",
+      "supervising_institution": "공공기관",
+      "category": "글로벌",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-15",
+        "end": "2026-07-06",
+        "d_day": "D-22"
+      },
+      "target": [
+        "청소년",
+        "대학생",
+        "일반인",
+        "대학",
+        "연구기관",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0444101873",
+      "summary": "글로벌 경쟁력을 갖춘 창업기업의 해외 진출 지원 및 투자유치 역량 강화 등을 통해 글로벌 스케일업을 촉진하기 위한 '스타트업·벤처 캠퍼스(SVC) 사전 프로그램'에 참여할 창업기업을 다음과 같이 모집공고합니다.",
+      "application_target_detail": "최근 3년 내 누적 투자유치 실적(10억원 이상)을 보유한 7년 이내 창업기업(단, 신산업창업분야 해당시 업력 10년 이내)\n * 최근 3년 : '23.6월~'26.7.6.(신청접수마감일) [세부내용은 공고문 내 '신청 자격 및 요건' 참조]",
+      "exclusion_target": "공고문 내 신청제외대상 참조",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178115",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "2026년 스타트업·벤처 캠퍼스(SVC) 사전 프로그램 창업기업 2차 모집공고\n지원분야\n글로벌\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n글로벌전략실\n지역\n전국\n접수기간\n2026-06-15 ~ 2026-07-06 15:00\n주관기관명\n창업진흥원\n대상\n전체\n창업업력\n7년미만, 10년미만\n연락처\n044-410-1873\n중소벤처기업부 공고 제2026-391호\n2026년 스타트업·벤처 캠퍼스(SVC) 사전 프로그램 창업기업 2차 모집공고\n글로벌 경쟁력을 갖춘 창업기업의 해외 진출 지원 및 투자유치 역량 강화 등을 통해 글로벌 스케일업을 촉진하기 위한 '스타트업·벤처 캠퍼스(SVC) 사전 프로그램'에 참여할 창업기업을 다음과 같이 모집공고합니다.\n2026년 06월 15일\n중소벤처기업부 장관\n신청방법 및 대상\n신청기간\n2026.06.15(월) 09:00\r\n~\r\n2026.07.06(월) 15:00\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n최근 3년 내 누적 투자유치 실적(10억원 이상)을 보유한 7년 이내 창업기업(단, 신산업창업분야 해당시 업력 10년 이내)\n* 최근 3년 : '23.6월~'26.7.6.(신청접수마감일) [세부내용은 공고문 내 '신청 자격 및 요건' 참조]\n제외대상\n공고문 내 신청제외대상 참조\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n창업기업 사업계획서(영문) 및 증빙서류\n※ 공공마이데이터 '동의' 시 행정정보(신분증, 사업자등록증명 등) 서류 자동 제출(단, 미동의 시 직접 제출 필요)\n* 세부내용은 공고문 및 (붙임2) 증빙서류 제출목록 안내 참조\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n요건검토(전과정)-서류평가-발표평가\n* 공고문 내 '평가 및 선정절차' 참조\n지원내용\n해외 투자유치 및 액셀러레이팅 프로그램(국내, 현지), 해외진출 자금(49백만원 내외) 지원\n* 공고문 내 '세부지원내용' 참조\n문의처\n시스템 및 사업 문의\n- 시스템 문의 : 국번없이 1357\n- 사업 문의 : 02-6956-2043, 2717~8\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n(공고문) 2026년 스타트업·벤처 캠퍼스(SVC) 사전 프로그램 창업기업 2차 모집공고.pdf\n바로보기\n다운로드\n(붙임1) 2026년 SVC 사전 프로그램 창업기업 2차 모집 사업계획서(영문 양식).hwp\n바로보기\n다운로드\n(붙임2) 2026년 SVC 사전 프로그램 창업기업 2차 모집 증빙서류 제출목록 안내(양식).hwp\n바로보기\n다운로드\n[별첨1] 국가별 액셀러레이터 소개자료.pdf\n바로보기\n다운로드\n[별첨2] 회원가입 및 정보등록 매뉴얼.pdf\n바로보기\n다운로드\n[별첨3] 사업신청 매뉴얼.pdf\n바로보기\n다운로드\n[별첨4] 공공 마이데이터 매뉴얼.pdf\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "(공고문) 2026년 스타트업·벤처 캠퍼스(SVC) 사전 프로그램 창업기업 2차 모집공고.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/bmbLn"
+        },
+        {
+          "name": "(붙임1) 2026년 SVC 사전 프로그램 창업기업 2차 모집 사업계획서(영문 양식).hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/cB9Ln"
+        },
+        {
+          "name": "(붙임2) 2026년 SVC 사전 프로그램 창업기업 2차 모집 증빙서류 제출목록 안내(양식).hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/0B9Ln"
+        },
+        {
+          "name": "[별첨1] 국가별 액셀러레이터 소개자료.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/WB9Ln"
+        },
+        {
+          "name": "[별첨2] 회원가입 및 정보등록 매뉴얼.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/XB9Ln"
+        },
+        {
+          "name": "[별첨3] 사업신청 매뉴얼.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/1B9Ln"
+        },
+        {
+          "name": "[별첨4] 공공 마이데이터 매뉴얼.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/2B9Ln"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178077,
       "title": "[ZUZU X 미라클랩 집중검토] Pre-Seed ~ Pre-A 스타트업 투자 검토 모집",
       "organization": "(주) 코드박스 Kodebox",
@@ -12172,7 +12558,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-07-07",
-        "d_day": "D-24"
+        "d_day": "D-23"
       },
       "target": [
         "대학",
@@ -12214,7 +12600,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-07-07",
-        "d_day": "D-24"
+        "d_day": "D-23"
       },
       "target": [
         "청소년",
@@ -12266,6 +12652,46 @@
       ]
     },
     {
+      "pbanc_sn": 178108,
+      "title": "2026년 경기북동부권연 청년 창업 챌린지",
+      "organization": "와이앤아처 주식회사",
+      "supervising_institution": "민간",
+      "category": "멘토링ㆍ컨설팅ㆍ교육",
+      "region": "경기",
+      "application_period": {
+        "start": "2026-06-22",
+        "end": "2026-07-09",
+        "d_day": "D-25"
+      },
+      "target": [
+        "대학생",
+        "일반인"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "07088331581",
+      "summary": "안녕하세요, 경기 북동부 청년 창업 챌린지 운영사 와이앤아처입니다.\n<2026년 경기 북동부권역 청년 창업챌린지>는 경기창업혁신공간 북동부권(구리) 및 RISE 대학 연계 스타트업 발굴·육성 사업의 일환으로 경기 북동부권역 청년 창업자 육성을 통한 지역 창업 생태계 활성화를 도모합니다.\n\n이에 아래와 같이 참여 예비 및 창업자를 모집하오니, 많은 관심 부탁드립니다.",
+      "application_target_detail": "경복대학교, 대진대학교, 차의과학대학교 재학생, 경기 북동부에 거주하는 일반 참여자 혹은 경기 북동부 사업자등록 의사가 있는 일반 참여자 (가평, 남양주,포천,구리)",
+      "exclusion_target": "신청대상 요건에 맞지 않는 창업자는 제외",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178108",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "2026년 경기북동부권연 청년 창업 챌린지\n사업안내 바로가기\n지원분야\n멘토링ㆍ컨설팅ㆍ교육\n대상연령\n만 20세 이상 ~ 만 39세 이하, 만 40세 이상\n기관구분\n민간\n담당부서\n밸류커넥트그룹\n지역\n경기도\n접수기간\n2026-06-22 ~ 2026-07-09 23:59\n주관기관명\n와이앤아처(주)\n대상\n대학생, 일반인\n창업업력\n전체\n연락처\n070-8833-1581\n2026-제4호\n2026년 경기북동부권연 청년 창업 챌린지\n안녕하세요, 경기 북동부 청년 창업 챌린지 운영사 와이앤아처입니다.\n<2026년 경기 북동부권역 청년 창업챌린지>는 경기창업혁신공간 북동부권(구리) 및 RISE 대학 연계 스타트업 발굴·육성 사업의 일환으로 경기 북동부권역 청년 창업자 육성을 통한 지역 창업 생태계 활성화를 도모합니다.\n이에 아래와 같이 참여 예비 및 창업자를 모집하오니, 많은 관심 부탁드립니다.\n2026년 06월 22일\n와이앤아처 주식회사\n신청방법 및 대상\n신청기간\n2026.06.22(월) 00:00\r\n~\r\n2026.07.09(목) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n경복대학교, 대진대학교, 차의과학대학교 재학생, 경기 북동부에 거주하는 일반 참여자 혹은 경기 북동부 사업자등록 의사가 있는 일반 참여자 (가평, 남양주,포천,구리)\n제외대상\n신청대상 요건에 맞지 않는 창업자는 제외\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n사업계획서\n구글폼 작성\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n서류평가\n서면 평가 진행\n지원내용\n창업 사업화 지원 및 상품 지급\n1. 프로그램 내용 : ①창업 기초 교육 ②서면 컨설팅 ③대면 컨설팅 ④IR 피칭 컨설팅 ⑤IR 데모데이\n2. 주요 혜택 : ①우수 기업 와이앤아처 예비투자심의 상정 ②우수 기업 상품 지급 (전자기기 예정) ③상장 수여\n문의처\n운영사무국\n070-8833-1581\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": []
+    },
+    {
       "pbanc_sn": 178030,
       "title": "2026 서울먹거리창업센터 18차 입주기업 신규 모집",
       "organization": "서울먹거리창업센터장",
@@ -12275,7 +12701,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-07-09",
-        "d_day": "D-26"
+        "d_day": "D-25"
       },
       "target": [
         "대학생",
@@ -12339,7 +12765,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-07-10",
-        "d_day": "D-27"
+        "d_day": "D-26"
       },
       "target": [
         "일반기업",
@@ -12388,7 +12814,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-07-10",
-        "d_day": "D-27"
+        "d_day": "D-26"
       },
       "target": [
         "대학생",
@@ -12440,7 +12866,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-07-12",
-        "d_day": "D-29"
+        "d_day": "D-28"
       },
       "target": [
         "청소년",
@@ -12495,7 +12921,7 @@
       "application_period": {
         "start": "2026-05-12",
         "end": "2026-07-12",
-        "d_day": "D-29"
+        "d_day": "D-28"
       },
       "target": [
         "청소년",
@@ -12541,6 +12967,52 @@
       ]
     },
     {
+      "pbanc_sn": 178109,
+      "title": "2026년 과학기술분야 R&D 대체인력 활용 지원사업 3차 모집 공고",
+      "organization": "한국여성과학기술인육성재단",
+      "supervising_institution": "공공기관",
+      "category": "기술개발(R&amp;D)",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-04",
+        "end": "2026-07-13",
+        "d_day": "D-29"
+      },
+      "target": [
+        "일반인",
+        "대학",
+        "연구기관",
+        "일반기업"
+      ],
+      "startup_period": [
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0264111064",
+      "summary": "과학기술분야 일·가정 양립지원 제도 활용 촉진을 위하여 2026년 3차 「과학기술분야 R&D 대체인력 활용 지원사업」모집 공고를 실시합니다.",
+      "application_target_detail": "- 출산・육아로 인한 휴직자 또는 단축근무자의 대체인력 신규 채용 기관\n- 육아기 연구자의 유연근무를 위한 추가 연구 인력 신규 채용 기관",
+      "exclusion_target": "",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178109",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "2026년 과학기술분야 R&D 대체인력 활용 지원사업 3차 모집 공고\n사업안내 바로가기\n지원분야\n기술개발(R&D)\n대상연령\n만 20세 이상 ~ 만 39세 이하, 만 40세 이상\n기관구분\n공공기관\n담당부서\nR&D경력복귀지원팀\n지역\n전국\n접수기간\n2026-06-04 ~ 2026-07-13 18:00\n주관기관명\n한국여성과학기술인육성재단(WISET)\n대상\n일반인, 대학, 연구기관, 일반기업\n창업업력\n1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만\n연락처\n02-6411-1064\nWISET 공고 제 2026-090호\n2026년 과학기술분야 R&D 대체인력 활용 지원사업 3차 모집 공고\n과학기술분야 일·가정 양립지원 제도 활용 촉진을 위하여 2026년 3차 「과학기술분야 R&D 대체인력 활용 지원사업」모집 공고를 실시합니다.\n2026년 06월 04일\n한국여성과학기술인육성재단\n신청방법 및 대상\n신청기간\n2026.06.04(목) 09:00\r\n~\r\n2026.07.13(월) 18:00\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n- 출산・육아로 인한 휴직자 또는 단축근무자의 대체인력 신규 채용 기관\n- 육아기 연구자의 유연근무를 위한 추가 연구 인력 신규 채용 기관\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n기관 및 인력 제출 서류 상이\n- 기관 : 사업신청서, 사업자등록증 사본, 재무제표증명원 등\n- 인력 : 사업신청서, 졸업증명서, 정부 지원 일자리 참여내역서 등\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n사업 공고 → 신청·접수 → 평가 및 선정 → 협약체결 및 사업비 지급 → 사업 수행 → 중간점검 → 사업비 정산\n지원내용\n기관의 인력 조건 및 활용수요에 따라 2개 트랙, 4개 유형 지원\n- 트랙1 : 출산・육아로 인한 휴직자 또는 단축근무자의 대체인력 신규채용 시 인건비 지원\n(학/석사) 2,1000만원/연 , (박사) 2,300만원/연\n- 트랙2 : 육아기 연구자의 유연근무를 위한 추가 연구인력 신규채용 시 인건비 지원\n(인턴연구원)1,000만원, (박사연구원)3,000만원/연\n문의처\nWISET R&D경력복귀지원팀\n02-6411-1064, djjeong@wiset.or.kr\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n[공고문] 2026년 과학기술분야 R&D 대체인력 활용 지원사업 3차 모집 공고.pdf\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "[공고문] 2026년 과학기술분야 R&D 대체인력 활용 지원사업 3차 모집 공고.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/MI9Ln"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 177890,
       "title": "[국비전액무료] 생성형 AI를 활용한 콘텐츠 크리에티브 디자이너 모집",
       "organization": "종로여성인력개발센터",
@@ -12550,7 +13022,7 @@
       "application_period": {
         "start": "2026-05-29",
         "end": "2026-07-13",
-        "d_day": "D-30"
+        "d_day": "D-29"
       },
       "target": [
         "일반인"
@@ -12604,7 +13076,7 @@
       "application_period": {
         "start": "2026-05-28",
         "end": "2026-07-13",
-        "d_day": "D-30"
+        "d_day": "D-29"
       },
       "target": [
         "청소년",
@@ -12655,7 +13127,7 @@
       "application_period": {
         "start": "2026-06-12",
         "end": "2026-07-15",
-        "d_day": "D-32"
+        "d_day": "D-31"
       },
       "target": [
         "대학",
@@ -12697,7 +13169,7 @@
       "application_period": {
         "start": "2026-06-10",
         "end": "2026-07-17",
-        "d_day": "D-34"
+        "d_day": "D-33"
       },
       "target": [
         "청소년",
@@ -12755,7 +13227,7 @@
       "application_period": {
         "start": "2026-06-15",
         "end": "2026-07-20",
-        "d_day": "D-37"
+        "d_day": "D-36"
       },
       "target": [
         "대학생",
@@ -12802,7 +13274,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-07-21",
-        "d_day": "D-38"
+        "d_day": "D-37"
       },
       "target": [
         "청소년",
@@ -12852,7 +13324,7 @@
       "application_period": {
         "start": "2026-04-24",
         "end": "2026-07-21",
-        "d_day": "D-38"
+        "d_day": "D-37"
       },
       "target": [
         "청소년",
@@ -12891,6 +13363,57 @@
       ]
     },
     {
+      "pbanc_sn": 178116,
+      "title": "2026년 구미시 스타트업 필드 2차 입주기업 모집 공고",
+      "organization": "구미전자정보기술원",
+      "supervising_institution": "공공기관",
+      "category": "시설ㆍ공간ㆍ보육",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-15",
+        "end": "2026-07-24",
+        "d_day": "D-40"
+      },
+      "target": [
+        "대학생",
+        "일반인",
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "예비창업자",
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "05446470017002",
+      "summary": "구미시에서 우수 기술을 보유한 창업기업 발굴 및 육성하기 위해 조성한 스타트업 필드의 입주기업을 다음과 같이 모집 공고합니다.",
+      "application_target_detail": "1. 예비창업 또는 창업 후 7년 이내 창업 기업\n2. 사업장 주소 : 구미소재 기업 및 구미(본사)로 이전 계획 기업\n- 선정 후 60일 이내 본사 소재 및 근로자(대표 포함) 70% 이전 필",
+      "exclusion_target": "공고문 참고",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178116",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "2026년 구미시 스타트업 필드 2차 입주기업 모집 공고\n사업안내 바로가기\n지원분야\n시설ㆍ공간ㆍ보육\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n창업성장지원센터\n지역\n전국\n접수기간\n2026-06-15 ~ 2026-07-24 15:00\n주관기관명\n구미전자정보기술원\n대상\n대학생, 일반인, 일반기업, 1인 창조기업\n창업업력\n예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만\n연락처\n054-464-7001~7002\n구미전자정보기술원 공고 2026 - 167호\n2026년 구미시 스타트업 필드 2차 입주기업 모집 공고\n구미시에서 우수 기술을 보유한 창업기업 발굴 및 육성하기 위해 조성한 스타트업 필드의 입주기업을 다음과 같이 모집 공고합니다.\n2026년 06월 15일\n구미전자정보기술원\n신청방법 및 대상\n신청기간\n2026.06.15(월) 09:00\r\n~\r\n2026.07.24(금) 15:00\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n1. 예비창업 또는 창업 후 7년 이내 창업 기업\n2. 사업장 주소 : 구미소재 기업 및 구미(본사)로 이전 계획 기업\n- 선정 후 60일 이내 본사 소재 및 근로자(대표 포함) 70% 이전 필\n제외대상\n공고문 참고\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n공유재산 사용신청서, 선정평가 발표자료\n1. 공유재산 사용신청서, 사업계획서, 첨부서류, 이전확약서, 개인정보이용동의서 등\n2. 선정평가 발표자료\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n선정절차 및 평가방법\n선발평가를 통한 선정\n입주모집개요\n입주모집 개요\n1. 입주공간 모집규모 : 총 5개 실\n※57.24㎡(1실), 62.64㎡(3실), 77.76㎡(1실)\n2. 입주공간 소재지 : 구미시 종합비즈니스지원센터 2~3층(구미시 구미대로 350-27)\n3. 입주기간 : 기본 3년(1년 단위 갱신), 연장평가에 따라 최대 2년 추가\n4. 입주비용 : 월 임대료 ㎡당 1,426원, 구미시 이전 기업의 경우 3년 감면(2년 전액 + 1년 50%)\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n지원내용\n입주공간, 리모델링비\n문의처\n문의처\n창업성장지원센터 054) 464-7001~7002\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n(공고문) 2026년 구미시 스타트업 필드 2차 입주기업 모집공고.pdf\n바로보기\n다운로드\n공유재산 사용 신청서.hwp\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "(공고문) 2026년 구미시 스타트업 필드 2차 입주기업 모집공고.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/1mbLn"
+        },
+        {
+          "name": "공유재산 사용 신청서.hwp",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/2mbLn"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178016,
       "title": "2026 울산 여성 창업기업 육성 지원 참가자 모집 ",
       "organization": "재단법인 여성기업종합지원센터 울산센터",
@@ -12900,7 +13423,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-07-31",
-        "d_day": "D-48"
+        "d_day": "D-47"
       },
       "target": [
         "대학생",
@@ -12948,7 +13471,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-07-31",
-        "d_day": "D-48"
+        "d_day": "D-47"
       },
       "target": [
         "대학생",
@@ -13002,7 +13525,7 @@
       "application_period": {
         "start": "2026-06-04",
         "end": "2026-07-31",
-        "d_day": "D-48"
+        "d_day": "D-47"
       },
       "target": [
         "청소년",
@@ -13069,7 +13592,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-07-31",
-        "d_day": "D-48"
+        "d_day": "D-47"
       },
       "target": [
         "청소년",
@@ -13120,7 +13643,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-07-31",
-        "d_day": "D-48"
+        "d_day": "D-47"
       },
       "target": [
         "청소년",
@@ -13175,7 +13698,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-08-06",
-        "d_day": "D-54"
+        "d_day": "D-53"
       },
       "target": [
         "대학생",
@@ -13222,7 +13745,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-08-31",
-        "d_day": "D-79"
+        "d_day": "D-78"
       },
       "target": [
         "일반기업",
@@ -13280,7 +13803,7 @@
       "application_period": {
         "start": "2026-05-01",
         "end": "2026-08-31",
-        "d_day": "D-79"
+        "d_day": "D-78"
       },
       "target": [
         "일반기업",
@@ -13341,7 +13864,7 @@
       "application_period": {
         "start": "2026-03-30",
         "end": "2026-08-31",
-        "d_day": "D-79"
+        "d_day": "D-78"
       },
       "target": [
         "대학생",
@@ -13387,7 +13910,7 @@
       "application_period": {
         "start": "2026-03-27",
         "end": "2026-08-31",
-        "d_day": "D-79"
+        "d_day": "D-78"
       },
       "target": [
         "청소년",
@@ -13435,7 +13958,7 @@
       "application_period": {
         "start": "2026-02-02",
         "end": "2026-08-31",
-        "d_day": "D-79"
+        "d_day": "D-78"
       },
       "target": [
         "일반인",
@@ -13485,7 +14008,7 @@
       "application_period": {
         "start": "2026-02-08",
         "end": "2026-09-01",
-        "d_day": "D-80"
+        "d_day": "D-79"
       },
       "target": [
         "청소년",
@@ -13536,7 +14059,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "대학생",
@@ -13587,7 +14110,7 @@
       "application_period": {
         "start": "2026-04-08",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "일반기업"
@@ -13640,7 +14163,7 @@
       "application_period": {
         "start": "2026-04-01",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "일반기업"
@@ -13684,7 +14207,7 @@
       "application_period": {
         "start": "2026-03-25",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "일반인",
@@ -13732,7 +14255,7 @@
       "application_period": {
         "start": "2026-03-12",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "청소년",
@@ -13803,7 +14326,7 @@
       "application_period": {
         "start": "2026-03-10",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "일반기업"
@@ -13847,7 +14370,7 @@
       "application_period": {
         "start": "2025-12-29",
         "end": "2026-09-30",
-        "d_day": "D-109"
+        "d_day": "D-108"
       },
       "target": [
         "청소년",
@@ -13901,7 +14424,7 @@
       "application_period": {
         "start": "2026-04-30",
         "end": "2026-10-30",
-        "d_day": "D-139"
+        "d_day": "D-138"
       },
       "target": [
         "일반기업"
@@ -13948,7 +14471,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2026-10-30",
-        "d_day": "D-139"
+        "d_day": "D-138"
       },
       "target": [
         "대학생",
@@ -13997,7 +14520,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-10-31",
-        "d_day": "D-140"
+        "d_day": "D-139"
       },
       "target": [
         "일반기업",
@@ -14053,7 +14576,7 @@
       "application_period": {
         "start": "2026-04-14",
         "end": "2026-10-31",
-        "d_day": "D-140"
+        "d_day": "D-139"
       },
       "target": [
         "청소년",
@@ -14114,7 +14637,7 @@
       "application_period": {
         "start": "2026-02-04",
         "end": "2026-10-31",
-        "d_day": "D-140"
+        "d_day": "D-139"
       },
       "target": [
         "청소년",
@@ -14168,7 +14691,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-11-06",
-        "d_day": "D-146"
+        "d_day": "D-145"
       },
       "target": [
         "일반기업",
@@ -14230,7 +14753,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2026-11-06",
-        "d_day": "D-146"
+        "d_day": "D-145"
       },
       "target": [
         "청소년",
@@ -14275,7 +14798,7 @@
       "application_period": {
         "start": "2026-02-23",
         "end": "2026-11-07",
-        "d_day": "D-147"
+        "d_day": "D-146"
       },
       "target": [
         "청소년",
@@ -14320,7 +14843,7 @@
       "application_period": {
         "start": "2026-02-24",
         "end": "2026-11-20",
-        "d_day": "D-160"
+        "d_day": "D-159"
       },
       "target": [
         "청소년",
@@ -14370,7 +14893,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-11-23",
-        "d_day": "D-163"
+        "d_day": "D-162"
       },
       "target": [
         "청소년",
@@ -14420,7 +14943,7 @@
       "application_period": {
         "start": "2026-03-03",
         "end": "2026-11-25",
-        "d_day": "D-165"
+        "d_day": "D-164"
       },
       "target": [
         "청소년",
@@ -14472,7 +14995,7 @@
       "application_period": {
         "start": "2026-04-13",
         "end": "2026-11-27",
-        "d_day": "D-167"
+        "d_day": "D-166"
       },
       "target": [
         "청소년",
@@ -14526,7 +15049,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "청소년",
@@ -14580,7 +15103,7 @@
       "application_period": {
         "start": "2026-05-15",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "일반기업"
@@ -14633,7 +15156,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "일반기업",
@@ -14681,7 +15204,7 @@
       "application_period": {
         "start": "2026-04-03",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "일반기업"
@@ -14731,7 +15254,7 @@
       "application_period": {
         "start": "2026-02-20",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "청소년",
@@ -14780,7 +15303,7 @@
       "application_period": {
         "start": "2026-02-23",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "청소년",
@@ -14839,7 +15362,7 @@
       "application_period": {
         "start": "2026-02-13",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "청소년",
@@ -14888,7 +15411,7 @@
       "application_period": {
         "start": "2026-02-09",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "대학생",
@@ -14942,7 +15465,7 @@
       "application_period": {
         "start": "2026-02-04",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "청소년",
@@ -14997,7 +15520,7 @@
       "application_period": {
         "start": "2026-01-27",
         "end": "2026-11-30",
-        "d_day": "D-170"
+        "d_day": "D-169"
       },
       "target": [
         "대학생",
@@ -15051,7 +15574,7 @@
       "application_period": {
         "start": "2026-03-03",
         "end": "2026-12-15",
-        "d_day": "D-185"
+        "d_day": "D-184"
       },
       "target": [
         "일반기업"
@@ -15089,6 +15612,51 @@
       ]
     },
     {
+      "pbanc_sn": 178113,
+      "title": "서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내",
+      "organization": "서울경제진흥원",
+      "supervising_institution": "공공기관",
+      "category": "사업화",
+      "region": "전국",
+      "application_period": {
+        "start": "2026-06-11",
+        "end": "2026-12-31",
+        "d_day": "D-200"
+      },
+      "target": [
+        "일반기업",
+        "1인 창조기업"
+      ],
+      "startup_period": [
+        "1년미만",
+        "2년미만",
+        "3년미만",
+        "5년미만",
+        "7년미만",
+        "10년미만"
+      ],
+      "age": [
+        "만 20세 미만",
+        "만 20세 이상 ~ 만 39세 이하",
+        "만 40세 이상"
+      ],
+      "contact": "0221152012",
+      "summary": "서울창업허브에서는 온라인을 통해 스타트업과 투자자를 연결하고, 이를 통해 창업생태계를 활성화시키기 위해 노력하고 있습니다.\n투자유치에 관심있는 스타트업분들께서는 스타트업플러스 플랫폼 온라인 투자밋업 플랫폼을 적극 활용 부탁드립니다.",
+      "application_target_detail": "투자유치에 관심있는 스타트업 누구나 (업력/분야제한 無)",
+      "exclusion_target": "",
+      "preferential": "",
+      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178113",
+      "detail_fetch_status": "success",
+      "detail_fetch_error": null,
+      "detail_raw": "서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내\n사업안내 바로가기\n지원분야\n사업화\n대상연령\n전체\n기관구분\n공공기관\n담당부서\n스케일업1팀\n지역\n전국\n접수기간\n2026-06-11 ~ 2026-12-31 23:59\n주관기관명\n서울경제진흥원\n대상\n일반기업, 1인 창조기업\n창업업력\n1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만\n연락처\n02-2115-2012\n서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내\n서울창업허브에서는 온라인을 통해 스타트업과 투자자를 연결하고, 이를 통해 창업생태계를 활성화시키기 위해 노력하고 있습니다.\n투자유치에 관심있는 스타트업분들께서는 스타트업플러스 플랫폼 온라인 투자밋업 플랫폼을 적극 활용 부탁드립니다.\n2026년 06월 11일\n서울경제진흥원\n신청방법 및 대상\n신청기간\n2026.06.11(목) 00:00\r\n~\r\n2026.12.31(목) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n투자유치에 관심있는 스타트업 누구나 (업력/분야제한 無)\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\nIR 자료\n팀소개, 기업연혁, 비즈니스모델 소개, 경쟁사비교, 향후 사업 일정, 사업목표 등 포함된 IR자료\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n투자밋업 신청\n1. 스타트업플러스 플랫폼 회원가입\n2. 스타트업플러스 플랫폼 '투자자 찾기'내 등록된 투자기관 선택\n3. 스타트업의 IR자료 제출\nSBA 승인\n승인기준: IR자료 충실도 및 스타트업-투자자 관심분야/금액 일치여부 기준으로 온라인 투자밋업 승인\n투자자 수락\n수락기준: 후속 밋업을 희망하는 스타트업을 대상으로 투자밋업 승인\n추후절차: 온라인 및 오프라인 밋업방법 및 연락처를 투자자에서 전달 (상세의견에서 확인가능)\n지원내용\n온라인 투자밋업\n스타트업-투자자 상시 온라인 투자밋업 신청기회 제공\n후속지원금\n스타트업플러스 플랫폼을 통해 최종 투자유치까지 집행된 스타트업 대상 300만원 지급\n문의처\n서울경제진흥원 스케일업1팀\nhylee1014@sba.seoul.kr\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n2026 스타트업플러스 투자밋업 이용 매뉴얼.pdf\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n사업신청 바로가기\n목록",
+      "attachments": [
+        {
+          "name": "2026 스타트업플러스 투자밋업 이용 매뉴얼.pdf",
+          "url": "https://www.k-startup.go.kr/afile/fileDownload/MB9Ln"
+        }
+      ]
+    },
+    {
       "pbanc_sn": 178023,
       "title": "[정부지원] 2026년 중소기업 AI 역량 강화 및 실무 자동화 교육생 모집 (인재키움 프리미엄)",
       "organization": "(주)메타코드에이치",
@@ -15098,7 +15666,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업",
@@ -15142,7 +15710,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학",
@@ -15201,7 +15769,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반인"
@@ -15238,7 +15806,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -15299,7 +15867,7 @@
       "application_period": {
         "start": "2026-04-27",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -15358,7 +15926,7 @@
       "application_period": {
         "start": "2026-04-21",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업"
@@ -15403,7 +15971,7 @@
       "application_period": {
         "start": "2026-04-22",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15458,7 +16026,7 @@
       "application_period": {
         "start": "2026-04-17",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15513,7 +16081,7 @@
       "application_period": {
         "start": "2026-04-06",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -15563,7 +16131,7 @@
       "application_period": {
         "start": "2026-04-03",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15622,7 +16190,7 @@
       "application_period": {
         "start": "2026-03-18",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15676,7 +16244,7 @@
       "application_period": {
         "start": "2026-03-17",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업"
@@ -15726,7 +16294,7 @@
       "application_period": {
         "start": "2026-03-30",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업"
@@ -15774,7 +16342,7 @@
       "application_period": {
         "start": "2026-03-27",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15831,7 +16399,7 @@
       "application_period": {
         "start": "2026-03-27",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -15886,7 +16454,7 @@
       "application_period": {
         "start": "2026-03-24",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업"
@@ -15937,7 +16505,7 @@
       "application_period": {
         "start": "2026-03-18",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -16000,7 +16568,7 @@
       "application_period": {
         "start": "2026-03-20",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업"
@@ -16048,7 +16616,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16093,7 +16661,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16138,7 +16706,7 @@
       "application_period": {
         "start": "2026-03-13",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업",
@@ -16182,7 +16750,7 @@
       "application_period": {
         "start": "2026-03-09",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "일반기업",
@@ -16235,7 +16803,7 @@
       "application_period": {
         "start": "2026-03-06",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학",
@@ -16291,7 +16859,7 @@
       "application_period": {
         "start": "2026-03-03",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16341,7 +16909,7 @@
       "application_period": {
         "start": "2026-01-01",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -16390,7 +16958,7 @@
       "application_period": {
         "start": "2026-02-06",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16440,7 +17008,7 @@
       "application_period": {
         "start": "2026-01-01",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -16492,7 +17060,7 @@
       "application_period": {
         "start": "2026-03-19",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16563,7 +17131,7 @@
       "application_period": {
         "start": "2026-01-05",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "1인 창조기업"
@@ -16612,7 +17180,7 @@
       "application_period": {
         "start": "2025-12-19",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16671,7 +17239,7 @@
       "application_period": {
         "start": "2025-10-27",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "대학생",
@@ -16729,7 +17297,7 @@
       "application_period": {
         "start": "2025-05-23",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16792,7 +17360,7 @@
       "application_period": {
         "start": "2024-12-03",
         "end": "2026-12-31",
-        "d_day": "D-201"
+        "d_day": "D-200"
       },
       "target": [
         "청소년",
@@ -16859,7 +17427,7 @@
       "application_period": {
         "start": "2026-04-09",
         "end": "2027-01-31",
-        "d_day": "D-232"
+        "d_day": "D-231"
       },
       "target": [
         "대학생",
@@ -16908,7 +17476,7 @@
       "application_period": {
         "start": "2026-02-01",
         "end": "2027-01-31",
-        "d_day": "D-232"
+        "d_day": "D-231"
       },
       "target": [
         "청소년",
@@ -16954,7 +17522,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2027-05-29",
-        "d_day": "D-350"
+        "d_day": "D-349"
       },
       "target": [
         "일반인",
@@ -17023,7 +17591,7 @@
       "application_period": {
         "start": "2026-05-04",
         "end": "2027-12-31",
-        "d_day": "D-566"
+        "d_day": "D-565"
       },
       "target": [
         "청소년",
@@ -17081,7 +17649,7 @@
       "application_period": {
         "start": "2026-04-20",
         "end": "2028-04-30",
-        "d_day": "D-687"
+        "d_day": "D-686"
       },
       "target": [
         "대학",
@@ -17144,7 +17712,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2030-12-31",
-        "d_day": "D-1662"
+        "d_day": "D-1661"
       },
       "target": [
         "청소년",
