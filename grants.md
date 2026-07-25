@@ -1,141 +1,29 @@
 ---
 title: K-Startup 모집중 공고
-total: 276
-fetched_at: 2026-07-24T18:22:54.004585+00:00
-fetched_at_kst: "2026-07-25 03:22 KST"
-detail_fetch_success: 276
+total: 275
+fetched_at: 2026-07-25T18:01:46.006879+00:00
+fetched_at_kst: "2026-07-26 03:01 KST"
+detail_fetch_success: 275
 detail_fetch_failed: 0
 source: https://www.data.go.kr/data/15125364/openapi.do
 refresh: 매일 KST 02:00
 ---
 
-# K-Startup 모집중 공고 (276건)
+# K-Startup 모집중 공고 (275건)
 
 > 창업진흥원 K-Startup 공공데이터 API + 상세 페이지 파싱 결과. 마감일 가까운 순. 매일 KST 02:00 갱신.
 
-상세 페이지 파싱 성공 **276건** / 실패 **0건**. 구조화 데이터는 [grants.json](./grants.json) 참고.
+상세 페이지 파싱 성공 **275건** / 실패 **0건**. 구조화 데이터는 [grants.json](./grants.json) 참고.
 
 **AI 사용 가이드:** 이 문서를 컨텍스트에 넣고 본인 프로필(예비/창업기업, 업력, 연령, 지역, 분야)에 맞는 공고를 추천하도록 요청하세요.
 
 ---
 
-## 1. [알리바바닷컴 주최 세계 최대 규모 제품기반 창업대회 「CoCreate Pitch Seoul 2026」 참가팀 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178382)
-
-- **기관**: 알리바바닷컴
-- 주관 민간 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-02 ~ 2026-07-25 (D-day)
-- **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
-- **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
-- **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
-- **문의**: 0221934206
-
-중소기업·0-to-1 스타트업·학생대상 세계 최대 제품기반 창업대회가 서울에서 처음 열립니다. 총 2억 원의 상금과 글로벌 교류 기회를 제공하며, 참가자를 다음과 같이 모집합니다.
-
-**신청 대상 상세**: 1. 일반 중소기업
-2. 0-to-1 스타트업
-3. 학생
-
-### 상세 페이지 본문 (K-Startup 원문)
-
-알리바바닷컴 주최 세계 최대 규모 제품기반 창업대회 「CoCreate Pitch Seoul 2026」 참가팀 모집공고
-사업안내 바로가기
-지원분야
-판로ㆍ해외진출
-대상연령
-전체
-기관구분
-민간
-담당부서
-알리바바 글로벌 마케팅팀
-지역
-전국
-접수기간
-2026-07-02 ~ 2026-07-25 23:59
-주관기관명
-알리바바닷컴코리아이커머스 유한회사
-대상
-전체
-창업업력
-전체
-연락처
-02-2193-4206
-알리바바닷컴 주최 세계 최대 규모 제품기반 창업대회 「CoCreate Pitch Seoul 2026」 참가팀 모집공고
-※(유의)해당 공고는 중소벤처기업부와 창업진흥원이 아닌 민간에서 지원하는 사업으로, 신청부터 관리까지 모든 과정을 해당기관에서 전담
-중소기업·0-to-1 스타트업·학생대상 세계 최대 제품기반 창업대회가 서울에서 처음 열립니다. 총 2억 원의 상금과 글로벌 교류 기회를 제공하며, 참가자를 다음과 같이 모집합니다.
-2026년 07월 02일
-알리바바닷컴
-신청방법 및 대상
-신청기간
-2026.07.02(목) 09:30
-~
-2026.07.25(토) 23:59
-까지
-신청방법
-온라인 접수 :
-접수 바로가기
-신청대상
-1. 일반 중소기업
-2. 0-to-1 스타트업
-3. 학생
-신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.
-제출서류
-별도 제출서류 없음
-온라인 신청서 내 필수 항목 작성
-- 이메일, 성명, 지역, 결선 참가 희망 지역, 지원 트랙, 제품 소개, 비즈니스 스토리 등
-제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.
-선정절차 및 평가방법
-Accio Work 다운로드 → 온라인 신청서 제출 → 서류심사 → 최종 후보자 선발 → 현장 피칭 및 최종평가
-- 서류심사: 제출 신청서 기반 평가
-- 후보자 선발: 프로젝트 경쟁력 및 종합 역량 평가
-- 최종심사: 현장 피칭 발표 및 심사위원 평가
-행사안내
-주요 일정 및 참가비
-- 접수 마감: 2026. 7. 25.(토)
-- 심사 기간: 2026년 7월 말 ~ 8월 10일
-- 최종 심사: 2026. 8. 25.(화)
-- 참가비: 무료
-상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.
-지원내용
-총 상금 규모 2억원➕ 금상: 7,000만 원/ 은상: 5,000만 원/ 동상: 3,000만 원
-- 금·은·동상 수상팀 외 결선 진출팀 전원 500만 원 상당 보상 제공
-- 상금 지급 방식: 현금 50% 및 Alibaba.com 크레딧/쿠폰 50%
-- 금·은·동상 수상팀 대상 CoCreate Los Angeles 초청 및 글로벌 교류 기회 제공
-- 여행경비 최대 500만 원 환급
-문의처
-이메일 문의
-cocreate@service.alibaba.com
-자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.
-K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니
-이점 유의하여 주시기 바랍니다.
-※(유의)해당 공고는 중소벤처기업부와 창업진흥원이 아닌 민간에서 지원하는 사업으로, 신청부터 관리까지 모든 과정을 해당기관에서 전담
-첨부파일 일괄 다운로드
-(첨부 1) CoCreate Pitch Seoul 2026 홍보 전단지(앞면).jpg
-바로보기
-다운로드
-(첨부 1) CoCreate Pitch Seoul 2026 홍보 전단지(앞면).txt
-바로보기
-다운로드
-(첨부 2) CoCreate Pitch Seoul 2026 홍보 전단지(뒷면).jpg
-바로보기
-다운로드
-(첨부 2) CoCreate Pitch Seoul 2026 홍보 전단지(뒷면).txt
-바로보기
-다운로드
-본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.
-사업신청 바로가기
-목록
-
-**첨부파일**:
-- [(첨부 1) CoCreate Pitch Seoul 2026 홍보 전단지(앞면).jpg](https://www.k-startup.go.kr/afile/fileDownload/aRbLn)
-- [(첨부 1) CoCreate Pitch Seoul 2026 홍보 전단지(앞면).txt](https://www.k-startup.go.kr/afile/fileDownload/dRbLn)
-- [(첨부 2) CoCreate Pitch Seoul 2026 홍보 전단지(뒷면).jpg](https://www.k-startup.go.kr/afile/fileDownload/YRbLn)
-- [(첨부 2) CoCreate Pitch Seoul 2026 홍보 전단지(뒷면).txt](https://www.k-startup.go.kr/afile/fileDownload/YocLn)
-
-## 2. [강북창업지원센터 브랜드 창업 아카데미 교육 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178577)
+## 1. [강북창업지원센터 브랜드 창업 아카데미 교육 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178577)
 
 - **기관**: 강북창업지원센터
 - 주관 교육기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-07-15 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-15 ~ 2026-07-26 (D-day)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -241,11 +129,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 3. [2026년 한국외대 창업보육센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178533)
+## 2. [2026년 한국외대 창업보육센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178533)
 
 - **기관**: 한국외국어대학교 연구산학협력단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-07-14 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-14 ~ 2026-07-26 (D-day)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -380,11 +268,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [입주호실(311호, 15평).hwpx](https://www.k-startup.go.kr/afile/fileDownload/W2cLn)
 - [입주호실(406호, 15평).hwpx](https://www.k-startup.go.kr/afile/fileDownload/X2cLn)
 
-## 4. [스터디/강의 무료 제공 임팩트 스타트업 성장 방법과 경로 (총 3회, 성수동)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178530)
+## 3. [스터디/강의 무료 제공 임팩트 스타트업 성장 방법과 경로 (총 3회, 성수동)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178530)
 
 - **기관**: 임팩트서클
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-13 ~ 2026-07-26 (D-day)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -484,11 +372,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [★260710_임팩트서클 스타터 스터디 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/V1cLn)
 - [★260710_임팩트서클 스타터 스터디 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/Q1cLn)
 
-## 5. [2026년 충청권 ICT이노베이션스퀘어 개발 역량 강화 멘토링](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178484)
+## 4. [2026년 충청권 ICT이노베이션스퀘어 개발 역량 강화 멘토링](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178484)
 
 - **기관**: 더함협동조합
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 충남
-- **접수**: 2026-07-01 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-01 ~ 2026-07-26 (D-day)
 - **신청 대상**: 대학생, 일반인
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -618,11 +506,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 충청권 ICT이노베이션스퀘어 개발역량강화 멘토링.jpg](https://www.k-startup.go.kr/afile/fileDownload/CkcLn)
 - [2026년 충청권 ICT이노베이션스퀘어 개발역량강화 멘토링.txt](https://www.k-startup.go.kr/afile/fileDownload/XlcLn)
 
-## 6. [동구 동명청년창작소 커머스빌딩 UP 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178470)
+## 5. [동구 동명청년창작소 커머스빌딩 UP 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178470)
 
 - **기관**: 동명청년창작소
 - 주관 지자체 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전남광주
-- **접수**: 2026-07-07 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-07 ~ 2026-07-26 (D-day)
 - **신청 대상**: 대학생, 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -762,11 +650,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 [커머스빌딩UP] 프로그램 참여기업 모집 공고문 및 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/S7cLn)
 
-## 7. [제 32기 포스코 아이디어 마켓플레이스(POSCO IMP) 투자트랙 기업 모집 연장 공고(~7/26 23:59)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178328)
+## 6. [제 32기 포스코 아이디어 마켓플레이스(POSCO IMP) 투자트랙 기업 모집 연장 공고(~7/26 23:59)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178328)
 
 - **기관**: POSCO IMP
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-26 (D-1)
+- **접수**: 2026-07-01 ~ 2026-07-26 (D-day)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -877,11 +765,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 POSCO IMP 32기 모집 수정공고 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/cIcLn)
 - [2026년 POSCO IMP 32기 모집 수정공고 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/bIcLn)
 
-## 8. [2026년 Agri-ESG Innovation Day 개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178232)
+## 7. [2026년 Agri-ESG Innovation Day 개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178232)
 
 - **기관**: 서울창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-29 ~ 2026-07-26 (D-1)
+- **접수**: 2026-06-29 ~ 2026-07-26 (D-day)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -985,11 +873,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임) 2026 Agri-ESG 포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/W2bLn)
 - [(붙임) 2026 Agri-ESG 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/X2bLn)
 
-## 9. [2026년 DB손해보험 교통환경챌린지 8기(스타트업지원사업 / 자금, 교육, 데모데이) 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178185)
+## 8. [2026년 DB손해보험 교통환경챌린지 8기(스타트업지원사업 / 자금, 교육, 데모데이) 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178185)
 
 - **기관**: 재단법인 환경재단
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-29 ~ 2026-07-26 (D-1)
+- **접수**: 2026-06-29 ~ 2026-07-26 (D-day)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1101,11 +989,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [교통환경챌린지 8기 창업기업 모집.jpg](https://www.k-startup.go.kr/afile/fileDownload/bkbLn)
 - [교통환경챌린지 8기 창업기업 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/e9bLn)
 
-## 10. [2026 창조경제혁신센터 글로벌오픈이노베이션 프로그램 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178604)
+## 9. [2026 창조경제혁신센터 글로벌오픈이노베이션 프로그램 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178604)
 
 - **기관**: (재)경기창조경제혁신센터
 - 주관 공공기관 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-07-17 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-17 ~ 2026-07-27 (D-1)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1207,11 +1095,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 6. Radial 개요 및 세부 수요기술.pdf](https://www.k-startup.go.kr/afile/fileDownload/gdcLn)
 - [붙임 7. (기업명) 2026 글로벌 오픈이노베이션 프로그램 개인정보동의서.pdf](https://www.k-startup.go.kr/afile/fileDownload/hdcLn)
 
-## 11. [2026  콘텐츠 스타트업 글로벌 엑셀러레이팅 프로그램(론치패드 UAE, 싱가포르) 참가기업 추가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178592)
+## 10. [2026  콘텐츠 스타트업 글로벌 엑셀러레이팅 프로그램(론치패드 UAE, 싱가포르) 참가기업 추가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178592)
 
 - **기관**: 한국콘텐츠진흥원
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-16 ~ 2026-07-27 (D-1)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1330,11 +1218,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[공고문] 2026 콘텐츠 스타트업 글로벌 엑셀러레이팅 프로그램(론치패드) 참가기업 추가 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/AHcLn)
 
-## 12. [ESG × AI 챌린지 해커톤 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178574)
+## 11. [ESG × AI 챌린지 해커톤 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178574)
 
 - **기관**: 경기창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-15 ~ 2026-07-27 (D-1)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1431,11 +1319,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [해커톤 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/24cLn)
 - [보호자동의서 및 개인정보제공동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/14cLn)
 
-## 13. [IBS(기초과학연구원)  Research Connect](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178540)
+## 12. [IBS(기초과학연구원)  Research Connect](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178540)
 
 - **기관**: (주)아이비유
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-14 ~ 2026-07-27 (D-1)
 - **신청 대상**: 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1530,11 +1418,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [기초과학연구원 연구성과교류회_포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/tfcLn)
 - [[IBS RESEARCH CONNECT] 유전체교정연구단 소개자료.pdf](https://www.k-startup.go.kr/afile/fileDownload/MfcLn)
 
-## 14. [2026 하반기 오렌지플래닛 정기모집(~7/27 14:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178466)
+## 13. [2026 하반기 오렌지플래닛 정기모집(~7/27 14:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178466)
 
 - **기관**: 오렌지플래닛 창업재단
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-08 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-08 ~ 2026-07-27 (D-1)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1637,11 +1525,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 오렌지플래닛 하반기 정기모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/BNcLn)
 - [2026 오렌지플래닛 하반기 정기모집 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/8lcLn)
 
-## 15. [2026년 대구콘텐츠코리아랩 추경 사업 미드폼 콘텐츠 제작지원 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178436)
+## 14. [2026년 대구콘텐츠코리아랩 추경 사업 미드폼 콘텐츠 제작지원 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178436)
 
 - **기관**: (재)대구디지털혁신진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 대구
-- **접수**: 2026-07-06 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-06 ~ 2026-07-27 (D-1)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -1737,11 +1625,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임3. 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/hscLn)
 - [포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/3scLn)
 
-## 16. [국비지원 K-스타일 비주얼 커머스 크리에이터 교육생 모집 | 패션·뷰티·주얼리 + AI 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178286)
+## 15. [국비지원 K-스타일 비주얼 커머스 크리에이터 교육생 모집 | 패션·뷰티·주얼리 + AI 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178286)
 
 - **기관**: 종로여성인력개발센터
 - 주관 민간 · 분야 창업교육 · 지역 서울
-- **접수**: 2026-06-25 ~ 2026-07-27 (D-2)
+- **접수**: 2026-06-25 ~ 2026-07-27 (D-1)
 - **신청 대상**: 일반인
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -1881,11 +1769,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 K-스타일 전단지_page-0002.jpg](https://www.k-startup.go.kr/afile/fileDownload/pfbLn)
 - [2026 K-스타일 전단지_page-0002.txt](https://www.k-startup.go.kr/afile/fileDownload/vfbLn)
 
-## 17. [수원도시재단 「2026 창업오디션」 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178275)
+## 16. [수원도시재단 「2026 창업오디션」 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178275)
 
 - **기관**: 수원도시재단
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-25 ~ 2026-07-27 (D-2)
+- **접수**: 2026-06-25 ~ 2026-07-27 (D-1)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2010,11 +1898,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(포스터)2026 창업오디션 모집.jpg](https://www.k-startup.go.kr/afile/fileDownload/9ebLn)
 - [(포스터)2026 창업오디션 모집 .txt](https://www.k-startup.go.kr/afile/fileDownload/cebLn)
 
-## 18. [청년 창업 실험실 &apos;G-스타트업랩&apos;](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177673)
+## 17. [청년 창업 실험실 &apos;G-스타트업랩&apos;](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177673)
 
 - **기관**: 김해의생명산업진흥원
 - 주관 공공기관 · 분야 창업교육 · 지역 경남
-- **접수**: 2026-07-21 ~ 2026-07-27 (D-2)
+- **접수**: 2026-07-21 ~ 2026-07-27 (D-1)
 - **신청 대상**: 대학생, 일반인, 대학
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2115,11 +2003,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임 1]청년 창업 실험실 'G-스타트업랩'사업 모집 공고문(재공고).hwp](https://www.k-startup.go.kr/afile/fileDownload/rvcLn)
 - [[붙임 2]청년 창업 실험실 'G-스타트업랩' 신청서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/svcLn)
 
-## 19. [2026 전북콘텐츠코리아랩 창·제작자 시제품 제작지원 2차 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178570)
+## 18. [2026 전북콘텐츠코리아랩 창·제작자 시제품 제작지원 2차 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178570)
 
 - **기관**: (재)전북특별자치도 콘텐츠융합진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 전북
-- **접수**: 2026-07-14 ~ 2026-07-28 (D-3)
+- **접수**: 2026-07-14 ~ 2026-07-28 (D-2)
 - **신청 대상**: 대학생, 일반인, 대학
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -2227,11 +2115,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. [공고문] 2026년 전북콘텐츠코리아랩 창·제작자 시제품 제작지원 2차 추가모집 연장.hwp](https://www.k-startup.go.kr/afile/fileDownload/QKcLn)
 - [붙임2. [운영안내서] 2026년 전북콘텐츠코리아랩 창·제작자 시제품 제작지원 2차 추가모집 연장.hwp](https://www.k-startup.go.kr/afile/fileDownload/kKcLn)
 
-## 20. [투자 유치를 꿈꾸는 창업자가 반드시 알아야 할 '투자생태계의 이해' - 제 7회 DDM 벤처스타트업 아카데미](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178545)
+## 19. [투자 유치를 꿈꾸는 창업자가 반드시 알아야 할 '투자생태계의 이해' - 제 7회 DDM 벤처스타트업 아카데미](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178545)
 
 - **기관**: 광운대학교산학협력단
 - 주관 교육기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-07-28 (D-3)
+- **접수**: 2026-07-14 ~ 2026-07-28 (D-2)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2319,11 +2207,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [홍보 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/MgcLn)
 - [홍보 포스터_대체텍스트.txt](https://www.k-startup.go.kr/afile/fileDownload/WgcLn)
 
-## 21. [서초창업스테이션 7월 창업 교육 - 비즈니스 프레젠테이션 스킬 및 자료 제작](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178523)
+## 20. [서초창업스테이션 7월 창업 교육 - 비즈니스 프레젠테이션 스킬 및 자료 제작](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178523)
 
 - **기관**: 서초창업스테이션
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-07-28 (D-3)
+- **접수**: 2026-07-13 ~ 2026-07-28 (D-2)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2412,11 +2300,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [7월창업교육_포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/XXcLn)
 - [7월창업교육_포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/1XcLn)
 
-## 22. [2026년 대학연대 창업 네트워크 캠프](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178511)
+## 21. [2026년 대학연대 창업 네트워크 캠프](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178511)
 
 - **기관**: 와이앤아처 주식회사
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-07-28 (D-3)
+- **접수**: 2026-07-14 ~ 2026-07-28 (D-2)
 - **신청 대상**: 대학생
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -2500,11 +2388,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 23. [2026년 대전 스타트업스쿨 스타트업 리딩클래스 (2회차 ㅣ 링크드인 Sales 1위가 알려주는 퍼스널 브랜딩의 핵심 노하우와 B2B 매출 플레이북 실전 사례)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178439)
+## 22. [2026년 대전 스타트업스쿨 스타트업 리딩클래스 (2회차 ㅣ 링크드인 Sales 1위가 알려주는 퍼스널 브랜딩의 핵심 노하우와 B2B 매출 플레이북 실전 사례)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178439)
 
 - **기관**: 대전창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-06 ~ 2026-07-28 (D-3)
+- **접수**: 2026-07-06 ~ 2026-07-28 (D-2)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2597,11 +2485,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(포스터) 2026 스타트업 리딩클래스_2회차.png](https://www.k-startup.go.kr/afile/fileDownload/2DcLn)
 - [(포스터) 2026 스타트업 리딩클래스_2회차.png](https://www.k-startup.go.kr/afile/fileDownload/eDcLn)
 
-## 24. [동대문구 창업지원센터 7월 메이커스페이스(레이저커터, 3D프린팅) 교육 일정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178319)
+## 23. [동대문구 창업지원센터 7월 메이커스페이스(레이저커터, 3D프린팅) 교육 일정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178319)
 
 - **기관**: 동대문구 창업지원센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-06-29 ~ 2026-07-28 (D-3)
+- **접수**: 2026-06-29 ~ 2026-07-28 (D-2)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2708,11 +2596,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[동대문구 창업지원센터] 7월 메이커스페이스 교육 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/CGbLn)
 - [[동대문구 창업지원센터]7월 메이커스페이스 교육 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/DGbLn)
 
-## 25. [2026년 부산 창업기업 액셀러레이팅 프로그램 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178647)
+## 24. [2026년 부산 창업기업 액셀러레이팅 프로그램 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178647)
 
 - **기관**: (재)부산창조경제혁신센터 대표이사
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 부산
-- **접수**: 2026-07-21 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-21 ~ 2026-07-29 (D-3)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -2822,11 +2710,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 부산 창업기업 액셀러레이팅 프로그램 모집 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/tm0Ln)
 - [2026 부산 창업기업 액셀러레이팅 프로그램 모집 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/Dm0Ln)
 
-## 26. [메이커스페이스 3D프린팅 교육/실습](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178630)
+## 25. [메이커스페이스 3D프린팅 교육/실습](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178630)
 
 - **기관**: 관악구청
 - 주관 지자체 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-15 ~ 2026-07-29 (D-3)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -2901,11 +2789,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 27. [국민대학교 캠퍼스타운사업단 2026 지역 현안 문제해결 연계 '성북 ON 창업교육 프로그램' 참가자 모집 (~7/29)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178585)
+## 26. [국민대학교 캠퍼스타운사업단 2026 지역 현안 문제해결 연계 '성북 ON 창업교육 프로그램' 참가자 모집 (~7/29)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178585)
 
 - **기관**: 국민대학교 캠퍼스타운사업단
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-16 ~ 2026-07-29 (D-3)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3033,11 +2921,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(모집포스터) 성북 ON 창업교육 프로그램.jpg](https://www.k-startup.go.kr/afile/fileDownload/REcLn)
 - [(모집포스터) 성북 ON 창업교육 프로그램.txt](https://www.k-startup.go.kr/afile/fileDownload/pEcLn)
 
-## 28. [2026년 서울창업허브 창동-조이시티 오픈이노베이션 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178566)
+## 27. [2026년 서울창업허브 창동-조이시티 오픈이노베이션 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178566)
 
 - **기관**: 서울창업허브 창동
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-15 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-15 ~ 2026-07-29 (D-3)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3158,11 +3046,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [3. 2026년 서울창업허브 창동-조이시티 오픈이노베이션 모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/AJcLn)
 - [4. 2026년 서울창업허브 창동-조이시티 오픈이노베이션 모집 문구.txt](https://www.k-startup.go.kr/afile/fileDownload/0KcLn)
 
-## 29. [2026 경기 스타트업 서밋 Invest Connect 2차 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178532)
+## 28. [2026 경기 스타트업 서밋 Invest Connect 2차 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178532)
 
 - **기관**: (재)경기도경제과학진흥원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-13 ~ 2026-07-29 (D-3)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3261,11 +3149,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [모집공고_2026 경기 스타트업 서밋 Invest Connect(2차).hwp](https://www.k-startup.go.kr/afile/fileDownload/72cLn)
 - [신청서식_2026 경기 스타트업 서밋 Invest Connect(2차).hwp](https://www.k-startup.go.kr/afile/fileDownload/82cLn)
 
-## 30. [2026년 G-Space 입주기업 발굴·육성사업 입주기업 추가 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178525)
+## 29. [2026년 G-Space 입주기업 발굴·육성사업 입주기업 추가 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178525)
 
 - **기관**: (재)경남창조경제혁신센터
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-13 ~ 2026-07-29 (D-3)
 - **신청 대상**: 일반인, 대학, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3364,11 +3252,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임2] 2026년 입주기업 발굴‧육성사업 참가신청 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/hXcLn)
 - [[별첨] 경남창업포털 메뉴얼.pdf](https://www.k-startup.go.kr/afile/fileDownload/3XcLn)
 
-## 31. [2026년 제주 중장년 기술창업센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178435)
+## 30. [2026년 제주 중장년 기술창업센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178435)
 
 - **기관**: 제주 중장년 기술창업센터
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 제주
-- **접수**: 2026-07-03 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-03 ~ 2026-07-29 (D-3)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3503,11 +3391,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 제주 중장년 기술창업센터 입주기업 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/tscLn)
 - [[별첨] 2026년 제주 중장년 기술창업센터 입주 신청서류 양식 일체.hwp](https://www.k-startup.go.kr/afile/fileDownload/5scLn)
 
-## 32. [( ?투자금 3억원!?)제8회 창업투자경진대회 B-스타트업챌린지](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178368)
+## 31. [( ?투자금 3억원!?)제8회 창업투자경진대회 B-스타트업챌린지](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178368)
 
 - **기관**: (재)부산기술창업투자원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-29 (D-4)
+- **접수**: 2026-07-01 ~ 2026-07-29 (D-3)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3622,11 +3510,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[신청서]제8회 창업투자경진대회 B-스타트업 챌린지 신청서_(기업명).hwp](https://www.k-startup.go.kr/afile/fileDownload/SybLn)
 - [제8회 B-스타트업챌린지 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/DTbLn)
 
-## 33. [강동 K-ISS멘토링센터 전담멘티 3기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178241)
+## 32. [강동 K-ISS멘토링센터 전담멘티 3기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178241)
 
 - **기관**: 주식회사 이노시아
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-24 ~ 2026-07-29 (D-4)
+- **접수**: 2026-06-24 ~ 2026-07-29 (D-3)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3724,11 +3612,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [전담멘티3기.png](https://www.k-startup.go.kr/afile/fileDownload/0HcLn)
 - [전담멘티3기.txt](https://www.k-startup.go.kr/afile/fileDownload/WHcLn)
 
-## 34. [무료 웨비나 글로벌 시장을 위한 AI 마이크로 서비스 제작 실전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178625)
+## 33. [무료 웨비나 글로벌 시장을 위한 AI 마이크로 서비스 제작 실전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178625)
 
 - **기관**: The Bridge Circle (TBC)
 - 주관 민간 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-21 ~ 2026-07-30 (D-4)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3831,11 +3719,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임] 글로벌 시장을 위한 AI 마이크로 서비스 제작 실전.jpeg](https://www.k-startup.go.kr/afile/fileDownload/XUcLn)
 - [[붙임] 글로벌 시장을 위한 AI 마이크로 서비스 제작 실전.pdf](https://www.k-startup.go.kr/afile/fileDownload/1UcLn)
 
-## 35. [2026년 투자유치설명회 및 컨설팅 지원사업 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178620)
+## 34. [2026년 투자유치설명회 및 컨설팅 지원사업 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178620)
 
 - **기관**: 한국발명진흥회장
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-15 ~ 2026-07-30 (D-4)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3911,11 +3799,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(한국발명진흥회 공고 제2026-244호) 2026년 투자유치설명회 및 컨설팅 지원사업 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/TycLn)
 
-## 36. [화성 2026 ESG 기반 산업안전 컨설팅 참여기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178613)
+## 35. [화성 2026 ESG 기반 산업안전 컨설팅 참여기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178613)
 
 - **기관**: 협성대학교 RISE 사업단
 - 주관 교육기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-07-20 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-20 ~ 2026-07-30 (D-4)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -3989,11 +3877,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(협성대학교)2026 ESG 기반 산업안전 컨설팅 제출 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/ZxcLn)
 
-## 37. [2026년 세종특별자치시 나성동 AI융합창업보육센터 2차 입주기업(인큐베이팅룸) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178599)
+## 36. [2026년 세종특별자치시 나성동 AI융합창업보육센터 2차 입주기업(인큐베이팅룸) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178599)
 
 - **기관**: (재)세종창조경제혁신센터
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 세종
-- **접수**: 2026-07-13 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-13 ~ 2026-07-30 (D-4)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4157,11 +4045,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [3_인큐베이팅룸입주기업모집포스터.png](https://www.k-startup.go.kr/afile/fileDownload/ZacLn)
 - [3_인큐베이팅룸입주기업모집포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/kxcLn)
 
-## 38. [강동구 청년해냄센터 스타트업 영 그라운드 MVP 개발 해커톤 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178510)
+## 37. [강동구 청년해냄센터 스타트업 영 그라운드 MVP 개발 해커톤 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178510)
 
 - **기관**: 강동구 청년해냄센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-10 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-10 ~ 2026-07-30 (D-4)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4265,11 +4153,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026_스타트업영그라운드 MVP 개발 해커톤_모집공고.png](https://www.k-startup.go.kr/afile/fileDownload/A1cLn)
 - [2026_스타트업영그라운드 MVP 개발 해커톤_모집공고.txt](https://www.k-startup.go.kr/afile/fileDownload/61cLn)
 
-## 39. [2026 아트코리아랩 입주기업 모집 공모](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178499)
+## 38. [2026 아트코리아랩 입주기업 모집 공모](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178499)
 
 - **기관**: 예술경영지원센터
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-09 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-09 ~ 2026-07-30 (D-4)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4406,11 +4294,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. (신청서) 2026 아트코리아랩 입주기업 모집 신청서_.hwp](https://www.k-startup.go.kr/afile/fileDownload/IQcLn)
 - [붙임2. (통합서식) 2026 아트코리아랩 입주기업 모집 통합서식_.hwp](https://www.k-startup.go.kr/afile/fileDownload/BQcLn)
 
-## 40. [바이오·메디컬 연구인프라 활용 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178491)
+## 39. [바이오·메디컬 연구인프라 활용 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178491)
 
 - **기관**: 동국대학교 BMC창업보육센터
 - 주관 교육기관 · 분야 사업화 · 지역 경기
-- **접수**: 2026-07-09 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-09 ~ 2026-07-30 (D-4)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4554,11 +4442,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [『바이오·메디컬 연구인프라 활용 지원사업(추가)』 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/CVcLn)
 - [『바이오·메디컬 연구인프라 활용 지원사업(추가)』 웹포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/DVcLn)
 
-## 41. [동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178473)
+## 40. [동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178473)
 
 - **기관**: 동국대학교 창업보육센
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-08 ~ 2026-07-30 (D-5)
+- **접수**: 2026-07-08 ~ 2026-07-30 (D-4)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4693,11 +4581,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2-2. (양식) 산학협력과제 수행 희망서.hwp](https://www.k-startup.go.kr/afile/fileDownload/28cLn)
 - [4. [동국대학교 창업보육센터] 2026 신규 모집 호실.pdf](https://www.k-startup.go.kr/afile/fileDownload/J8cLn)
 
-## 42. [2026년 대학(원)생 한의약 창업 아이디어 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178369)
+## 41. [2026년 대학(원)생 한의약 창업 아이디어 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178369)
 
 - **기관**: 한국한의약진흥원
 - 주관 민간 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-06-30 ~ 2026-07-30 (D-5)
+- **접수**: 2026-06-30 ~ 2026-07-30 (D-4)
 - **신청 대상**: 대학생, 일반인, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4811,11 +4699,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2.2026년 대학(원)생 한의약 창업 아이디어 공모전 포스터.hwpx](https://www.k-startup.go.kr/afile/fileDownload/wpbLn)
 - [3. 2026년 대학(원)생 한의약 창업 아이디어 공모전 참가 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/vTbLn)
 
-## 43. [교육안내서울용산시제품제작소 메이커 장비교육 일정 및 신청_7월](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178357)
+## 42. [교육안내서울용산시제품제작소 메이커 장비교육 일정 및 신청_7월](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178357)
 
 - **기관**: 한국전자정보통신산업진흥회
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-06-30 ~ 2026-07-30 (D-5)
+- **접수**: 2026-06-30 ~ 2026-07-30 (D-4)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -4927,11 +4815,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 44. [강동구 청년해냄센터 취약분야 상시 컨설팅 7월 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178188)
+## 43. [강동구 청년해냄센터 취약분야 상시 컨설팅 7월 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178188)
 
 - **기관**: 강동구 청년해냄센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-19 ~ 2026-07-30 (D-5)
+- **접수**: 2026-06-19 ~ 2026-07-30 (D-4)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5018,11 +4906,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 45. [일본 후쿠오카 진출 지원 Plug in: Fukuoka #13 참가 스타트업 모집 공고(~ 7/31 18:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178640)
+## 44. [일본 후쿠오카 진출 지원 Plug in: Fukuoka #13 참가 스타트업 모집 공고(~ 7/31 18:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178640)
 
 - **기관**: (재)부산창조경제혁신센터 대표이사
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-21 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5136,11 +5024,11 @@ Plug in_ Fukuoka #13 모집 포스터.TXT
 - [Plug in_ Fukuoka #13 모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/EBcLn)
 - [Plug in_ Fukuoka #13 모집 포스터.TXT](https://www.k-startup.go.kr/afile/fileDownload/FBcLn)
 
-## 46. [강원 바이오·헬스케어 산업 AI 대전환 지원사업(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178619)
+## 45. [강원 바이오·헬스케어 산업 AI 대전환 지원사업(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178619)
 
 - **기관**: (재)강원창조경제혁신센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 강원
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5239,11 +5127,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 지역주도형 AI 대전환 지원사업 참여기업 모집공고(연장).pdf](https://www.k-startup.go.kr/afile/fileDownload/dycLn)
 - [붙임2. 지역주도형 AI 지원사업 참여기업 사업신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/YycLn)
 
-## 47. [2026년 서울창업허브 창동-동아사이언스 오픈이노베이션 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178616)
+## 46. [2026년 서울창업허브 창동-동아사이언스 오픈이노베이션 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178616)
 
 - **기관**: 서울창업허브 창동
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5364,11 +5252,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [3. 2026년 서울창업허브 창동-동아사이언스 오픈이노베이션 모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/tycLn)
 - [4. 2026년 서울창업허브 창동-동아사이언스 오픈이노베이션 모집 문구.txt](https://www.k-startup.go.kr/afile/fileDownload/5ycLn)
 
-## 48. [2026년 진주시 스타트업 디지털마케팅 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178612)
+## 47. [2026년 진주시 스타트업 디지털마케팅 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178612)
 
 - **기관**: (재)경남창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 경남
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5468,11 +5356,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 2. 2026년 진주시 스타트업 디지털 마케팅 지원사업 신청서 양식 1_기업명(대표자명).hwpx](https://www.k-startup.go.kr/afile/fileDownload/0xcLn)
 - [붙임 3. 2026년 진주시 스타트업 디지털 마케팅 지원사업 신청서 양식 2_기업명(대표자명).hwp](https://www.k-startup.go.kr/afile/fileDownload/WxcLn)
 
-## 49. [충남  43기 IP창업교육 여성 특화 과정 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178611)
+## 48. [충남  43기 IP창업교육 여성 특화 과정 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178611)
 
 - **기관**: 충남지식재산센터장
 - 주관 공공기관 · 분야 창업교육 · 지역 충남
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5559,11 +5447,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [공고용 2026 충남지식재산센터 43기 IP창업교육 여성특화 과정 교육생 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/xScLn)
 
-## 50. [2026년 하반기 SBA-신용보증기금 혁신 스타트업 보증지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178608)
+## 49. [2026년 하반기 SBA-신용보증기금 혁신 스타트업 보증지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178608)
 
 - **기관**: 서울경제진흥원
 - 주관 공공기관 · 분야 정책자금 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-13 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5671,11 +5559,11 @@ SBA-신용보증기금 혁신 스타트업 보증지원 사업 공고문.pdf
 **첨부파일**:
 - [SBA-신용보증기금 혁신 스타트업 보증지원 사업 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/XYcLn)
 
-## 51. [「민관협력 오픈이노베이션 지원」2026년  제2차 민간 선별추천형(Bottom-Up) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178605)
+## 50. [「민관협력 오픈이노베이션 지원」2026년  제2차 민간 선별추천형(Bottom-Up) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178605)
 
 - **기관**: 창업진흥원장
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -5768,11 +5656,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임1) 「민관협력 오픈이노베이션 지원」 2026년 제2차 민간 선별추천형 창업기업 모집공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/FxcLn)
 - [(붙임2) 「민관협력 오픈이노베이션 지원」 2026년 제2차 민간 선별추천형 창업기업 사업계획서 양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/HxcLn)
 
-## 52. [1인기업 & 예비·초기창업자 환영! 강동50+센터 공유사무실 입주자 추가모집(~26.7.31.(금))](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178601)
+## 51. [1인기업 & 예비·초기창업자 환영! 강동50+센터 공유사무실 입주자 추가모집(~26.7.31.(금))](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178601)
 
 - **기관**: 강동50플러스센터
 - 주관 지자체 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 40세 이상
@@ -5894,11 +5782,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 강동50플러스센터 공유사무실 신청서식.hwpx](https://www.k-startup.go.kr/afile/fileDownload/MdcLn)
 - [강동50플러스센터 2층 미디어실 영상 제작 촬영장비 목록.hwpx](https://www.k-startup.go.kr/afile/fileDownload/7dcLn)
 
-## 53. [2026년 2차 충남대학교 창업보육센터 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178594)
+## 52. [2026년 2차 충남대학교 창업보육센터 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178594)
 
 - **기관**: 충남대학교 미래창업원
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 대전
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6038,11 +5926,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임5. 입주부담금 산정 기준표.pdf](https://www.k-startup.go.kr/afile/fileDownload/UxcLn)
 - [붙임6. 2026년 2차 충남대학교 창업보육센터 입주 모집 공실 현황.pdf](https://www.k-startup.go.kr/afile/fileDownload/jTcLn)
 
-## 54. [(재)여성기업종합지원센터 제주센터 제2차 입주기업 모집 공고(~7/31)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178582)
+## 53. [(재)여성기업종합지원센터 제주센터 제2차 입주기업 모집 공고(~7/31)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178582)
 
 - **기관**: (재)여성기업종합지원센터 제주센
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 제주
-- **접수**: 2026-07-16 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-16 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6170,11 +6058,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[공고문] 2026-05호 제주센터 입주기업 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/4EcLn)
 - [[양식] 제주센터 입주신청서 및 사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/EEcLn)
 
-## 55. [2026년 서울창업허브 창동 투자 특화 프로그램 - IR 라운드(1회차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178569)
+## 54. [2026년 서울창업허브 창동 투자 특화 프로그램 - IR 라운드(1회차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178569)
 
 - **기관**: 서울창업허브 창동
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-15 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-15 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6269,11 +6157,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [포스터_투자 특화 프로그램(투자 상담회)_IR라운드(1회차).jpg](https://www.k-startup.go.kr/afile/fileDownload/YJcLn)
 - [포스터_투자 특화 프로그램(투자 상담회)_IR라운드(1회차).txt](https://www.k-startup.go.kr/afile/fileDownload/ZJcLn)
 
-## 56. [강원 바이오·헬스케어 산업 AI 대전환 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178564)
+## 55. [강원 바이오·헬스케어 산업 AI 대전환 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178564)
 
 - **기관**: (재)강원창조경제혁신센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 강원
-- **접수**: 2026-07-15 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-15 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6372,11 +6260,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 지역주도형 AI 대전환 지원사업 참여기업 모집공고(연장).pdf](https://www.k-startup.go.kr/afile/fileDownload/MIcLn)
 - [붙임2. 지역주도형 AI 지원사업 참여기업 사업신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/S3cLn)
 
-## 57. [2026년 경기 AI 혁신클러스터 AI 클러스터 오픈이노베이션 연계·실증 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178553)
+## 56. [2026년 경기 AI 혁신클러스터 AI 클러스터 오픈이노베이션 연계·실증 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178553)
 
 - **기관**: 경기도경제과학진흥원
 - 주관 민간 · 분야 사업화 · 지역 경기
-- **접수**: 2026-07-15 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-15 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6558,11 +6446,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[포스터]AI클러스터_오픈이노베이션_연계·실증_프로그램_모집.png](https://www.k-startup.go.kr/afile/fileDownload/kIcLn)
 - [[포스터]AI클러스터_오픈이노베이션_연계·실증_프로그램_모집.txt](https://www.k-startup.go.kr/afile/fileDownload/lIcLn)
 
-## 58. [2026년 특허출원·등록 비용 바우처 지원사업 9차(하반기 2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178546)
+## 57. [2026년 특허출원·등록 비용 바우처 지원사업 9차(하반기 2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178546)
 
 - **기관**: (사)한국중소기업발전협회
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-20 ~ 2026-07-31 (D-5)
 - **신청 대상**: 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6652,11 +6540,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. 2026년 특허출원·등록 비용 바우처 지원사업 참가신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/jgcLn)
 - [2. 2026년 특허출원·등록 비용 바우처 지원사업 신청서_개인정보동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/VgcLn)
 
-## 59. [조선대학교 앵커사업단 2026학년도 문화예술분야 스타트업 지원 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178544)
+## 58. [조선대학교 앵커사업단 2026학년도 문화예술분야 스타트업 지원 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178544)
 
 - **기관**: 조선대학교 앵커사업단
 - 주관 교육기관 · 분야 사업화 · 지역 전남광주
-- **접수**: 2026-07-15 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-15 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반인, 일반기업
 - **창업 기간**: 예비창업자, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6747,11 +6635,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. [공고문] 문화예술분야 스타트업 지원 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/vfcLn)
 - [2. [신청서] 문화예술분야 스타트업 지원 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/IfcLn)
 
-## 60. [26년 7월 스타트업 언론 홍보 지원사업 참가사 모집 공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178535)
+## 59. [26년 7월 스타트업 언론 홍보 지원사업 참가사 모집 공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178535)
 
 - **기관**: 스타트업 데일리
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-15 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6847,11 +6735,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [언론 홍보 지원사업 안내문 및 보도문안 양식_2026년.hwp](https://www.k-startup.go.kr/afile/fileDownload/v2cLn)
 
-## 61. [dcamp startup OI #지역실증 스타트업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178512)
+## 60. [dcamp startup OI #지역실증 스타트업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178512)
 
 - **기관**: 재단법인 은행권청년창업재단
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-06 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-06 ~ 2026-07-31 (D-5)
 - **신청 대상**: 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -6979,11 +6867,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [스타트업OI 지역실증_썸네일A.txt](https://www.k-startup.go.kr/afile/fileDownload/T9cLn)
 - [스타트업OI 지역실증_썸네일A.png](https://www.k-startup.go.kr/afile/fileDownload/U9cLn)
 
-## 62. [국민대학교 청년도약 인재양성 부트캠프 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178493)
+## 61. [국민대학교 청년도약 인재양성 부트캠프 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178493)
 
 - **기관**: 국민대학교 글로벌창업벤처대학원
 - 주관 교육기관 · 분야 창업교육 · 지역 서울
-- **접수**: 2026-07-09 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-09 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인
 - **창업 기간**: 예비창업자, 1년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -7118,11 +7006,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 63. [전북센터 2026년 제2차 BI입주기업 신규 모집공고(~7.31까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178488)
+## 62. [전북센터 2026년 제2차 BI입주기업 신규 모집공고(~7.31까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178488)
 
 - **기관**: (재)여성기업종합지원센터 전북센터
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전북
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7228,11 +7116,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[양식] 전북센터 2026년 BI입주신청서 및 사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/sjcLn)
 - [전북센터 2026년 제2차 BI입주기업 신규 모집공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/tjcLn)
 
-## 64. [2026 진주시 창업아이디어 경진대회 참여자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178471)
+## 63. [2026 진주시 창업아이디어 경진대회 참여자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178471)
 
 - **기관**: 알에이치테크
 - 주관 공공기관 · 분야 사업화 · 지역 경남
-- **접수**: 2026-07-08 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-08 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7350,11 +7238,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 진주시 창업아이디어 경진대회 양식(2).hwp](https://www.k-startup.go.kr/afile/fileDownload/w8cLn)
 - [26년 진주시 창업아이디어 경진대회 포스터_금액수정.pdf](https://www.k-startup.go.kr/afile/fileDownload/CEcLn)
 
-## 65. [2026년 중소기업 동행교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178450)
+## 64. [2026년 중소기업 동행교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178450)
 
 - **기관**: 근로복지공단 인재개발원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-08 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-08 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7450,11 +7338,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임3)2026년 중소기업 동행교육 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/c6cLn)
 - [(붙임3)2026년 중소기업 동행교육_포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/06cLn)
 
-## 66. [NOROO Industrial Bio CONNECT 2026 오픈이노베이션 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178438)
+## 65. [NOROO Industrial Bio CONNECT 2026 오픈이노베이션 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178438)
 
 - **기관**: (주)아이비유
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-07 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-07 ~ 2026-07-31 (D-5)
 - **신청 대상**: 연구기관, 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7552,11 +7440,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [노루홀딩스 오픈이노베이션_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/ntcLn)
 - [노루홀딩스 오픈이노베이션_포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/WDcLn)
 
-## 67. [로그인로컬(#Login Local) 지역실증형 오픈이노베이션](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178428)
+## 66. [로그인로컬(#Login Local) 지역실증형 오픈이노베이션](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178428)
 
 - **기관**: 서울창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-06 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-06 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7672,11 +7560,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [로그인로컬(#Login Local) 지역실증형 오픈이노베이션 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/VEcLn)
 - [로그인로컬(#Login Local) 지역실증형 오픈이노베이션 모집 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/iEcLn)
 
-## 68. [벙커샷 파트너스 컴퍼니빌딩 프로그램 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178424)
+## 67. [벙커샷 파트너스 컴퍼니빌딩 프로그램 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178424)
 
 - **기관**: (주)벙커샷컴퍼니
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7786,11 +7674,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(주)벙커샷컴퍼니 2026년 컴퍼니빌딩 배치 3기 모집.png](https://www.k-startup.go.kr/afile/fileDownload/qqcLn)
 - [(주)벙커샷컴퍼니 2026년 컴퍼니빌딩 배치 3기 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/OqcLn)
 
-## 69. [충북대학교 『글로벌(G)테크벤처센터(BI) 』 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178418)
+## 68. [충북대학교 『글로벌(G)테크벤처센터(BI) 』 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178418)
 
 - **기관**: 충북대학교 글로벌(G)테크벤처센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 충북
-- **접수**: 2026-07-03 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-03 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -7942,11 +7830,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2.(필수)_글로벌 G테크벤처센터 입주신청서(사업계획서 포함).hwp](https://www.k-startup.go.kr/afile/fileDownload/OwcLn)
 - [충북대학교 G테크벤처센터 입주기업 모집 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/PwcLn)
 
-## 70. [화성시 소셜벤처 창업 아이디어 경진대회』 참여(예비)기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178390)
+## 69. [화성시 소셜벤처 창업 아이디어 경진대회』 참여(예비)기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178390)
 
 - **기관**: 화성특례시
 - 주관 지자체 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-02 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-02 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 5년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8044,11 +7932,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026_화성시_소셜벤처_창업아이디어_경진대회_포스터(모집공고).png](https://www.k-startup.go.kr/afile/fileDownload/mvbLn)
 - [2026_화성시_소셜벤처_창업아이디어_경진대회_포스터(모집공고).txt](https://www.k-startup.go.kr/afile/fileDownload/ABbLn)
 
-## 71. [「2026 전북특구 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업」배치프로그램 2기 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178388)
+## 70. [「2026 전북특구 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업」배치프로그램 2기 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178388)
 
 - **기관**: 주식회사 베타랩
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전북
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8137,11 +8025,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. (모집공고) 2026 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업 융복합 소재부품 분야 창업기업 및 예비창업자 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/jpbLn)
 - [2. (포스터) 2026 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업 융복합 소재부품 분야 창업기업 및 예비창업자 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/VpbLn)
 
-## 72. [2026년 07월 초기 창업기업 대상  벤처기업 인증 행정자문&전략 수립 기업모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178384)
+## 71. [2026년 07월 초기 창업기업 대상  벤처기업 인증 행정자문&전략 수립 기업모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178384)
 
 - **기관**: 박준범행정사사무소
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8260,11 +8148,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/KRbLn)
 - [개인정보 수집‧이용 제공 동의서.pdf](https://www.k-startup.go.kr/afile/fileDownload/4RbLn)
 
-## 73. [벤처확인인증 사전진단&일대일 무료 밋업 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178376)
+## 72. [벤처확인인증 사전진단&일대일 무료 밋업 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178376)
 
 - **기관**: (주)엠비즈플래닛 산하 혁신기술경영인증지원센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-02 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-02 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8370,11 +8258,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [벤처확인인증 사전진단&일대일 무료 밋업 지원사업.jpg](https://www.k-startup.go.kr/afile/fileDownload/VUbLn)
 - [벤처확인인증 사전진단&일대일 무료 밋업 지원사업.txt](https://www.k-startup.go.kr/afile/fileDownload/jUbLn)
 
-## 74. [2026 협성대학교 창업보육센터 하반기 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178358)
+## 73. [2026 협성대학교 창업보육센터 하반기 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178358)
 
 - **기관**: 협성대학교 창업보육센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8515,11 +8403,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(2026.6.30.)호실사진.pdf](https://www.k-startup.go.kr/afile/fileDownload/6xbLn)
 - [입주신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/MxbLn)
 
-## 75. [아시아 창업 엑스포(FLY ASIA 2026) FLY ASIA 해외 어워즈 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178355)
+## 74. [아시아 창업 엑스포(FLY ASIA 2026) FLY ASIA 해외 어워즈 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178355)
 
 - **기관**: 부산기술창업투자원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-30 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-30 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8625,11 +8513,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [아시아 창업 엑스포(FLY ASIA 2026) 해외 어워즈 참여기업 모집공고(국문)_최종.hwp](https://www.k-startup.go.kr/afile/fileDownload/ZSbLn)
 - [아시아 창업 엑스포(FLY ASIA 2026) 해외 어워즈 참여기업 모집공고(영문)_최종.hwp](https://www.k-startup.go.kr/afile/fileDownload/SSbLn)
 
-## 76. [아시아 창업 엑스포(FLY ASIA 2026) 『글로벌 스케일업 지원 사업』 글로벌 스케일업 챔피언스 어워즈 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178349)
+## 75. [아시아 창업 엑스포(FLY ASIA 2026) 『글로벌 스케일업 지원 사업』 글로벌 스케일업 챔피언스 어워즈 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178349)
 
 - **기관**: 부산기술창업투자원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 부산
-- **접수**: 2026-06-30 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-30 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8723,11 +8611,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [아시아 창업 엑스포(FLY ASIA 2026) 글로벌 스케일업 챔피언스 어워즈 모집공고_최종.pdf](https://www.k-startup.go.kr/afile/fileDownload/tSbLn)
 
-## 77. [국비지원 AI 기반 서비스 개발·사업화 1인 창업가 캠프 6기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178347)
+## 76. [국비지원 AI 기반 서비스 개발·사업화 1인 창업가 캠프 6기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178347)
 
 - **기관**: 넥스트러너스 주식회사
 - 주관 교육기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-30 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-30 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8847,11 +8735,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1인창업가_포스터_6기.png](https://www.k-startup.go.kr/afile/fileDownload/GZbLn)
 - [1인창업가_포스터_6기.txt](https://www.k-startup.go.kr/afile/fileDownload/TvbLn)
 
-## 78. [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178346)
+## 77. [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178346)
 
 - **기관**: (주)엠비즈플래닛 산하 혁신기술경영인증지원센터
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -8961,11 +8849,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업.jpg](https://www.k-startup.go.kr/afile/fileDownload/cZbLn)
 - [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업.txt](https://www.k-startup.go.kr/afile/fileDownload/WZbLn)
 
-## 79. [2026년 스타 IR 데모데이 참여기업 모집공고(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178343)
+## 78. [2026년 스타 IR 데모데이 참여기업 모집공고(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178343)
 
 - **기관**: 스타에셋파트너스 주식회사
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-07-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9072,11 +8960,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 스타 IR데모데이 모집공고(3차).hwp](https://www.k-startup.go.kr/afile/fileDownload/nZbLn)
 - [2026_IR 데모데이 신청서_별첨_양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/LZbLn)
 
-## 80. [2026 하반기 청년식품 창업캠프 참여자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178334)
+## 79. [2026 하반기 청년식품 창업캠프 참여자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178334)
 
 - **기관**: 한국식품산업클러스터진흥원
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-06-29 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-29 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -9160,11 +9048,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [★2026 하반기 청년식품 창업캠프 모집 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/dabLn)
 
-## 81. [주택도시보증공사 예비창업가 지원 사업, 사회서비스 분야 모집 (~7/31)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178211)
+## 80. [주택도시보증공사 예비창업가 지원 사업, 사회서비스 분야 모집 (~7/31)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178211)
 
 - **기관**: 재단법인 큐네스티
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-22 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-22 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -9277,11 +9165,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임2] 주택도시보증공사「HUG UP」사업 공식 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/hWbLn)
 - [[붙임2] 주택도시보증공사「HUG UP」사업 공식 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/3WbLn)
 
-## 82. [출연연, 대학 연구소기업 Business Development 프로그램 참여 예비창업자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178192)
+## 81. [출연연, 대학 연구소기업 Business Development 프로그램 참여 예비창업자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178192)
 
 - **기관**: 연구개발특구진흥재단
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-19 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-19 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9364,11 +9252,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [공유) 연구소기업_BD프로그램 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/S8bLn)
 - [공유)-연구소기업_BD프로그램-포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/x8bLn)
 
-## 83. [성동구 관내기업 2026년도 정부지원사업 및 베트남 현지진출 컨설팅 지원기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178106)
+## 82. [성동구 관내기업 2026년도 정부지원사업 및 베트남 현지진출 컨설팅 지원기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178106)
 
 - **기관**: 성동구청
 - 주관 지자체 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-06-12 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-12 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9469,11 +9357,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026_소셜벤처 기업 컨설팅 오픈오피스 운영_홍보 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/XLbLn)
 - [2026_소셜벤처 기업 컨설팅 오픈오피스 운영_홍보포스터.hwpx](https://www.k-startup.go.kr/afile/fileDownload/1LbLn)
 
-## 84. [2026 울산 여성 창업기업 육성 지원 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178016)
+## 83. [2026 울산 여성 창업기업 육성 지원 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178016)
 
 - **기관**: 재단법인 여성기업종합지원센터 울산센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 울산
-- **접수**: 2026-06-08 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-08 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9572,11 +9460,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 울산 여성 창업기업 육성 지원사업_모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/sF9Ln)
 - [울산 여성창업기업육성 _참가신청서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/tF9Ln)
 
-## 85. [12대 국가전략기술 분야 기술이전 수요 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177978)
+## 84. [12대 국가전략기술 분야 기술이전 수요 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177978)
 
 - **기관**: (주)윕스
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-05 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-05 ~ 2026-07-31 (D-5)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9668,11 +9556,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[대덕] 12대 국가전략기술분야 기술이전 수요 모집 포스터_260616_수정본.pdf](https://www.k-startup.go.kr/afile/fileDownload/46bLn)
 - [12대 국가전략기술분야 기술이전 수요 모집.hwp](https://www.k-startup.go.kr/afile/fileDownload/d39Ln)
 
-## 86. [2026년 연구개발특구 딥테크 스타트업 챌린지 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177974)
+## 85. [2026년 연구개발특구 딥테크 스타트업 챌린지 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177974)
 
 - **기관**: 주식회사 리벤처스
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-04 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-04 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9779,11 +9667,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨 3] 「2026년 연구개발특구 딥테크 스타트업 챌린지」 정보 수집 및 활용 동의서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/Re9Ln)
 - [[별첨 4] 「2026년 연구개발특구 딥테크 스타트업 챌린지」 참가 서약서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/pe9Ln)
 
-## 87. [2026 대덕특구 딥테크 혁신성장 플랫폼(전략기술 발굴 및 매칭)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177882)
+## 86. [2026 대덕특구 딥테크 혁신성장 플랫폼(전략기술 발굴 및 매칭)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177882)
 
 - **기관**: 연구개발특구진흥재단
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9866,11 +9754,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026 대덕특구 딥테크 혁신성장 플랫폼(전략기술 발굴 및 매칭) 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/X79Ln)
 
-## 88. [서울바이오허브 &apos;2026 서울-BMS 이노베이션 스퀘어 챌린지&apos; 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177877)
+## 87. [서울바이오허브 &apos;2026 서울-BMS 이노베이션 스퀘어 챌린지&apos; 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177877)
 
 - **기관**: 한국과학기술연구원 서울바이오허브
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-01 ~ 2026-07-31 (D-6)
+- **접수**: 2026-06-01 ~ 2026-07-31 (D-5)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -9971,11 +9859,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. 2026 BMS 챌린지 참여기업 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/PN9Ln)
 - [2. 2026 BMS 챌린지 참여기업 모집 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/rN9Ln)
 
-## 89. [중앙대-금천구 창업 협력공간(WB가산타워 7층) 입주자 모집 공고(6차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178617)
+## 88. [중앙대-금천구 창업 협력공간(WB가산타워 7층) 입주자 모집 공고(6차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178617)
 
 - **기관**: 중앙대학교 산학협력단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-02 (D-8)
+- **접수**: 2026-07-20 ~ 2026-08-02 (D-7)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10107,11 +9995,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. 혁신지원거점센터 입주지원서(창업기업).hwp](https://www.k-startup.go.kr/afile/fileDownload/0ycLn)
 - [3. 혁신지원거점센터 입주지원서(예비창업자).hwp](https://www.k-startup.go.kr/afile/fileDownload/WycLn)
 
-## 90. [MYSC 2026 FIN:NECT 해외 데모데이 참가기업 모집 (~8/2)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178590)
+## 89. [MYSC 2026 FIN:NECT 해외 데모데이 참가기업 모집 (~8/2)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178590)
 
 - **기관**: 엠와이소셜컴퍼니
 - 주관 민간 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-06 ~ 2026-08-02 (D-8)
+- **접수**: 2026-07-06 ~ 2026-08-02 (D-7)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10214,11 +10102,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [핀넥트_대표이미지.png](https://www.k-startup.go.kr/afile/fileDownload/SFcLn)
 - [[공고문] 2026 FIN_NECT 해외 데모데이(Singapore) 참가기업 모집 공고(참가신청서).hwp](https://www.k-startup.go.kr/afile/fileDownload/xFcLn)
 
-## 91. [인천창조경제혁신센터xKT 『SMART-X LAB 14기』 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178537)
+## 90. [인천창조경제혁신센터xKT 『SMART-X LAB 14기』 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178537)
 
 - **기관**: 재단법인 인천창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-08-02 (D-8)
+- **접수**: 2026-07-14 ~ 2026-08-02 (D-7)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10314,11 +10202,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[공고] SMART X-LAB 14기_참여기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/PecLn)
 - [붙임 1. SMART-X LAB 14기_신청서류.hwp](https://www.k-startup.go.kr/afile/fileDownload/recLn)
 
-## 92. [KT&G 상상플래닛xICT CoC 임팩트 조직 x 개발자 1:1 매칭 밋업 (8/4, 성수동)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178529)
+## 91. [KT&G 상상플래닛xICT CoC 임팩트 조직 x 개발자 1:1 매칭 밋업 (8/4, 성수동)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178529)
 
 - **기관**: KT&G 상상플래닛 운영
 - 주관 교육기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-08-02 (D-8)
+- **접수**: 2026-07-13 ~ 2026-08-02 (D-7)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10429,11 +10317,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[캠퍼스x융합 네트워킹] 8월 포스터_최종.png](https://www.k-startup.go.kr/afile/fileDownload/i1cLn)
 - [[캠퍼스x융합 네트워킹] 8월 포스터_최종.txt](https://www.k-startup.go.kr/afile/fileDownload/K2cLn)
 
-## 93. [중앙대-금천구 창업 협력공간(창업교육스튜디오) 입주자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178422)
+## 92. [중앙대-금천구 창업 협력공간(창업교육스튜디오) 입주자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178422)
 
 - **기관**: 중앙대학교 산학협력단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-03 ~ 2026-08-02 (D-8)
+- **접수**: 2026-07-03 ~ 2026-08-02 (D-7)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10594,11 +10482,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. 창업교육스튜디오 입주지원서(창업기업).hwp](https://www.k-startup.go.kr/afile/fileDownload/ywcLn)
 - [3. 창업교육스튜디오 입주지원서(예비창업기업).hwp](https://www.k-startup.go.kr/afile/fileDownload/vwcLn)
 
-## 94. [판교 제2테크노밸리 소프트웨어드림센터 스타트업 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178325)
+## 93. [판교 제2테크노밸리 소프트웨어드림센터 스타트업 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178325)
 
 - **기관**: 소프트웨어공제조합
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-06-29 ~ 2026-08-02 (D-8)
+- **접수**: 2026-06-29 ~ 2026-08-02 (D-7)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10745,11 +10633,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [6 .판교제2테크노밸리 도시첨단산업단지 관리기본계획.hwp](https://www.k-startup.go.kr/afile/fileDownload/nHbLn)
 - [7. 입주자격 세부사항.hwp](https://www.k-startup.go.kr/afile/fileDownload/LHbLn)
 
-## 95. [우리금융그룹 2026 디노랩 Tech센터 1기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178189)
+## 94. [우리금융그룹 2026 디노랩 Tech센터 1기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178189)
 
 - **기관**: 우리금융지주
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-25 ~ 2026-08-02 (D-8)
+- **접수**: 2026-06-25 ~ 2026-08-02 (D-7)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10864,11 +10752,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[우리금융그룹 디노랩] 2026 Tech센터(Tech 1기) 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/XbbLn)
 - [[우리금융그룹 디노랩] 2026 Tech센터(Tech 1기) 모집 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/1bbLn)
 
-## 96. [2026-9회 호남권 엔젤투자 피칭룸 in 전남광주 참가기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178650)
+## 95. [2026-9회 호남권 엔젤투자 피칭룸 in 전남광주 참가기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178650)
 
 - **기관**: 한국엔젤투자협회 호남권 엔젤투자허브
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전남광주
-- **접수**: 2026-07-22 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-22 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -10964,11 +10852,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(공고)2026-9회 호남권 엔젤투자 피칭룸 in 전남광주 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/gm0Ln)
 
-## 97. [2026. 마을·청년 공유 플랫폼 하반기 예비창업팀 추가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178595)
+## 96. [2026. 마을·청년 공유 플랫폼 하반기 예비창업팀 추가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178595)
 
 - **기관**: 중원유스센터
 - 주관 공공기관 · 분야 사업화 · 지역 경기
-- **접수**: 2026-07-20 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-20 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -11082,11 +10970,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [예비창업팀 추가모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/eHcLn)
 - [예비창업팀 추가모집 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/fHcLn)
 
-## 98. [2026 성공 창업 스쿨 모집 공고  (재도전 과정)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178587)
+## 97. [2026 성공 창업 스쿨 모집 공고  (재도전 과정)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178587)
 
 - **기관**: 강동구 청년해냄센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-15 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11176,11 +11064,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [성공 창업 스쿨 재도전 과정 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/oFcLn)
 - [붙임1_2026 성공 창업 스쿨 모집 공고 안내문 및 지원신청서 (재도전 과정).hwp](https://www.k-startup.go.kr/afile/fileDownload/wFcLn)
 
-## 99. [2026 북경대창업훈련캠프 글로벌 창업대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178584)
+## 98. [2026 북경대창업훈련캠프 글로벌 창업대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178584)
 
 - **기관**: BoxLadder
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-16 ~ 2026-08-03 (D-8)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11283,11 +11171,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 북경대창업훈련캠프 글로벌 창업대회.png](https://www.k-startup.go.kr/afile/fileDownload/RacLn)
 - [2026 북경대창업훈련캠프 글로벌 창업대회.txt](https://www.k-startup.go.kr/afile/fileDownload/ddcLn)
 
-## 100. [행정안전부 지역-기업 상생협력 지방소멸극복 아이디어 솔버톤](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178568)
+## 99. [행정안전부 지역-기업 상생협력 지방소멸극복 아이디어 솔버톤](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178568)
 
 - **기관**: 사회적협동조합menTory
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-15 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11381,11 +11269,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [아이디어 솔버톤 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/VJcLn)
 - [아이디어 솔버톤 포스터.docx](https://www.k-startup.go.kr/afile/fileDownload/UKcLn)
 
-## 101. [2026년 서울핀테크랩 FIN-오픈이노베이션 Meep-up Day 8회차 - KB Innovation HUB](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178534)
+## 100. [2026년 서울핀테크랩 FIN-오픈이노베이션 Meep-up Day 8회차 - KB Innovation HUB](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178534)
 
 - **기관**: 서울핀테크랩
 - 주관 지자체 · 분야 사업화 · 지역 서울
-- **접수**: 2026-07-13 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-13 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11472,11 +11360,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(최종) 2026년 서울핀테크랩 오픈이노베이션Ⅷ_KB Innovation HUB_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/f2cLn)
 - [(최종) 2026년 서울핀테크랩 오픈이노베이션Ⅷ_KB Innovation HUB_포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/g2cLn)
 
-## 102. [2026년 5회차 지식재산 무료 초청교육 수요조사](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178515)
+## 101. [2026년 5회차 지식재산 무료 초청교육 수요조사](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178515)
 
 - **기관**: 한국특허정보원
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-13 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11563,11 +11451,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임]`26년 5회차 개인 및 5인미만 소기업대상 초청 교육 안내문.pdf](https://www.k-startup.go.kr/afile/fileDownload/VbcLn)
 - [[첨부]'26년 5회차 개인 및 5인미만 소기업대상 초청교육 수요조사 홈페이지 공지이미지.pdf](https://www.k-startup.go.kr/afile/fileDownload/bbcLn)
 
-## 103. [2026 LG생활건강 Beauty Tech Greennovation 스타트업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178514)
+## 102. [2026 LG생활건강 Beauty Tech Greennovation 스타트업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178514)
 
 - **기관**: 한국농업기술진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-13 ~ 2026-08-03 (D-8)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11666,11 +11554,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 104. [국내 대기업 협업 연계, 신한 오픈이노베이션 12기 모집(~8/3)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178456)
+## 103. [국내 대기업 협업 연계, 신한 오픈이노베이션 12기 모집(~8/3)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178456)
 
 - **기관**: 신한금융희망재단
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-07 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-07 ~ 2026-08-03 (D-8)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -11758,11 +11646,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [『신한 스퀘어브릿지』 신한 오픈이노베이션 12기 모집_포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/iMcLn)
 
-## 105. [2026년 서울시 프렙 아카데미 하반기 11기 교육생 모집(7/6~8/3)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178432)
+## 104. [2026년 서울시 프렙 아카데미 하반기 11기 교육생 모집(7/6~8/3)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178432)
 
 - **기관**: 서울신용보증재단
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-07-06 ~ 2026-08-03 (D-9)
+- **접수**: 2026-07-06 ~ 2026-08-03 (D-8)
 - **신청 대상**: 대학생, 일반인
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -11859,11 +11747,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [성명_신청서(프렙 아카데미 11기 지원 신청서 양식).docx](https://www.k-startup.go.kr/afile/fileDownload/DrcLn)
 - [성명_신청서(프렙 아카데미 11기 지원 신청서 양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/6rcLn)
 
-## 106. [일본 CEATEC 2026 전시회 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178658)
+## 105. [일본 CEATEC 2026 전시회 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178658)
 
 - **기관**: 재단법인 글로벌디지털혁신네트워크
 - 주관 민간 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-07-23 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-23 ~ 2026-08-04 (D-9)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12005,11 +11893,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 CEATEC 전시회 참가기업 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/0L0Ln)
 - [별첨_CEATEC_2026_플로어 맵(7H214, 7홀 중간부분).pdf](https://www.k-startup.go.kr/afile/fileDownload/WL0Ln)
 
-## 107. [롯데중앙연구소×스타트업 오픈이노베이션 챌린지 2026 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178652)
+## 106. [롯데중앙연구소×스타트업 오픈이노베이션 챌린지 2026 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178652)
 
 - **기관**: 부산창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-22 ~ 2026-08-04 (D-9)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12102,11 +11990,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(롯데중앙연구소) [공고문] 스타트업 오픈이노베이션 챌린지 2026.hwp](https://www.k-startup.go.kr/afile/fileDownload/Hm0Ln)
 - [(롯데중앙연구소) [참여신청서] 스타트업 오픈이노베이션 챌린지 2026.hwp](https://www.k-startup.go.kr/afile/fileDownload/am0Ln)
 
-## 108. [강동구 청년해냄센터 전문분야 창업멘토링 8월 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178646)
+## 107. [강동구 청년해냄센터 전문분야 창업멘토링 8월 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178646)
 
 - **기관**: 강동구 청년해냄센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-22 ~ 2026-08-04 (D-9)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12207,11 +12095,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[해냄센터] 전문분야 창업 멘토링 8월 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/pBcLn)
 - [[해냄센터] 전문분야 창업 멘토링 8월 포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/dm0Ln)
 
-## 109. [26년 국토교통 창업지원센터 입주기업 추가 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178639)
+## 108. [26년 국토교통 창업지원센터 입주기업 추가 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178639)
 
 - **기관**: 국토교통과학기술진흥원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-21 ~ 2026-08-04 (D-9)
 - **신청 대상**: 일반인, 일반기업
 - **창업 기간**: 예비창업자, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12332,11 +12220,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨1] 입주신청서 및 사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/NvcLn)
 - [[별첨2] 개인정보 제공ㆍ이용 동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/MvcLn)
 
-## 110. [문화 예술 창업메이커스페이스 자개 공예 원데이클래스](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178631)
+## 109. [문화 예술 창업메이커스페이스 자개 공예 원데이클래스](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178631)
 
 - **기관**: 관악구청
 - 주관 지자체 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-15 ~ 2026-08-04 (D-9)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -12409,11 +12297,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 111. [창업 창업가를 위한 세무·회계 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178576)
+## 110. [창업 창업가를 위한 세무·회계 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178576)
 
 - **기관**: 마포청년창업취업지원센터 나루
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-15 ~ 2026-08-04 (D-9)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -12501,11 +12389,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[마포청년나루] 창업특강(창업가를 위한 세무·회계 기초).pdf](https://www.k-startup.go.kr/afile/fileDownload/J4cLn)
 
-## 112. [2026년 규제혁신 로봇 실증사업 2차 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178538)
+## 111. [2026년 규제혁신 로봇 실증사업 2차 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178538)
 
 - **기관**: 한국로봇산업진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-06 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-06 ~ 2026-08-04 (D-9)
 - **신청 대상**: 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12608,11 +12496,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [1. 2026년 규제혁신 로봇 실증사업 공고문(2차).hwp](https://www.k-startup.go.kr/afile/fileDownload/7ecLn)
 
-## 113. [「민관협력 오픈이노베이션 지원」2026년  제2차 방산 스타트업 챌린지(모두의 챌린지-방산) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178516)
+## 112. [「민관협력 오픈이노베이션 지원」2026년  제2차 방산 스타트업 챌린지(모두의 챌린지-방산) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178516)
 
 - **기관**: 중소벤처기업부장관
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-16 ~ 2026-08-04 (D-9)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12722,11 +12610,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨 2] 창업기업 사업계획서.docx](https://www.k-startup.go.kr/afile/fileDownload/MHcLn)
 - [[별첨 3] 사업 신청 매뉴얼.pdf](https://www.k-startup.go.kr/afile/fileDownload/NHcLn)
 
-## 114. [&apos;Slush 2026&apos; 참가 지원 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178394)
+## 113. [&apos;Slush 2026&apos; 참가 지원 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178394)
 
 - **기관**: 서울경제진흥원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 서울
-- **접수**: 2026-07-09 ~ 2026-08-04 (D-10)
+- **접수**: 2026-07-09 ~ 2026-08-04 (D-9)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12833,11 +12721,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[모집공고문] Slush 2026 참가지원.pdf](https://www.k-startup.go.kr/afile/fileDownload/ivbLn)
 
-## 115. [2026 생성형 AI 기반 영문 계약서 검토 및 무역 컴플라이언스 최적화 과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178332)
+## 114. [2026 생성형 AI 기반 영문 계약서 검토 및 무역 컴플라이언스 최적화 과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178332)
 
 - **기관**: (주)글로벌창업연구소
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-29 ~ 2026-08-04 (D-10)
+- **접수**: 2026-06-29 ~ 2026-08-04 (D-9)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -12922,11 +12810,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[재직자 과정 2기]생성형 AI 기반 영문 계약서 검토 및 무역 컴플라이언스 최적화 과정_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/kybLn)
 - [[재직자 과정 2기]생성형 AI 기반 영문 계약서 검토 및 무역 컴플라이언스 최적화 과정_포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/lybLn)
 
-## 116. [성북구 한성대 벤처창업지원센터 하반기 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178648)
+## 115. [성북구 한성대 벤처창업지원센터 하반기 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178648)
 
 - **기관**: 성북구 한성대 벤처창업지원센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-22 ~ 2026-08-05 (D-11)
+- **접수**: 2026-07-22 ~ 2026-08-05 (D-10)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13063,11 +12951,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [양식_입주신청서및사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/Cm0Ln)
 - [2026년 하반기 신규입주기업 모집 안내문.hwp](https://www.k-startup.go.kr/afile/fileDownload/Im0Ln)
 
-## 117. [2026년 성남시 북유럽 시장개척단 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178642)
+## 116. [2026년 성남시 북유럽 시장개척단 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178642)
 
 - **기관**: 성남산업진흥원
 - 주관 지자체 · 분야 판로ㆍ해외진출 · 지역 경기
-- **접수**: 2026-07-21 ~ 2026-08-05 (D-11)
+- **접수**: 2026-07-21 ~ 2026-08-05 (D-10)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13167,11 +13055,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [01. 모집공고문_2026 북유럽 시장개척단_00706.hwp](https://www.k-startup.go.kr/afile/fileDownload/iBcLn)
 - [02. 참가 신청 서류_2026 북유럽 시장개척단.hwp](https://www.k-startup.go.kr/afile/fileDownload/jBcLn)
 
-## 118. [2026년 지역창업특화지원사업(1인)  제3차 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178596)
+## 117. [2026년 지역창업특화지원사업(1인)  제3차 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178596)
 
 - **기관**: 용인시산업진흥원장
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-08-05 (D-11)
+- **접수**: 2026-07-16 ~ 2026-08-05 (D-10)
 - **신청 대상**: 청소년, 대학생, 일반인, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13292,11 +13180,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨2] 202607 입주신청서 및 부대서류.hwp](https://www.k-startup.go.kr/afile/fileDownload/HHcLn)
 - [2026 용인시산업진흥원 1인 창조기업 지원센터(사진) (1).pdf](https://www.k-startup.go.kr/afile/fileDownload/aHcLn)
 
-## 119. [2026 연구 아이디어 기술사업화 챌린지 참가자 모집 공고 연장](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178583)
+## 118. [2026 연구 아이디어 기술사업화 챌린지 참가자 모집 공고 연장](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178583)
 
 - **기관**: 한국보건산업진흥원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-05 (D-11)
+- **접수**: 2026-07-15 ~ 2026-08-05 (D-10)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -13416,11 +13304,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[포스터] 2026 연구 아이디어 기술사업화 챌린지.jpg](https://www.k-startup.go.kr/afile/fileDownload/dEcLn)
 - [2026 연구 아이디어 기술사업화 챌린지.txt](https://www.k-startup.go.kr/afile/fileDownload/YEcLn)
 
-## 120. [창업 스타트업 제안 및 영업 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178580)
+## 119. [창업 스타트업 제안 및 영업 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178580)
 
 - **기관**: 마포청년창업취업지원센터 나루
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-05 (D-11)
+- **접수**: 2026-07-15 ~ 2026-08-05 (D-10)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -13506,11 +13394,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[마포청년나루×서울청년센터 마포] 창업특강(스타트업 제안 및 영업 전략).pdf](https://www.k-startup.go.kr/afile/fileDownload/G4cLn)
 
-## 121. [2026 글로벌 공공조달 DX·AX 혁신 리더 과정(2기) 세미나 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178292)
+## 120. [2026 글로벌 공공조달 DX·AX 혁신 리더 과정(2기) 세미나 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178292)
 
 - **기관**: (주)글로벌창업연구소
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-25 ~ 2026-08-05 (D-11)
+- **접수**: 2026-06-25 ~ 2026-08-05 (D-10)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13598,11 +13486,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 글로벌 공공조달 DX·AX 혁신 리더 과정(2기) 세미나 모집_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/IgbLn)
 - [2026 글로벌 공공조달 DX·AX 혁신 리더 과정(2기) 세미나 모집_포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/thbLn)
 
-## 122. [글로벌 2026 Bio-Health Global Bridge: AHN 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178614)
+## 121. [글로벌 2026 Bio-Health Global Bridge: AHN 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178614)
 
 - **기관**: 서울창조경제혁신센터
 - 주관 공공기관 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-06 (D-12)
+- **접수**: 2026-07-20 ~ 2026-08-06 (D-11)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13693,11 +13581,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 BIO-HEALTH GLOBAL BRIDGE _AHN_ff.jpg](https://www.k-startup.go.kr/afile/fileDownload/xxcLn)
 - [2026 BIO-HEALTH GLOBAL BRIDGE _AHN 포스터 원고_f.hwp](https://www.k-startup.go.kr/afile/fileDownload/qTcLn)
 
-## 123. [2026년 광주투자액셀러레이팅 G-IN Next Level 13기 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178531)
+## 122. [2026년 광주투자액셀러레이팅 G-IN Next Level 13기 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178531)
 
 - **기관**: 광주창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 전남광주
-- **접수**: 2026-07-09 ~ 2026-08-06 (D-12)
+- **접수**: 2026-07-09 ~ 2026-08-06 (D-11)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13791,11 +13679,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임1] 2026년 광주투자액셀러레이팅(G-IN Next Level) 13기 모집공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/X1cLn)
 - [[붙임2] 참가신청서 및 개인정보이용동의서(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/11cLn)
 
-## 124. [2026년『제6회 대구 여성창업스타전』 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177928)
+## 123. [2026년『제6회 대구 여성창업스타전』 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177928)
 
 - **기관**: 달구벌여성인력개발센터
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-01 ~ 2026-08-06 (D-12)
+- **접수**: 2026-06-01 ~ 2026-08-06 (D-11)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -13923,11 +13811,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1.2026년 제6회 대구 여성창업스타전 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/Qc9Ln)
 - [2.붙임.신청서식2026년.hwp](https://www.k-startup.go.kr/afile/fileDownload/kc9Ln)
 
-## 125. [「2026 한국전자전(KES)」관악S밸리관 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178659)
+## 124. [「2026 한국전자전(KES)」관악S밸리관 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178659)
 
 - **기관**: 관악중소벤처진흥원
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 서울
-- **접수**: 2026-07-23 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-23 ~ 2026-08-07 (D-12)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14046,11 +13934,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. 2026 한국전자전(KES) 참여기업 개인 정보 수집·이용·제공 동의서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/RL0Ln)
 - [한국전자전 모집 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/pL0Ln)
 
-## 126. [제조 AI 기술 사업화 지원 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178655)
+## 125. [제조 AI 기술 사업화 지원 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178655)
 
 - **기관**: 경북대학교 스타트업지원센터장
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-22 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14135,11 +14023,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 1. 제조 AI 기술 사업화 지원 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/En0Ln)
 - [붙임 2. 제조 AI 기술 사업화 지원 신청서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/Fn0Ln)
 
-## 127. [제품 양산 패키지 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178654)
+## 126. [제품 양산 패키지 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178654)
 
 - **기관**: 경북대학교 스타트업지원센터장
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-22 ~ 2026-08-07 (D-12)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14224,11 +14112,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 1. 제품 양산 패키지 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/Kn0Ln)
 - [붙임 2. 제품 양산 패키지 신청서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/4n0Ln)
 
-## 128. [제3회 W-Venture 창업 경진대회(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178653)
+## 127. [제3회 W-Venture 창업 경진대회(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178653)
 
 - **기관**: (사)부울경여성벤처협회
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 부산
-- **접수**: 2026-07-01 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-01 ~ 2026-08-07 (D-12)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14339,11 +14227,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[기술특화] 제3회 W-Venture 창업 경진대회 사업계획서 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/3n0Ln)
 - [[라이프스타일] 제3회 W-Venture 창업 경진대회 사업계획서 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/Jn0Ln)
 
-## 129. [2026년 대구 스타트업 오픈이노베이션 자율제안형(상향식) 실증 프로그램 지원기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178649)
+## 128. [2026년 대구 스타트업 오픈이노베이션 자율제안형(상향식) 실증 프로그램 지원기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178649)
 
 - **기관**: (재)대구창조경제혁신센터 대표이사
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-21 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14481,11 +14369,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. (붙임) 신청서 사업계획서 및 개인정보수집동의서 1부.hwp](https://www.k-startup.go.kr/afile/fileDownload/6o0Ln)
 - [3. (별첨) 신산업 창업 분야.pdf](https://www.k-startup.go.kr/afile/fileDownload/Mo0Ln)
 
-## 130. [KAIST 딥테크 유망랩 라운드테이블](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178645)
+## 129. [KAIST 딥테크 유망랩 라운드테이블](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178645)
 
 - **기관**: (주)아이비유
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-23 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-23 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14573,11 +14461,11 @@ KAIST 딥테크 유망랩 라운드테이블 기술 소개자료.pdf
 - [KAIST 딥테크 유망랩 1차 라운드테이블 홍보 포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/Pm0Ln)
 - [KAIST 딥테크 유망랩 라운드테이블 기술 소개자료.pdf](https://www.k-startup.go.kr/afile/fileDownload/rm0Ln)
 
-## 131. [2026년 WEROUND 공유형 공간 신규 입주기업 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178636)
+## 130. [2026년 WEROUND 공유형 공간 신규 입주기업 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178636)
 
 - **기관**: 서강대학교 판교캠퍼스사업단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-22 ~ 2026-08-07 (D-12)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14710,11 +14598,11 @@ _WEROUND 입주공간소개자료.pdf
 - [유치업종코드.pdf](https://www.k-startup.go.kr/afile/fileDownload/VpcLn)
 - [판교 제2TV G1-1BL 공유형 공간 신규 입주기업 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/iw0Ln)
 
-## 132. [2026년 WEROUND 제3차 신규 입주기업 모집 공고 (~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178635)
+## 131. [2026년 WEROUND 제3차 신규 입주기업 모집 공고 (~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178635)
 
 - **기관**: 서강대학교 판교캠퍼스사업단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-22 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-22 ~ 2026-08-07 (D-12)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14853,11 +14741,11 @@ WEROUND 입주공간소개자료.pdf
 - [판교 제2TV G1-1BL 제3차 신규 입주기업 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/OpcLn)
 - [WEROUND 입주공간소개자료.pdf](https://www.k-startup.go.kr/afile/fileDownload/PpcLn)
 
-## 133. [2026년  7월 KICXUP 서울 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178623)
+## 132. [2026년  7월 KICXUP 서울 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178623)
 
 - **기관**: 한국산업단지공단,씨엔티테크
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-21 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -14966,11 +14854,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026 07월 KICXUP_서울_입주기업_모집공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/6w0Ln)
 
-## 134. [2026년 성북구 중장년 기술창업센터 입주기업 모집공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178618)
+## 133. [2026년 성북구 중장년 기술창업센터 입주기업 모집공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178618)
 
 - **기관**: 성북구중장년기술창업센터장
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-20 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-20 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15114,11 +15002,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(첨부1) 입주신청서 및 기타 제출 양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/FycLn)
 - [(첨부2) 사업계획서(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/GycLn)
 
-## 135. [2026년 경기 스타트업 글로벌 성장 지원 「뉴욕 투자유치 지원 프로그램」참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178549)
+## 134. [2026년 경기 스타트업 글로벌 성장 지원 「뉴욕 투자유치 지원 프로그램」참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178549)
 
 - **기관**: 씨엔티테크(주)
 - 주관 민간 · 분야 글로벌 · 지역 경기
-- **접수**: 2026-07-14 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-14 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15234,11 +15122,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(공고문) 미국 뉴욕 투자유치 지원 프로그램 참여기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/4gcLn)
 - [(붙임1) 미국 뉴욕 투자유치 지원 프로그램_참가신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/EgcLn)
 
-## 136. [제4회 전남광주통합특별시 북구청장배 청년창업 아이디어 경진대회 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178541)
+## 135. [제4회 전남광주통합특별시 북구청장배 청년창업 아이디어 경진대회 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178541)
 
 - **기관**: 전남광주통합특별시 북구청
 - 주관 지자체 · 분야 행사ㆍ네트워크 · 지역 전남광주
-- **접수**: 2026-07-14 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-14 ~ 2026-08-07 (D-12)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하
@@ -15371,11 +15259,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [제4회 북구청장배 청년창업 아이디어 경진대회 홍보 포스터(최종).jpg](https://www.k-startup.go.kr/afile/fileDownload/ngcLn)
 - [제4회 북구청장배 청년창업 아이디어 경진대회 홍보 포스터(최종).txt](https://www.k-startup.go.kr/afile/fileDownload/LgcLn)
 
-## 137. [2026 창조경제혁신센터 공동 Open Innovation 프로그램  개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178501)
+## 136. [2026 창조경제혁신센터 공동 Open Innovation 프로그램  개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178501)
 
 - **기관**: 서울창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-13 ~ 2026-08-07 (D-12)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15504,11 +15392,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [창조경제혁신센터 공동 Open Innovation Day 포스터.hwpx](https://www.k-startup.go.kr/afile/fileDownload/tkcLn)
 - [창조경제혁신센터 공동 Open Innovation Day 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/5kcLn)
 
-## 138. [고속도로 무형자산 활용 사업화 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178498)
+## 137. [고속도로 무형자산 활용 사업화 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178498)
 
 - **기관**: 한국도로공사
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-09 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-09 ~ 2026-08-07 (D-12)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15617,11 +15505,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임6) 중소기업 기술개발 지원사업 과제 현황.hwp](https://www.k-startup.go.kr/afile/fileDownload/yQcLn)
 - [(붙임8) 평가단계별 평가표(무형자산 활용 사업화 지원사업).hwp](https://www.k-startup.go.kr/afile/fileDownload/UQcLn)
 
-## 139. [수원시 기업지원센터 중소벤처기업 신규 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178476)
+## 138. [수원시 기업지원센터 중소벤처기업 신규 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178476)
 
 - **기관**: 수원도시재단
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-07-08 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-08 ~ 2026-08-07 (D-12)
 - **신청 대상**: 대학생, 일반인, 일반기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15729,11 +15617,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(공고) 2026년 기업지원센터 제2회 중소벤처기업 입주모집 공고 및 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/F8cLn)
 
-## 140. [수원시 기업지원센터 1인창조기업 신규모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178475)
+## 139. [수원시 기업지원센터 1인창조기업 신규모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178475)
 
 - **기관**: 수원도시재단
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-07-08 ~ 2026-08-07 (D-13)
+- **접수**: 2026-07-08 ~ 2026-08-07 (D-12)
 - **신청 대상**: 1인 창조기업
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15836,11 +15724,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(공고) 2026년 기업지원센터 제2회 1인창조기업 모집 공고문 및 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/E8cLn)
 
-## 141. [윤민창의투자재단 굿스타터 20기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178371)
+## 140. [윤민창의투자재단 굿스타터 20기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178371)
 
 - **기관**: 재단법인 윤민창의투자재단
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-08-09 (D-15)
+- **접수**: 2026-07-01 ~ 2026-08-09 (D-14)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -15956,11 +15844,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [굿스타터 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/NTbLn)
 - [굿스타터 포스터 대체텍스트.txt](https://www.k-startup.go.kr/afile/fileDownload/8TbLn)
 
-## 142. [공고 제2026-075호 2026 Tri Nexus 「AI 딥테크」 오픈이노베이션 참여기업(스타트업) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178609)
+## 141. [공고 제2026-075호 2026 Tri Nexus 「AI 딥테크」 오픈이노베이션 참여기업(스타트업) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178609)
 
 - **기관**: (재)충남창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-20 ~ 2026-08-10 (D-15)
 - **신청 대상**: 대학생, 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16054,11 +15942,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [3. [포스터]2026 Tri Nexus AI 딥테크 오픈이노베이션.jpg](https://www.k-startup.go.kr/afile/fileDownload/5ScLn)
 - [4. [TXT]2026 Tri Nexus AI 딥테크 오픈이노베이션.txt](https://www.k-startup.go.kr/afile/fileDownload/mycLn)
 
-## 143. [2026 대구특구 글로벌 딥테크 지원사업 DEEP-BOUND 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178606)
+## 142. [2026 대구특구 글로벌 딥테크 지원사업 DEEP-BOUND 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178606)
 
 - **기관**: 와이앤아처(주)
 - 주관 민간 · 분야 글로벌 · 지역 대구
-- **접수**: 2026-07-16 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-16 ~ 2026-08-10 (D-15)
 - **신청 대상**: 대학, 연구기관, 일반기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16186,11 +16074,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(공고문) 2026년 대구특구 글로벌 딥테크 지원사업.hwp](https://www.k-startup.go.kr/afile/fileDownload/4vcLn)
 - [(양식) 2026년 대구특구 글로벌 딥테크 지원사업 참가신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/EvcLn)
 
-## 144. [「2026년 경기 레벨업 프로그램(하반기)」 지원기업 통합 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178581)
+## 143. [「2026년 경기 레벨업 프로그램(하반기)」 지원기업 통합 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178581)
 
 - **기관**: (재)경기콘텐츠진흥원
 - 주관 공공기관 · 분야 정책자금 · 지역 경기
-- **접수**: 2026-07-16 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-16 ~ 2026-08-10 (D-15)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16302,11 +16190,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 경기 레벨업 프로그램(하반기) 포스터(나).png](https://www.k-startup.go.kr/afile/fileDownload/XacLn)
 - [2026년 경기 레벨업 프로그램(하반기) 포스터(나).txt](https://www.k-startup.go.kr/afile/fileDownload/1acLn)
 
-## 145. [무료/선착순 대구데이터역량강화교육 AI Agent 개발](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178542)
+## 144. [무료/선착순 대구데이터역량강화교육 AI Agent 개발](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178542)
 
 - **기관**: 메타코드에이치
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-14 ~ 2026-08-10 (D-15)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16405,11 +16293,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[무료선착순] 대구데이터역량강화교육 AI Agent 개발.jpg](https://www.k-startup.go.kr/afile/fileDownload/8fcLn)
 - [[무료선착순] 대구데이터역량강화교육 AI Agent 개발.txt](https://www.k-startup.go.kr/afile/fileDownload/lgcLn)
 
-## 146. [제11회 소상공인 쇼케이스데이 참가기업 모집 (소상공인 투지유치 연계 & 판로확대 지원)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178539)
+## 145. [제11회 소상공인 쇼케이스데이 참가기업 모집 (소상공인 투지유치 연계 & 판로확대 지원)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178539)
 
 - **기관**: 중소상공인희망재단 
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-14 ~ 2026-08-10 (D-15)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16529,11 +16417,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(첨부1) 제11회 소상공인 쇼케이스데이 참가기업 모집공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/wfcLn)
 - [(첨부2) 제11회 소상공인 쇼케이스데이 참가신청서류.hwp](https://www.k-startup.go.kr/afile/fileDownload/qfcLn)
 
-## 147. [2026년 프리 팁스 2차 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178481)
+## 146. [2026년 프리 팁스 2차 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178481)
 
 - **기관**: 중소벤처기업부 장관
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-10 ~ 2026-08-10 (D-16)
+- **접수**: 2026-07-10 ~ 2026-08-10 (D-15)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16634,11 +16522,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(공고문) '26년 프리 팁스 2차 창업기업 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/S9cLn)
 - [(별첨) '26년 프리 팁스 2차 창업기업 사업계획서 양식.hwpx](https://www.k-startup.go.kr/afile/fileDownload/y9cLn)
 
-## 148. [2026년 2차 서울 AI 허브 신규 입주기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178661)
+## 147. [2026년 2차 서울 AI 허브 신규 입주기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178661)
 
 - **기관**: 서울 AI 허브
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-22 ~ 2026-08-11 (D-17)
+- **접수**: 2026-07-22 ~ 2026-08-11 (D-16)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16781,11 +16669,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임3]입주자격요건 확인서_기업명.hwp](https://www.k-startup.go.kr/afile/fileDownload/OA0Ln)
 - [2026년 2차 서울 AI 허브 신규 입주기업 모집 안내.pdf](https://www.k-startup.go.kr/afile/fileDownload/To0Ln)
 
-## 149. [창업 창업가를 위한 법률 기초 및 계약서 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178578)
+## 148. [창업 창업가를 위한 법률 기초 및 계약서 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178578)
 
 - **기관**: 마포청년창업취업지원센터 나루
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-11 (D-17)
+- **접수**: 2026-07-15 ~ 2026-08-11 (D-16)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -16871,11 +16759,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[마포청년나루] 창업특강(창업가를 위한 법률 기초 및 계약서 실전).pdf](https://www.k-startup.go.kr/afile/fileDownload/K4cLn)
 
-## 150. [현직 엔지니어 1:1 금형·단가·양산성에 막힌 하드웨어 스타트업 무료 코칭](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178372)
+## 149. [현직 엔지니어 1:1 금형·단가·양산성에 막힌 하드웨어 스타트업 무료 코칭](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178372)
 
 - **기관**: 인탑스(주)
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-01 ~ 2026-08-11 (D-17)
+- **접수**: 2026-07-01 ~ 2026-08-11 (D-16)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -16992,11 +16880,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [코칭데이 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/BTbLn)
 
-## 151. [2026년도 방산 특화 창업중심대학 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662)
+## 150. [2026년도 방산 특화 창업중심대학 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662)
 
 - **기관**: 중소벤처기업부 장관
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-24 ~ 2026-08-12 (D-18)
+- **접수**: 2026-07-24 ~ 2026-08-12 (D-17)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17124,11 +17012,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨 6] 공공 마이데이터 매뉴얼.pdf](https://www.k-startup.go.kr/afile/fileDownload/pA0Ln)
 - [[별첨 7] 중소기업창업 지원사업 통합관리지침.hwp](https://www.k-startup.go.kr/afile/fileDownload/iO0Ln)
 
-## 152. [2026년 제3회 ICT콤플렉스 스타트업 투자상담회 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178634)
+## 151. [2026년 제3회 ICT콤플렉스 스타트업 투자상담회 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178634)
 
 - **기관**: ICT콤플렉스
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-12 (D-18)
+- **접수**: 2026-07-21 ~ 2026-08-12 (D-17)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17208,11 +17096,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(양식)2026년 ICT콤플렉스 제3회 투자상담회 참가신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/npcLn)
 
-## 153. [여성 1인 창조기업 지원센터 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178643)
+## 152. [여성 1인 창조기업 지원센터 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178643)
 
 - **기관**: (사)한국여성벤처협회 여성특화 1인 창조기업지원 센터장
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-23 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-23 ~ 2026-08-13 (D-18)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17319,11 +17207,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [여성 1인 창조기업 지원센터 신규입주기업 모집 공고문(사업계획서 등 포함).hwp](https://www.k-startup.go.kr/afile/fileDownload/kL0Ln)
 
-## 154. [2026년 대구 콘텐츠 스케일업 액셀러레이팅 프로그램 지원사업 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178598)
+## 153. [2026년 대구 콘텐츠 스케일업 액셀러레이팅 프로그램 지원사업 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178598)
 
 - **기관**: (재)대구디지털혁신진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 대구
-- **접수**: 2026-07-20 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-20 ~ 2026-08-13 (D-18)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17450,11 +17338,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/jacLn)
 - [붙임2. 신청서(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/VacLn)
 
-## 155. [2026년 청년창업 아이디에이션 4.0 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178551)
+## 154. [2026년 청년창업 아이디에이션 4.0 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178551)
 
 - **기관**: 성남시청소년청년재단
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-07-06 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-06 ~ 2026-08-13 (D-18)
 - **신청 대상**: 대학생, 일반인, 대학, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -17562,11 +17450,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026_아이디에이션4.0포스터(최종).jpeg](https://www.k-startup.go.kr/afile/fileDownload/OhcLn)
 - [2026_아이디에이션4.0포스터(최종).txt](https://www.k-startup.go.kr/afile/fileDownload/fhcLn)
 
-## 156. [2026년 논산시 사회적경제 창업 아카데미 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178548)
+## 155. [2026년 논산시 사회적경제 창업 아카데미 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178548)
 
 - **기관**: 논산시 사회적경제통합지원센터
 - 주관 지자체 · 분야 창업교육 · 지역 충남
-- **접수**: 2026-07-15 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-15 ~ 2026-08-13 (D-18)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17659,11 +17547,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 논산시 사회적경제 창업 아카데미.jpg](https://www.k-startup.go.kr/afile/fileDownload/bhcLn)
 - [2026년 논산시 사회적경제 창업 아카데미.txt](https://www.k-startup.go.kr/afile/fileDownload/0hcLn)
 
-## 157. [2026 경기 스타트업 서밋(G-SUMMIT 2026) 전시부스 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178497)
+## 156. [2026 경기 스타트업 서밋(G-SUMMIT 2026) 전시부스 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178497)
 
 - **기관**: 경기도경제과학진흥원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-13 ~ 2026-08-13 (D-18)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17755,11 +17643,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [참가기업 모집 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/3QcLn)
 - [2026 경기 스타트업 서밋 전시 참가기업 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/JQcLn)
 
-## 158. [해외 로드쇼 참가, 『신한 스퀘어브릿지』 2026 글로벌 참여 스타트업 모집(~8/13)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178458)
+## 157. [해외 로드쇼 참가, 『신한 스퀘어브릿지』 2026 글로벌 참여 스타트업 모집(~8/13)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178458)
 
 - **기관**: 신한금융희망재단
 - 주관 민간 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-07-07 ~ 2026-08-13 (D-19)
+- **접수**: 2026-07-07 ~ 2026-08-13 (D-18)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -17878,11 +17766,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [『신한 스퀘어브릿지』 글로벌 2026 참여 스타트업 모집_포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/0McLn)
 
-## 159. [2026 공공기술 활용 딥테크 창업 경진대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178621)
+## 158. [2026 공공기술 활용 딥테크 창업 경진대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178621)
 
 - **기관**: 대전창조경제혁신센터, 나노종합기술원
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-14 (D-20)
+- **접수**: 2026-07-20 ~ 2026-08-14 (D-19)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18002,11 +17890,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(포스터)-2026-공공기술 활용 딥테크 창업 경진대회.jpg](https://www.k-startup.go.kr/afile/fileDownload/IycLn)
 - [(포스터)-2026-공공기술 활용 딥테크 창업 경진대회.pdf](https://www.k-startup.go.kr/afile/fileDownload/ARcLn)
 
-## 160. [창업 특허·상표 지식재산권 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178579)
+## 159. [창업 특허·상표 지식재산권 실무](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178579)
 
 - **기관**: 마포청년창업취업지원센터 나루
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-14 (D-20)
+- **접수**: 2026-07-15 ~ 2026-08-14 (D-19)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -18094,11 +17982,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[마포청년나루] 창업특강(특허·상표 지식재산권 실무).pdf](https://www.k-startup.go.kr/afile/fileDownload/E4cLn)
 
-## 161. [「2026년 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업」 참여기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178559)
+## 160. [「2026년 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업」 참여기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178559)
 
 - **기관**: 한국지능정보사회진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-14 (D-20)
+- **접수**: 2026-07-15 ~ 2026-08-14 (D-19)
 - **신청 대상**: 청소년, 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18198,11 +18086,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업 참여기업 모집_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/C3cLn)
 - [2026년 공공데이터 활용기업 AI연계 맞춤형 성장 지원사업 참여기업 모집_포스터.hwpx](https://www.k-startup.go.kr/afile/fileDownload/j4cLn)
 
-## 162. [2026 서울시 중장년 채용박람회 권역별 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178557)
+## 161. [2026 서울시 중장년 채용박람회 권역별 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178557)
 
 - **기관**: 서울시50플러스재단
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 서울
-- **접수**: 2026-07-14 ~ 2026-08-14 (D-20)
+- **접수**: 2026-07-14 ~ 2026-08-14 (D-19)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18314,11 +18202,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[서울시50플러스재단] 2026 서울시 중장년 채용박람회 권역별 참여기업 모집.jpg](https://www.k-startup.go.kr/afile/fileDownload/rKcLn)
 - [[서울시50플러스재단] 2026 서울시 중장년 채용박람회 권역별 참여기업 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/sKcLn)
 
-## 163. [관악 라이브커머스 지원 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178637)
+## 162. [관악 라이브커머스 지원 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178637)
 
 - **기관**: 관악구청
 - 주관 지자체 · 분야 판로ㆍ해외진출 · 지역 서울
-- **접수**: 2026-07-21 ~ 2026-08-16 (D-22)
+- **접수**: 2026-07-21 ~ 2026-08-16 (D-21)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -18387,11 +18275,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 164. [<2026 로컬 스타트업 챌린지, 의정부 2026>](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178629)
+## 163. [<2026 로컬 스타트업 챌린지, 의정부 2026>](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178629)
 
 - **기관**: 경기콘텐츠진흥원 
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-17 (D-23)
+- **접수**: 2026-07-21 ~ 2026-08-17 (D-22)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18494,11 +18382,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 로컬 스타트업 챌린지_포스터_시티온.txt](https://www.k-startup.go.kr/afile/fileDownload/0pcLn)
 - [(신청서) 로컬 스타트업 챌린지, 의정부 2026_신청서_시티온 트랙.docx](https://www.k-startup.go.kr/afile/fileDownload/3vcLn)
 
-## 165. [무료 AI 역량강화 교육 생성형 AI 기반 글로벌 특허 분석 및 지식재산권 우회·리스크 최적화 과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178513)
+## 164. [무료 AI 역량강화 교육 생성형 AI 기반 글로벌 특허 분석 및 지식재산권 우회·리스크 최적화 과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178513)
 
 - **기관**: (주)글로벌창업연구소
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-10 ~ 2026-08-18 (D-24)
+- **접수**: 2026-07-10 ~ 2026-08-18 (D-23)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18589,11 +18477,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[재직자 과정 3기]생성형 AI 기반 글로벌 특허분석 및 지식재산권 우회,리스크 최적화 과정_포스터.png](https://www.k-startup.go.kr/afile/fileDownload/v9cLn)
 - [[재직자 과정 3기]생성형 AI 기반 글로벌 특허분석 및 지식재산권 우회,리스크 최적화 과정_포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/I9cLn)
 
-## 166. [무료 AI 콘텐츠 마케터/1인 마케팅 에이전시 창업가 육성과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178627)
+## 165. [무료 AI 콘텐츠 마케터/1인 마케팅 에이전시 창업가 육성과정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178627)
 
 - **기관**: (주)메타코드에이치
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-07-21 ~ 2026-08-19 (D-25)
+- **접수**: 2026-07-21 ~ 2026-08-19 (D-24)
 - **신청 대상**: 대학생, 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18692,11 +18580,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [성동_새싹_썸네일.png](https://www.k-startup.go.kr/afile/fileDownload/UpcLn)
 - [성동_새싹_썸네일_텍스트.txt](https://www.k-startup.go.kr/afile/fileDownload/RpcLn)
 
-## 167. [「다시 쓰는 성공기」 제14회 재도전 사례 공모전 참가 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178426)
+## 166. [「다시 쓰는 성공기」 제14회 재도전 사례 공모전 참가 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178426)
 
 - **기관**: 중소벤처기업부 장관
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-07-21 ~ 2026-08-20 (D-26)
+- **접수**: 2026-07-21 ~ 2026-08-20 (D-25)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18794,11 +18682,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 14회 재도전 사례 공모전 신청 양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/IUcLn)
 - [붙임1. 14회 재도전 사례 공모전 신청 양식.docx](https://www.k-startup.go.kr/afile/fileDownload/JpcLn)
 
-## 168. [2026년도 조달청 벤처나라 입점 기관추천(9월~12월) 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178163)
+## 167. [2026년도 조달청 벤처나라 입점 기관추천(9월~12월) 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178163)
 
 - **기관**: 창업진흥원장
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-20 (D-26)
+- **접수**: 2026-07-15 ~ 2026-08-20 (D-25)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -18899,11 +18787,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [첨부 1. 알기 쉬운 물품목록 등록방법.pdf](https://www.k-startup.go.kr/afile/fileDownload/cNcLn)
 - [첨부 2. 목록정보시스템 메뉴얼(목록화 요청 매뉴얼).pdf](https://www.k-startup.go.kr/afile/fileDownload/XNcLn)
 
-## 169. [디지털콘텐츠기업 성장지원센터 입주기업 모집 공고(2026-1차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178615)
+## 168. [디지털콘텐츠기업 성장지원센터 입주기업 모집 공고(2026-1차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178615)
 
 - **기관**: (사)차세대융합기술산업협회
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-21 (D-27)
+- **접수**: 2026-07-20 ~ 2026-08-21 (D-26)
 - **신청 대상**: 일반기업
 - **창업 기간**: 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19006,11 +18894,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 디지털콘텐츠기업 성장지원센터 입주기업 모집공고_최종.txt](https://www.k-startup.go.kr/afile/fileDownload/rTcLn)
 - [2026년 디지털콘텐츠기업 성장지원센터 입주기업 모집공고_최종.png](https://www.k-startup.go.kr/afile/fileDownload/IxcLn)
 
-## 170. [2026년 제4회 창업기업성장지원센터(이노플러스 스테이지) 신규 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178610)
+## 169. [2026년 제4회 창업기업성장지원센터(이노플러스 스테이지) 신규 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178610)
 
 - **기관**: (재)광주테크노파크원장
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-21 (D-27)
+- **접수**: 2026-07-20 ~ 2026-08-21 (D-26)
 - **신청 대상**: 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19138,11 +19026,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[양식1] 신청서 및 사업계획서 양식_입주기업.hwp](https://www.k-startup.go.kr/afile/fileDownload/ZScLn)
 - [[양식2] 신청서 및 사업계획서 양식_지원기관.hwp](https://www.k-startup.go.kr/afile/fileDownload/SScLn)
 
-## 171. [삼성 EPC 3사 2026 ConTech 공모전 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178593)
+## 170. [삼성 EPC 3사 2026 ConTech 공모전 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178593)
 
 - **기관**: 삼성E&A, 삼성물산 건설부문, 삼성중공업
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-20 ~ 2026-08-21 (D-27)
+- **접수**: 2026-07-20 ~ 2026-08-21 (D-26)
 - **신청 대상**: 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19236,11 +19124,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(2026 ConTech) 공모전 포스터_메인_f.jpg](https://www.k-startup.go.kr/afile/fileDownload/iHcLn)
 - [(2026 ConTech) 공모전 포스터_메인_f.txt](https://www.k-startup.go.kr/afile/fileDownload/jHcLn)
 
-## 172. [2026년 벤처확인 도전기업 일대일 비대면 밋업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178556)
+## 171. [2026년 벤처확인 도전기업 일대일 비대면 밋업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178556)
 
 - **기관**: (주)엠비즈플래닛 산하 혁신기술경영인증지원센터
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-16 ~ 2026-08-21 (D-27)
+- **접수**: 2026-07-16 ~ 2026-08-21 (D-26)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19357,11 +19245,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 벤처확인 도전기업 일대일 비대면 밋업 참여기업 모집.jpg](https://www.k-startup.go.kr/afile/fileDownload/3hcLn)
 - [2026년 벤처확인 도전기업 일대일 비대면 밋업 참여기업 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/ghcLn)
 
-## 173. [예비창업패키지 & 모두의 창업 완벽 대비! 「1:1 맞춤형 창업 멘토링」 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178603)
+## 172. [예비창업패키지 & 모두의 창업 완벽 대비! 「1:1 맞춤형 창업 멘토링」 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178603)
 
 - **기관**: 강남구여성능력개발센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-07-16 ~ 2026-08-23 (D-29)
+- **접수**: 2026-07-16 ~ 2026-08-23 (D-28)
 - **신청 대상**: 대학생, 일반인, 대학, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19466,11 +19354,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [일대일 창업 멘토링 참여자 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/0dcLn)
 
-## 174. [교육 지역창업특화지원(여성특화 1인 창조기업 지원센터) &apos;난 혼자 사업한다(1차)&apos; 교육 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178505)
+## 173. [교육 지역창업특화지원(여성특화 1인 창조기업 지원센터) &apos;난 혼자 사업한다(1차)&apos; 교육 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178505)
 
 - **기관**: (사)한국여성벤처협회
 - 주관 민간 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-08-24 (D-30)
+- **접수**: 2026-07-15 ~ 2026-08-24 (D-29)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19559,11 +19447,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 지역창업특화지원 여성CEO특화 난혼자사업한다(1차) 교육 안내.jpg](https://www.k-startup.go.kr/afile/fileDownload/UecLn)
 - [2026 지역창업특화지원 여성CEO특화 난혼자사업한다(1차) 교육 안내.hwp](https://www.k-startup.go.kr/afile/fileDownload/VfcLn)
 
-## 175. [2026년 경기도「반려동물 창업공모전」참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178464)
+## 174. [2026년 경기도「반려동물 창업공모전」참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178464)
 
 - **기관**: 재)경기도경제과학진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 경기
-- **접수**: 2026-07-08 ~ 2026-08-24 (D-30)
+- **접수**: 2026-07-08 ~ 2026-08-24 (D-29)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19644,11 +19532,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 176. [구로구 청년창업지원센터_전문 창업교육생 모집 (하반기)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178389)
+## 175. [구로구 청년창업지원센터_전문 창업교육생 모집 (하반기)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178389)
 
 - **기관**: 구로구 청년창업지원센터
 - 주관 지자체 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-07-02 ~ 2026-08-24 (D-30)
+- **접수**: 2026-07-02 ~ 2026-08-24 (D-29)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -19740,11 +19628,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[붙임] 전문 창업교육 프로그램(하반기)_공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/kLcLn)
 
-## 177. [(광주센터) 2026년 제7회 제대군인 창업 워크숍 개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178555)
+## 176. [(광주센터) 2026년 제7회 제대군인 창업 워크숍 개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178555)
 
 - **기관**: 국가보훈부
 - 주관 공공기관 · 분야 창업교육 · 지역 전남광주
-- **접수**: 2026-07-14 ~ 2026-08-25 (D-31)
+- **접수**: 2026-07-14 ~ 2026-08-25 (D-30)
 - **신청 대상**: 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19837,11 +19725,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 제7회 제대군인 창업 워크숍 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/ihcLn)
 
-## 178. [제64차 2026년 대구스타트업 리더스포럼 IR피칭 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178283)
+## 177. [제64차 2026년 대구스타트업 리더스포럼 IR피칭 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178283)
 
 - **기관**: (재)대구창조경제혁신센터 대표이사
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-23 ~ 2026-08-26 (D-32)
+- **접수**: 2026-06-23 ~ 2026-08-26 (D-31)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -19949,11 +19837,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[공고문] 제64차 리더스포럼 IR피칭 참여기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/9fbLn)
 - [[양식] 2026년 대구스타트업 리더스포럼 IR 피칭 참가 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/bfbLn)
 
-## 179. [2026년 투자유치를 위한 역량강화지원 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178526)
+## 178. [2026년 투자유치를 위한 역량강화지원 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178526)
 
 - **기관**: 달구벌여성인력개발센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 대구
-- **접수**: 2026-07-10 ~ 2026-08-28 (D-34)
+- **접수**: 2026-07-10 ~ 2026-08-28 (D-33)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20056,11 +19944,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[달구벌여성인력개발센터] 2026년 투자유치 역량강화지원사업 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/dXcLn)
 
-## 180. [2026년 벤처나라제품 발굴 및 추천 지원 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178284)
+## 179. [2026년 벤처나라제품 발굴 및 추천 지원 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178284)
 
 - **기관**: 국가물산업클러스터
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-06-24 ~ 2026-08-28 (D-34)
+- **접수**: 2026-06-24 ~ 2026-08-28 (D-33)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20177,11 +20065,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/GfbLn)
 - [붙임2. 제출서류 및 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/HfbLn)
 
-## 181. [강동구 청년해냄센터 취약분야 상시 컨설팅 8월 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178543)
+## 180. [강동구 청년해냄센터 취약분야 상시 컨설팅 8월 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178543)
 
 - **기관**: 강동구 청년해냄센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-07-14 ~ 2026-08-31 (D-37)
+- **접수**: 2026-07-14 ~ 2026-08-31 (D-36)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20280,11 +20168,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [포스터_취약분야 상시 컨설팅_2026년.txt](https://www.k-startup.go.kr/afile/fileDownload/EfcLn)
 - [포스터_취약분야 상시 컨설팅_2026년.png](https://www.k-startup.go.kr/afile/fileDownload/FfcLn)
 
-## 182. [강원창조경제혁신센터 2026년 창업BuS 강원브릿지 화요IR 참여기업 모집(7~8월)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178519)
+## 181. [강원창조경제혁신센터 2026년 창업BuS 강원브릿지 화요IR 참여기업 모집(7~8월)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178519)
 
 - **기관**: (재)강원창조경제혁신센터
 - 주관 공공기관 · 분야 정책자금 · 지역 전국
-- **접수**: 2026-07-10 ~ 2026-08-31 (D-37)
+- **접수**: 2026-07-10 ~ 2026-08-31 (D-36)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20414,11 +20302,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [강원창경센터 창업BuS 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/gccLn)
 - [강원창경센터 창업BuS 포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/3gcLn)
 
-## 183. [2026년 청주미래누리터(공공지식산업센터) 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178400)
+## 182. [2026년 청주미래누리터(공공지식산업센터) 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178400)
 
 - **기관**: (사)한국산업진흥협회
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 충북
-- **접수**: 2026-07-02 ~ 2026-08-31 (D-37)
+- **접수**: 2026-07-02 ~ 2026-08-31 (D-36)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20541,11 +20429,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2.txt](https://www.k-startup.go.kr/afile/fileDownload/dwcLn)
 - [3.txt](https://www.k-startup.go.kr/afile/fileDownload/ZwcLn)
 
-## 184. [(소방청 공고 제2026-92호) 2026년 소방장비·용품 공공조달 컨설팅 지원사업 참여업체 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178295)
+## 183. [(소방청 공고 제2026-92호) 2026년 소방장비·용품 공공조달 컨설팅 지원사업 참여업체 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178295)
 
 - **기관**: (주)선영파트너스
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-26 ~ 2026-08-31 (D-37)
+- **접수**: 2026-06-26 ~ 2026-08-31 (D-36)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20648,11 +20536,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[소방청 공고 제2026-92호] 소방장비·용품 공공조달 컨설팅 지원사업 참여업체 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/RhbLn)
 - [[소방청 공고 제2026-92호] 소방장비·용품 공공조달 컨설팅 지원사업 참여업체 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/vhbLn)
 
-## 185. [「제24차 세계한상대회 기업전시회」부스 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177930)
+## 184. [「제24차 세계한상대회 기업전시회」부스 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177930)
 
 - **기관**: 재외동포청
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-06-08 ~ 2026-08-31 (D-37)
+- **접수**: 2026-06-08 ~ 2026-08-31 (D-36)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20769,11 +20657,11 @@ Corporate+Exhibition+Participation+Regulations.hwp
 - [Declaration+of+Import+Export+of+Exhibits.hwp](https://www.k-startup.go.kr/afile/fileDownload/3c9Ln)
 - [Corporate+Exhibition+Participation+Regulations.hwp](https://www.k-startup.go.kr/afile/fileDownload/Jc9Ln)
 
-## 186. [2026 관악S밸리 GROW-UP 기술컨설팅 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177505)
+## 185. [2026 관악S밸리 GROW-UP 기술컨설팅 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177505)
 
 - **기관**: (재)관악중소벤처진흥원장
 - 주관 공공기관 · 분야 사업화 · 지역 서울
-- **접수**: 2026-05-01 ~ 2026-08-31 (D-37)
+- **접수**: 2026-05-01 ~ 2026-08-31 (D-36)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -20911,11 +20799,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [모집포스터.png](https://www.k-startup.go.kr/afile/fileDownload/yLlLn)
 - [모집포스터.txt](https://www.k-startup.go.kr/afile/fileDownload/AOlLn)
 
-## 187. [2026 시제품 제작 구현을 위한 소싱 디렉팅 운영](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176961)
+## 186. [2026 시제품 제작 구현을 위한 소싱 디렉팅 운영](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176961)
 
 - **기관**: 차세대융합기술연구원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-03-30 ~ 2026-08-31 (D-37)
+- **접수**: 2026-03-30 ~ 2026-08-31 (D-36)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21000,11 +20888,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[포스터완료] 차세대융합기술연구원 컨설팅모집 포스터(A2).pdf](https://www.k-startup.go.kr/afile/fileDownload/y7QLn)
 
-## 188. [2026 창업지원사업 통합공고 요약본, 챗봇 제공 지원사업 준비를 AI와 함께 하는 방법](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175817)
+## 187. [2026 창업지원사업 통합공고 요약본, 챗봇 제공 지원사업 준비를 AI와 함께 하는 방법](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175817)
 
 - **기관**: (주)위커밋
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-02-08 ~ 2026-09-01 (D-38)
+- **접수**: 2026-02-08 ~ 2026-09-01 (D-37)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21104,11 +20992,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [위커밋_2026년통합공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/tqiLn)
 
-## 189. [2026년 제3차 보건신기술(NET) 인증사업 신규인증 및 기간연장 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178571)
+## 188. [2026년 제3차 보건신기술(NET) 인증사업 신규인증 및 기간연장 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178571)
 
 - **기관**: 한국보건산업진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-09-02 (D-39)
+- **접수**: 2026-07-15 ~ 2026-09-02 (D-38)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21201,11 +21089,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년도 제3차 보건신기술 신청 접수 공고.hwpx](https://www.k-startup.go.kr/afile/fileDownload/lKcLn)
 - [2026년도 제3차 보건신기술 신청 접수 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/9KcLn)
 
-## 190. [2026년 성장플러스 창업사업화 지원사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178622)
+## 189. [2026년 성장플러스 창업사업화 지원사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178622)
 
 - **기관**: 달구벌여성인력개발센터
 - 주관 민간 · 분야 사업화 · 지역 대구
-- **접수**: 2026-07-20 ~ 2026-09-03 (D-40)
+- **접수**: 2026-07-20 ~ 2026-09-03 (D-39)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21331,11 +21219,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1.2026년 성장플러스 창업사업화 지원사업 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/STcLn)
 - [2.참가신청서 및 제출서류.hwp](https://www.k-startup.go.kr/afile/fileDownload/xTcLn)
 
-## 191. [2026년 여성창업 사업화지원사업(2차) 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178589)
+## 190. [2026년 여성창업 사업화지원사업(2차) 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178589)
 
 - **기관**: 달구벌여성인력개발센터
 - 주관 민간 · 분야 사업화 · 지역 대구
-- **접수**: 2026-07-16 ~ 2026-09-17 (D-54)
+- **접수**: 2026-07-16 ~ 2026-09-17 (D-53)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21447,11 +21335,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 여성창업사업화지원사업(2차) 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/1FcLn)
 - [참가신청서 및 제출서류(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/2FcLn)
 
-## 192. [2026년 제5회 유니버설디자인 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178547)
+## 191. [2026년 제5회 유니버설디자인 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178547)
 
 - **기관**: 한남대학교 사회혁신성장지원센터
 - 주관 교육기관 · 분야 행사ㆍ네트워크 · 지역 대전
-- **접수**: 2026-07-15 ~ 2026-09-20 (D-57)
+- **접수**: 2026-07-15 ~ 2026-09-20 (D-56)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21578,11 +21466,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[공고문] 2026년 제5회 유니버설디자인 공모전 공고문(안).pdf](https://www.k-startup.go.kr/afile/fileDownload/AhcLn)
 - [[웹포스터] 2026 제5회 유니버설디자인 공모전.hwpx](https://www.k-startup.go.kr/afile/fileDownload/7hcLn)
 
-## 193. [2026년 체육인 직업안정(창업지원) 사업 창업교육과정(씨앗) 참여자 추가 모집(9.30.)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178561)
+## 192. [2026년 체육인 직업안정(창업지원) 사업 창업교육과정(씨앗) 참여자 추가 모집(9.30.)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178561)
 
 - **기관**: 국민체육진흥공단
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-15 ~ 2026-09-30 (D-67)
+- **접수**: 2026-07-15 ~ 2026-09-30 (D-66)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21689,11 +21577,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별첨3] 창업지원사업 참여제한 확인서(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/j3cLn)
 - [[별첨1] 창업교육과정(씨앗) 신청서 및 자기소개서.hwp](https://www.k-startup.go.kr/afile/fileDownload/V3cLn)
 
-## 194. [방송미디어통신위원회, 한국인터넷진흥원 국민안전 LBS 솔루션 대상 (~9.30, 16:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178536)
+## 193. [방송미디어통신위원회, 한국인터넷진흥원 국민안전 LBS 솔루션 대상 (~9.30, 16:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178536)
 
 - **기관**: 한국인터넷진흥원
 - 주관 민간 · 분야 사업화 · 지역 전국
-- **접수**: 2026-07-13 ~ 2026-09-30 (D-67)
+- **접수**: 2026-07-13 ~ 2026-09-30 (D-66)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21807,11 +21695,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 국민안전 LBS 솔루션 대상 모집요강.jpg](https://www.k-startup.go.kr/afile/fileDownload/B2cLn)
 - [2026년 국민안전 LBS 솔루션 대상 모집요강.txt](https://www.k-startup.go.kr/afile/fileDownload/PKcLn)
 
-## 195. [동국대BMC창업보육센터 바이오ㆍ메디컬 패키지지원 프로그램 참여기업 모집(~9/30(금)까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178200)
+## 194. [동국대BMC창업보육센터 바이오ㆍ메디컬 패키지지원 프로그램 참여기업 모집(~9/30(금)까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178200)
 
 - **기관**: 동국대학교 BMC창업보육센터
 - 주관 교육기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-19 ~ 2026-09-30 (D-67)
+- **접수**: 2026-06-19 ~ 2026-09-30 (D-66)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -21922,11 +21810,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. 2026 바이오메디컬 맞춤형 패키지 지원 프로그램 공고_.hwp](https://www.k-startup.go.kr/afile/fileDownload/djbLn)
 - [2. 2026 바이오메디컬 맞춤형 패키지 지원 프로그램 제출서류 양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/SjbLn)
 
-## 196. [2026 『부산국제신발섬유패션전시회(PFB패패부산)』 참가 기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178097)
+## 195. [2026 『부산국제신발섬유패션전시회(PFB패패부산)』 참가 기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178097)
 
 - **기관**: (사)부산섬유패션산업연합회 
 - 주관 민간 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-06-11 ~ 2026-09-30 (D-67)
+- **접수**: 2026-06-11 ~ 2026-09-30 (D-66)
 - **신청 대상**: 대학생, 대학, 연구기관, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22026,11 +21914,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 『부산국제신발섬유패션전시회(PFB패패부산)』 참가 기업 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/tv9Ln)
 - [2026 『부산국제신발섬유패션전시회(PFB패패부산)』 참가신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/5v9Ln)
 
-## 197. [성남 식품제조 소공인특화지원센터 소공인 기술 컨설팅 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177121)
+## 196. [성남 식품제조 소공인특화지원센터 소공인 기술 컨설팅 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177121)
 
 - **기관**: 성남산업진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-04-08 ~ 2026-09-30 (D-67)
+- **접수**: 2026-04-08 ~ 2026-09-30 (D-66)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22136,11 +22024,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임2] 사업신청서(기술컨설팅).hwp](https://www.k-startup.go.kr/afile/fileDownload/oxQLn)
 - [[붙임3] 개인정보동의서 및 주업종확인서.hwp](https://www.k-startup.go.kr/afile/fileDownload/wxQLn)
 
-## 198. [2026년 K-Global 해외진출 지원사업 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176968)
+## 197. [2026년 K-Global 해외진출 지원사업 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176968)
 
 - **기관**: 글로벌디지털혁신네트워크
 - 주관 민간 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-04-01 ~ 2026-09-30 (D-67)
+- **접수**: 2026-04-01 ~ 2026-09-30 (D-66)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22262,11 +22150,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 K-Global 해외진출 지원사업 참여기업 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/FkQLn)
 
-## 199. [2026 여성발명진흥 사업 위한 전문가 평가위원 Pool 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176937)
+## 198. [2026 여성발명진흥 사업 위한 전문가 평가위원 Pool 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176937)
 
 - **기관**: 한국여성발명협회
 - 주관 민간 · 분야 인력 · 지역 전국
-- **접수**: 2026-03-25 ~ 2026-09-30 (D-67)
+- **접수**: 2026-03-25 ~ 2026-09-30 (D-66)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22344,11 +22232,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [26 전문가 평가위원 Pool 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/M6QLn)
 
-## 200. [2026년 체육인 직업안정 사업(창업지원) 창업교육과정(씨앗) 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176858)
+## 199. [2026년 체육인 직업안정 사업(창업지원) 창업교육과정(씨앗) 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176858)
 
 - **기관**: 국민체육진흥공단
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-03-12 ~ 2026-09-30 (D-67)
+- **접수**: 2026-03-12 ~ 2026-09-30 (D-66)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22528,11 +22416,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(웹용포스터)_2026년 체육인 직업안정 사업(창업지원).jpg](https://www.k-startup.go.kr/afile/fileDownload/IvVLn)
 - [(웹용포스터)_2026년 체육인 직업안정 사업(창업지원).hwp](https://www.k-startup.go.kr/afile/fileDownload/BvVLn)
 
-## 201. [신규설립 2026년 DNA 융합 제품·서비스 해외진출 지원 사업 참여기업 모집선발 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176645)
+## 200. [신규설립 2026년 DNA 융합 제품·서비스 해외진출 지원 사업 참여기업 모집선발 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176645)
 
 - **기관**: (재)글로벌디지털혁신네트워크
 - 주관 민간 · 분야 글로벌 · 지역 전국
-- **접수**: 2026-03-10 ~ 2026-09-30 (D-67)
+- **접수**: 2026-03-10 ~ 2026-09-30 (D-66)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22619,11 +22507,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 DNA 융합 제품서비스 해외진출 지원사업 참여기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/TNVLn)
 
-## 202. [2026 위치정보(위치기반) 사업자를 위한 클라우드 지원사업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175808)
+## 201. [2026 위치정보(위치기반) 사업자를 위한 클라우드 지원사업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175808)
 
 - **기관**: 디엔에이클라우드
 - 주관 민간 · 분야 기술개발(R&amp;D) · 지역 전국
-- **접수**: 2025-12-29 ~ 2026-09-30 (D-67)
+- **접수**: 2025-12-29 ~ 2026-09-30 (D-66)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22713,11 +22601,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임)위치정보사업자를 위한 클라우드 인프라 지원사업 모집공고.png](https://www.k-startup.go.kr/afile/fileDownload/gciLn)
 - [(붙임)위치정보사업자를 위한 클라우드 인프라 지원사업 모집공고.txt](https://www.k-startup.go.kr/afile/fileDownload/eciLn)
 
-## 203. [2026 의왕시 ESG 인식확산 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178597)
+## 202. [2026 의왕시 ESG 인식확산 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178597)
 
 - **기관**: ESGi 이에스지아이
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-07-20 ~ 2026-10-27 (D-94)
+- **접수**: 2026-07-20 ~ 2026-10-27 (D-93)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22818,11 +22706,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [의왕시 ESG 교육 포스터_7.8_v.3.jpg](https://www.k-startup.go.kr/afile/fileDownload/2xcLn)
 - [의왕시 ESG 교육 포스터_7.8_v.3.hwpx](https://www.k-startup.go.kr/afile/fileDownload/excLn)
 
-## 204. [2026 경기도 ESG 인식확산 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178408)
+## 203. [2026 경기도 ESG 인식확산 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178408)
 
 - **기관**: ESGi 이에스지아이
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-07-03 ~ 2026-10-30 (D-97)
+- **접수**: 2026-07-03 ~ 2026-10-30 (D-96)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -22924,11 +22812,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [경기도 포스터_07.02_v.5_1.jpg](https://www.k-startup.go.kr/afile/fileDownload/6mcLn)
 - [경기도 포스터_07.02_v.5_1.hwpx](https://www.k-startup.go.kr/afile/fileDownload/1ccLn)
 
-## 205. [2026년 Ready To Scale 프로그램 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178247)
+## 204. [2026년 Ready To Scale 프로그램 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178247)
 
 - **기관**: 조슈아파트너스(주)
 - 주관 민간 · 분야 사업화 · 지역 대전
-- **접수**: 2026-06-23 ~ 2026-10-30 (D-97)
+- **접수**: 2026-06-23 ~ 2026-10-30 (D-96)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23029,11 +22917,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[포스터] 2026년 Ready To Scale 프로그램 참여기업 모집 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/x0bLn)
 - [[포스터 워드 파일] 2026년 Ready To Scale 프로그램 참여기업 모집 공고.hwpx](https://www.k-startup.go.kr/afile/fileDownload/AWbLn)
 
-## 206. [2026 중소기업AI훈련 맞춤 컨설팅 100% 정부지원 프로그램 참여기업 모집모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177466)
+## 205. [2026 중소기업AI훈련 맞춤 컨설팅 100% 정부지원 프로그램 참여기업 모집모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177466)
 
 - **기관**: 중소기업AI훈련확산센터대한상공회의소경기인력개발원
 - 주관 교육기관 · 분야 기술개발(R&amp;D) · 지역 서울
-- **접수**: 2026-04-30 ~ 2026-10-30 (D-97)
+- **접수**: 2026-04-30 ~ 2026-10-30 (D-96)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23128,11 +23016,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [중소기업ai모집.png](https://www.k-startup.go.kr/afile/fileDownload/TrlLn)
 - [중소기업ai모집.hwp](https://www.k-startup.go.kr/afile/fileDownload/UrlLn)
 
-## 207. [인천지식재산센터 IP디딤돌 아이디어 권리화 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176296)
+## 206. [인천지식재산센터 IP디딤돌 아이디어 권리화 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176296)
 
 - **기관**: 인천지식재산센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 인천
-- **접수**: 2026-02-11 ~ 2026-10-30 (D-97)
+- **접수**: 2026-02-11 ~ 2026-10-30 (D-96)
 - **신청 대상**: 대학생, 일반인, 1인 창조기업
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23230,11 +23118,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. 2026년 IP디딤돌 프로그램 아이디어 권리화 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/lbjLn)
 - [(참고) 사실증명(사업자등록사실여부) 발급 방법.pdf](https://www.k-startup.go.kr/afile/fileDownload/9bjLn)
 
-## 208. [2026년 김해소재 스타트업 국내특허 출원비용 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177899)
+## 207. [2026년 김해소재 스타트업 국내특허 출원비용 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177899)
 
 - **기관**: (주)라코(RAKO)
 - 주관 민간 · 분야 사업화 · 지역 경남
-- **접수**: 2026-06-01 ~ 2026-10-31 (D-98)
+- **접수**: 2026-06-01 ~ 2026-10-31 (D-97)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23337,11 +23225,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 2. 기업정보 수집 활용 동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/Ek9Ln)
 - [붙임 3. 서약서.hwp](https://www.k-startup.go.kr/afile/fileDownload/Fk9Ln)
 
-## 209. [「2026 딥테크 스튜디오」 공공기술 활용 딥테크 스타트업 상시 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177210)
+## 208. [「2026 딥테크 스튜디오」 공공기술 활용 딥테크 스타트업 상시 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177210)
 
 - **기관**: (재)대전창조경제혁신센터
 - 주관 공공기관 · 분야 사업화 · 지역 대전
-- **접수**: 2026-04-14 ~ 2026-10-31 (D-98)
+- **접수**: 2026-04-14 ~ 2026-10-31 (D-97)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23442,11 +23330,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임 3. 「2026 딥테크 스튜디오」 모집공고 포스터.png](https://www.k-startup.go.kr/afile/fileDownload/oqkLn)
 - [붙임 4. 「2026 딥테크 스튜디오」 모집공고 포스터.hwp](https://www.k-startup.go.kr/afile/fileDownload/bOkLn)
 
-## 210. [성남산업진흥원 2026년 창업기업 상시 멘토링 참여자(멘티)  모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176190)
+## 209. [성남산업진흥원 2026년 창업기업 상시 멘토링 참여자(멘티)  모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176190)
 
 - **기관**: 성남산업진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-02-04 ~ 2026-10-31 (D-98)
+- **접수**: 2026-02-04 ~ 2026-10-31 (D-97)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23538,11 +23426,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임] 멘토링 모집 공고문.png](https://www.k-startup.go.kr/afile/fileDownload/qPjLn)
 - [[붙임]멘토링 모집 공고문.txt](https://www.k-startup.go.kr/afile/fileDownload/5PjLn)
 
-## 211. [충남  2026년 IP디딤돌프로그램   아이디어 권리화 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176218)
+## 210. [충남  2026년 IP디딤돌프로그램   아이디어 권리화 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176218)
 
 - **기관**: 충남북부상공회의소  충남지식재산센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 충남
-- **접수**: 2026-02-11 ~ 2026-11-06 (D-104)
+- **접수**: 2026-02-11 ~ 2026-11-06 (D-103)
 - **신청 대상**: 청소년, 대학생, 일반인
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23633,11 +23521,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1)_2026년_IP디딤돌프로그램_아이디어권리화 모집공고문 .pdf](https://www.k-startup.go.kr/afile/fileDownload/QDjLn)
 - [붙임2)_2026년 IP디딤돌프로그램_아이디어신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/kDjLn)
 
-## 212. [2026 대경권 엔젤투자 포럼 참여기업 모집 상시 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176378)
+## 211. [2026 대경권 엔젤투자 포럼 참여기업 모집 상시 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176378)
 
 - **기관**: (사)한국엔젤투자협회 대경권엔젤투자허브
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경북
-- **접수**: 2026-02-23 ~ 2026-11-07 (D-105)
+- **접수**: 2026-02-23 ~ 2026-11-07 (D-104)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23727,11 +23615,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026 대경권 엔젤투자 포럼 참여기업 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/MHjLn)
 
-## 213. [2026 대경권 엔젤투자 피칭룸 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176406)
+## 212. [2026 대경권 엔젤투자 피칭룸 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176406)
 
 - **기관**: (사)한국엔젤투자협회 대경권엔젤투자허브
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경북
-- **접수**: 2026-02-24 ~ 2026-11-20 (D-118)
+- **접수**: 2026-02-24 ~ 2026-11-20 (D-117)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23823,11 +23711,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [1. 2026 대경권 엔젤투자 피칭룸 참여기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/jdjLn)
 
-## 214. [2026년 사회적기업 시설·운영비 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178234)
+## 213. [2026년 사회적기업 시설·운영비 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178234)
 
 - **기관**: 열매나눔재단
 - 주관 민간 · 분야 융자ㆍ보증 · 지역 전국
-- **접수**: 2026-06-24 ~ 2026-11-22 (D-120)
+- **접수**: 2026-06-24 ~ 2026-11-22 (D-119)
 - **신청 대상**: 일반기업
 - **창업 기간**: 2년미만, 3년미만, 5년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -23923,11 +23811,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[열매나눔재단] 사회적기업 시설·운영비 지원사업.jpg](https://www.k-startup.go.kr/afile/fileDownload/aEbLn)
 - [[열매나눔재단] 사회적기업 시설·운영비 지원사업.txt](https://www.k-startup.go.kr/afile/fileDownload/dEbLn)
 
-## 215. [「2026년 경남창조경제혁신센터 창업-BuS 프로그램」참여 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176755)
+## 214. [「2026년 경남창조경제혁신센터 창업-BuS 프로그램」참여 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176755)
 
 - **기관**: (재)경남창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-03-16 ~ 2026-11-23 (D-121)
+- **접수**: 2026-03-16 ~ 2026-11-23 (D-120)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24019,11 +23907,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[공고문]2026년 경남창조경제혁신센터 창업-BuS 프로그램 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/3fVLn)
 
-## 216. [경기 스타트업 지원센터 일반상담 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176494)
+## 215. [경기 스타트업 지원센터 일반상담 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176494)
 
 - **기관**: 경기도경제과학진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-03-03 ~ 2026-11-25 (D-123)
+- **접수**: 2026-03-03 ~ 2026-11-25 (D-122)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24101,11 +23989,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. 스타트업 지원센터 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/8AVLn)
 - [2. 스타트업 지원센터 일반상담 이용 가이드 및 신청 양식.hwp](https://www.k-startup.go.kr/afile/fileDownload/iAVLn)
 
-## 217. [2026년 구미시 스타트업 제작센터 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177152)
+## 216. [2026년 구미시 스타트업 제작센터 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177152)
 
 - **기관**: 구미전자정보기술원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-04-13 ~ 2026-11-27 (D-125)
+- **접수**: 2026-04-13 ~ 2026-11-27 (D-124)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24191,11 +24079,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(공고문) 2026년 구미시 스타트업 제작센터 참여기업 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/DvQLn)
 - [(양식) 스타트업 제작센터 참여기업 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/6vQLn)
 
-## 218. [방송미디어통신위원회, 한국인터넷진흥원2026 위치정보 맞춤형 컨설팅 참여기업 모집(상시)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177864)
+## 217. [방송미디어통신위원회, 한국인터넷진흥원2026 위치정보 맞춤형 컨설팅 참여기업 모집(상시)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177864)
 
 - **기관**: 한국능률협회컨설팅
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-05-11 ~ 2026-11-30 (D-128)
+- **접수**: 2026-05-11 ~ 2026-11-30 (D-127)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24296,11 +24184,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[방송미디어통신위원회, 한국인터넷진흥원]2026 위치정보 맞춤형 컨설팅 참여기업 모집(상시).jpg](https://www.k-startup.go.kr/afile/fileDownload/q79Ln)
 - [[방송미디어통신위원회, 한국인터넷진흥원]2026 위치정보 맞춤형 컨설팅 참여기업 모집(상시).txt](https://www.k-startup.go.kr/afile/fileDownload/O79Ln)
 
-## 219. [충남 벤처투자포럼 및 IR 컨설팅 지원 사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177681)
+## 218. [충남 벤처투자포럼 및 IR 컨설팅 지원 사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177681)
 
 - **기관**: (주)티인베스트먼트
 - 주관 민간 · 분야 사업화 · 지역 충남
-- **접수**: 2026-05-15 ~ 2026-11-30 (D-128)
+- **접수**: 2026-05-15 ~ 2026-11-30 (D-127)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24406,11 +24294,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[포스터] 충남벤처투자포럼 및 IR컨설팅 참여기업 모집.pdf](https://www.k-startup.go.kr/afile/fileDownload/fG9Ln)
 - [[포스터] 충남벤처투자포럼 및 IR컨설팅 참여기업 모집.txt](https://www.k-startup.go.kr/afile/fileDownload/gG9Ln)
 
-## 220. [2026년 수출 중소·중견기업을 위한 ESG 공급망 컨설팅 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177563)
+## 219. [2026년 수출 중소·중견기업을 위한 ESG 공급망 컨설팅 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177563)
 
 - **기관**: ESGi 이에스지아이
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-05-11 ~ 2026-11-30 (D-128)
+- **접수**: 2026-05-11 ~ 2026-11-30 (D-127)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24508,11 +24396,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(1P)(포스터) 26년 KPC 중소중견기업 ESG 공급망실사.pdf](https://www.k-startup.go.kr/afile/fileDownload/qXlLn)
 - [(포스터) 26년 KPC 중소중견기업 ESG 공급망실사.txt](https://www.k-startup.go.kr/afile/fileDownload/wXlLn)
 
-## 221. [「2026년 창업-BuS at 경북」참여기업 모집공고(상시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176782)
+## 220. [「2026년 창업-BuS at 경북」참여기업 모집공고(상시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176782)
 
 - **기관**: 경북창조경제혁신센터
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-02-20 ~ 2026-11-30 (D-128)
+- **접수**: 2026-02-20 ~ 2026-11-30 (D-127)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24600,11 +24488,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [★(2026-06호)2026년 창업BuS at 경북 참여기업 모집 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/GJVLn)
 - [★(2026-06호)2026년 창업BuS at 경북 참여기업 모집_신청서(양식).hwp](https://www.k-startup.go.kr/afile/fileDownload/HJVLn)
 
-## 222. [창업지원사업 예비위원단 재모집 (신산업분야)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391)
+## 221. [창업지원사업 예비위원단 재모집 (신산업분야)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176391)
 
 - **기관**: 창업진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-02-23 ~ 2026-11-30 (D-128)
+- **접수**: 2026-02-23 ~ 2026-11-30 (D-127)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24710,11 +24598,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임2] 신산업 분야 관련 경력기술서.hwpx](https://www.k-startup.go.kr/afile/fileDownload/qajLn)
 - [[붙임3] 신산업분야 예비위원 신청 가이드.pdf](https://www.k-startup.go.kr/afile/fileDownload/OajLn)
 
-## 223. [2026년 창업·벤처 녹색융합클러스터 그린아이디어랩 비상주오피스 이용자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176316)
+## 222. [2026년 창업·벤처 녹색융합클러스터 그린아이디어랩 비상주오피스 이용자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176316)
 
 - **기관**: 한국환경산업기술원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-02-13 ~ 2026-11-30 (D-128)
+- **접수**: 2026-02-13 ~ 2026-11-30 (D-127)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24818,11 +24706,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [비상주오피스 이용공간(공유라운지).jpg](https://www.k-startup.go.kr/afile/fileDownload/bXjLn)
 - [붙임 2. 창업·벤처 녹색융합클러스터 그린아이디어랩 이용자 모집공고(비상주오피스).hwp](https://www.k-startup.go.kr/afile/fileDownload/Y4QLn)
 
-## 224. [2026년 IP디딤돌 프로그램 지원대상 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176248)
+## 223. [2026년 IP디딤돌 프로그램 지원대상 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176248)
 
 - **기관**: 강원특별자치도경제진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 강원
-- **접수**: 2026-02-09 ~ 2026-11-30 (D-128)
+- **접수**: 2026-02-09 ~ 2026-11-30 (D-127)
 - **신청 대상**: 대학생, 일반인, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -24942,11 +24830,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임3. 2026년 IP기반 창업 교육 교육생 모집 안내.pdf](https://www.k-startup.go.kr/afile/fileDownload/Z7jLn)
 - [붙임4. 2026년 IP기반 창업 교육 신청서 및 개인정보제공활용동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/S7jLn)
 
-## 225. [2026 신개념 세대융합 청년창업 지원 멘티 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176208)
+## 224. [2026 신개념 세대융합 청년창업 지원 멘티 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176208)
 
 - **기관**: 인천창조경제혁신센터
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 인천
-- **접수**: 2026-02-04 ~ 2026-11-30 (D-128)
+- **접수**: 2026-02-04 ~ 2026-11-30 (D-127)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하
@@ -25040,11 +24928,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임2. 2026년 신개념 세대융합 청년 창업지원 멘티 상시모집.jpg](https://www.k-startup.go.kr/afile/fileDownload/cMjLn)
 - [붙임3. 2026년 신개념 세대융합 청년 창업지원 멘티 상시모집.txt](https://www.k-startup.go.kr/afile/fileDownload/0MjLn)
 
-## 226. [2026년 용산구 청년기업 융자지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176090)
+## 225. [2026년 용산구 청년기업 융자지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176090)
 
 - **기관**: 용산구청
 - 주관 공공기관 · 분야 융자ㆍ보증 · 지역 서울
-- **접수**: 2026-01-27 ~ 2026-11-30 (D-128)
+- **접수**: 2026-01-27 ~ 2026-11-30 (D-127)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -25130,11 +25018,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(붙임2) 융자신청 심사 채점표.hwpx](https://www.k-startup.go.kr/afile/fileDownload/oYiLn)
 - [(붙임3) 신청서식 등 관련서식.hwpx](https://www.k-startup.go.kr/afile/fileDownload/wYiLn)
 
-## 227. [2026년 벤처나라 벤처창업기업제품 등록 지원제도 기관 추천 희망 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177278)
+## 226. [2026년 벤처나라 벤처창업기업제품 등록 지원제도 기관 추천 희망 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177278)
 
 - **기관**: 서울창업허브 창동
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 서울
-- **접수**: 2026-03-03 ~ 2026-12-15 (D-143)
+- **접수**: 2026-03-03 ~ 2026-12-15 (D-142)
 - **신청 대상**: 일반기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25229,11 +25117,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년_벤처나라_'벤처창업기업제품'_기관추천_신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/C8kLn)
 - [2026년_벤처나라_벤처나라제품_지정신청_변경_공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/LxlLn)
 
-## 228. [영산대학교 창업보육센터 2026년 신규입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178453)
+## 227. [영산대학교 창업보육센터 2026년 신규입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178453)
 
 - **기관**: 영산대학교 그린창업보육센터
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 경남
-- **접수**: 2026-07-07 ~ 2026-12-30 (D-158)
+- **접수**: 2026-07-07 ~ 2026-12-30 (D-157)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25362,11 +25250,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1.영산대학교 그린창업보육센터 입주공간 내부사진.pdf](https://www.k-startup.go.kr/afile/fileDownload/GDcLn)
 - [붙임2.그린창업보육센터 평면도(4~6층).pdf](https://www.k-startup.go.kr/afile/fileDownload/26cLn)
 
-## 229. [안양대학교 창업보육센터 2026년 하반기 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178527)
+## 228. [안양대학교 창업보육센터 2026년 하반기 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178527)
 
 - **기관**: 안양대학교 창업보육센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-07-15 ~ 2026-12-31 (D-159)
+- **접수**: 2026-07-15 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25509,11 +25397,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [안양대학교 창업보육센터 입주공간 사진(1509호).pdf](https://www.k-startup.go.kr/afile/fileDownload/BXcLn)
 - [안양대학교 창업보육센터 입주공간 사진(1510호).pdf](https://www.k-startup.go.kr/afile/fileDownload/m1cLn)
 
-## 230. [2026년 서울 기후테크 기업 및 예비창업자를 위한 멘토링 지원사업 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178445)
+## 229. [2026년 서울 기후테크 기업 및 예비창업자를 위한 멘토링 지원사업 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178445)
 
 - **기관**: 서울기후테크산업지원센터장
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-07-07 ~ 2026-12-31 (D-159)
+- **접수**: 2026-07-07 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25611,11 +25499,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2. 멘토링_신청서_(기업명)_(멘토성명)_(차수)_(신청일자26.mm.dd).hwp](https://www.k-startup.go.kr/afile/fileDownload/v5cLn)
 - [3. 시스템_정보활용_동의서(멘티).hwp](https://www.k-startup.go.kr/afile/fileDownload/I5cLn)
 
-## 231. [(주)미래서비스 1인 창조기업 지원센터 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178289)
+## 230. [(주)미래서비스 1인 창조기업 지원센터 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178289)
 
 - **기관**: (주)미래서비스 1인창조기업지원센터
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 인천
-- **접수**: 2026-06-27 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-27 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25729,11 +25617,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[공고문] (주)미래서비스 1인 창조기업 지원센터 모집공고문_260625.pdf](https://www.k-startup.go.kr/afile/fileDownload/MgbLn)
 - [[붙임] 입주신청서 등 서류.hwp](https://www.k-startup.go.kr/afile/fileDownload/NgbLn)
 
-## 232. [한국폴리텍Ⅱ대학 창업보육센터 입주기업 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178214)
+## 231. [한국폴리텍Ⅱ대학 창업보육센터 입주기업 상시 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178214)
 
 - **기관**: 한국폴리텍Ⅱ대학 창업보육센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 인천
-- **접수**: 2026-06-22 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-22 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25857,11 +25745,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [한국폴리텍Ⅱ대학 창업보육센터 신규입주신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/vkbLn)
 - [한국폴리텍Ⅱ대학 창업보육센터 내ㆍ외부 사진.pdf](https://www.k-startup.go.kr/afile/fileDownload/ylbLn)
 
-## 233. [서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178113)
+## 232. [서울창업허브 스타트업플러스 플랫폼 온라인 투자밋업 참가안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178113)
 
 - **기관**: 서울경제진흥원
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-06-11 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-11 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -25949,11 +25837,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026 스타트업플러스 투자밋업 이용 매뉴얼.pdf](https://www.k-startup.go.kr/afile/fileDownload/MB9Ln)
 
-## 234. [정부지원 2026년 중소기업 AI 역량 강화 및 실무 자동화 교육생 모집 (인재키움 프리미엄)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178023)
+## 233. [정부지원 2026년 중소기업 AI 역량 강화 및 실무 자동화 교육생 모집 (인재키움 프리미엄)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178023)
 
 - **기관**: (주)메타코드에이치
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-06-08 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-08 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26040,11 +25928,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[정부지원] 2026년 중소기업 AI 역량 강화 및 실무 자동화 교육생 모집 (인재키움 프리미엄).pdf](https://www.k-startup.go.kr/afile/fileDownload/pG9Ln)
 
-## 235. [2026년 경기 스타트업 아카데미 민간협력 프로그램 「링크업」 운영 제안 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178017)
+## 234. [2026년 경기 스타트업 아카데미 민간협력 프로그램 「링크업」 운영 제안 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178017)
 
 - **기관**: 경기도·경기도경제과학진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경기
-- **접수**: 2026-06-08 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-08 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학, 연구기관, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26156,11 +26044,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [링크업 홍보물 최종.png](https://www.k-startup.go.kr/afile/fileDownload/cF9Ln)
 - [링크업 홍보물 최종.txt](https://www.k-startup.go.kr/afile/fileDownload/0F9Ln)
 
-## 236. [화성동탄2 인큐베이팅센터 및 스마트주차장 상가 임대공급 선착순 수의계약 공고(정착,창업형)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177970)
+## 235. [화성동탄2 인큐베이팅센터 및 스마트주차장 상가 임대공급 선착순 수의계약 공고(정착,창업형)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177970)
 
 - **기관**: 한국토지주택공사
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-06-05 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-05 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26349,11 +26237,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임2_입점신청서_양식(정착·창업형).hwp](https://www.k-startup.go.kr/afile/fileDownload/Ag9Ln)
 - [동탄2_인큐베이팅센터_상가_리플렛.pdf](https://www.k-startup.go.kr/afile/fileDownload/og9Ln)
 
-## 237. [화성동탄2 인큐베이팅센터 및 스마트주차장 상가 임대공급 선착순 수의계약 공고(일반형)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177957)
+## 236. [화성동탄2 인큐베이팅센터 및 스마트주차장 상가 임대공급 선착순 수의계약 공고(일반형)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177957)
 
 - **기관**: 한국토지주택공사
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-06-05 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-05 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26485,11 +26373,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [동탄2_인큐베이팅센터_상가_리플렛.pdf](https://www.k-startup.go.kr/afile/fileDownload/729Ln)
 - [동탄2_스마트주차장_팜플렛.pdf](https://www.k-startup.go.kr/afile/fileDownload/829Ln)
 
-## 238. [경기도 중장년 최초 창업 지원 2026년 생애 최초 경영안정화 교육지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177922)
+## 237. [경기도 중장년 최초 창업 지원 2026년 생애 최초 경영안정화 교육지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177922)
 
 - **기관**: 경기도시장상권진흥원
 - 주관 공공기관 · 분야 창업교육 · 지역 전국
-- **접수**: 2026-05-22 ~ 2026-12-31 (D-159)
+- **접수**: 2026-05-22 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26589,11 +26477,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[경기도 중장년 최초 창업 지원] 생애 최초 경영안정화 교육지원 인포그래픽.jpg](https://www.k-startup.go.kr/afile/fileDownload/0mcLn)
 - [[경기도 중장년 최초 창업 지원] 생애 최초 경영안정화 교육지원 대체 텍스트.txt](https://www.k-startup.go.kr/afile/fileDownload/cmcLn)
 
-## 239. [LH한국토지주택공사화성동탄2 인큐베이팅센터 업무시설 입점기업 임대공급 선착순 수의계약 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177844)
+## 238. [LH한국토지주택공사화성동탄2 인큐베이팅센터 업무시설 입점기업 임대공급 선착순 수의계약 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177844)
 
 - **기관**: 한국토지주택공사 경기남부지역본부
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-04-21 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-21 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26711,11 +26599,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임3_개인정보_수집_및_이용_동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/r59Ln)
 - [동탄인큐베이팅센터_업무시설_팜플렛.pdf](https://www.k-startup.go.kr/afile/fileDownload/s59Ln)
 
-## 240. [「한동대학교 제네시스랩」 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177837)
+## 239. [「한동대학교 제네시스랩」 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177837)
 
 - **기관**: 한동대학교 총장
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-05-26 ~ 2026-12-31 (D-159)
+- **접수**: 2026-05-26 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26875,11 +26763,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [한동대학교 제네시스랩 입주신청서 (양식) (2).hwp](https://www.k-startup.go.kr/afile/fileDownload/Tt9Ln)
 - [제네시스랩 층별 주요 시설 안내.hwpx](https://www.k-startup.go.kr/afile/fileDownload/Ut9Ln)
 
-## 241. [2026년 스타트업-중견/대기업 비즈니스 매칭 및 홍보 지원 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177432)
+## 240. [2026년 스타트업-중견/대기업 비즈니스 매칭 및 홍보 지원 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177432)
 
 - **기관**: 룩픽
 - 주관 민간 · 분야 판로ㆍ해외진출 · 지역 전국
-- **접수**: 2026-07-19 ~ 2026-12-31 (D-159)
+- **접수**: 2026-07-19 ~ 2026-12-31 (D-158)
 - **신청 대상**: 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -26971,11 +26859,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/vZkLn)
 
-## 242. [남서울대학교 창업보육센터 입주기업 모집(천안소재)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177357)
+## 241. [남서울대학교 창업보육센터 입주기업 모집(천안소재)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177357)
 
 - **기관**: 남서울대학교 창업보육센터
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 충남
-- **접수**: 2026-04-27 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-27 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27093,11 +26981,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [첨부3 창업보육센터 입주기업 모집공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/GhkLn)
 - [[사진] 남서울대학교 창업보육센터 보육실.pdf](https://www.k-startup.go.kr/afile/fileDownload/HhkLn)
 
-## 243. [2026년 중동상황 대응 물류지원금 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177350)
+## 242. [2026년 중동상황 대응 물류지원금 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177350)
 
 - **기관**: 서울경제진흥원
 - 주관 공공기관 · 분야 판로ㆍ해외진출 · 지역 서울
-- **접수**: 2026-04-21 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-21 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27174,11 +27062,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [(공고문)_2026 중동상황 대응 물류지원금 지원사업.pdf](https://www.k-startup.go.kr/afile/fileDownload/KgkLn)
 
-## 244. [2026년 스타트업  원스톱 지원센터 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177328)
+## 243. [2026년 스타트업  원스톱 지원센터 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177328)
 
 - **기관**: 중소벤처기업부장관
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-04-22 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-22 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27275,11 +27163,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 스타트업 원스톱 지원센터 공고문.hwpx](https://www.k-startup.go.kr/afile/fileDownload/8XkLn)
 - [2026년 스타트업 원스톱 지원센터 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/NfkLn)
 
-## 245. [충주 바이오헬스산업 협의체  회원 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177275)
+## 244. [충주 바이오헬스산업 협의체  회원 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177275)
 
 - **기관**: (재)충북과학기술혁신원장
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 전국
-- **접수**: 2026-04-17 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-17 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27363,11 +27251,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임. 모집공고문(충주 바이오헬스산업 협의체 회원 모집 공고).hwp](https://www.k-startup.go.kr/afile/fileDownload/A7kLn)
 - [붙임. 모집공고문(충주 바이오헬스산업 협의체 회원 모집 공고).pdf](https://www.k-startup.go.kr/afile/fileDownload/o7kLn)
 
-## 246. [2026년 보건의료빅데이터 창업 인큐베이팅 랩 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177072)
+## 245. [2026년 보건의료빅데이터 창업 인큐베이팅 랩 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177072)
 
 - **기관**: 건강보험심사평가원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-04-06 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-06 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27446,11 +27334,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [보건의료빅데이터 창업 인큐베이팅 랩_리플릿.pdf](https://www.k-startup.go.kr/afile/fileDownload/b3QLn)
 
-## 247. [2026년 노동아카데미(무료교육) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177060)
+## 246. [2026년 노동아카데미(무료교육) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177060)
 
 - **기관**: 대구노동권익센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 대구
-- **접수**: 2026-04-03 ~ 2026-12-31 (D-159)
+- **접수**: 2026-04-03 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27537,11 +27425,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026 노동아카데미 모집안내.hwp](https://www.k-startup.go.kr/afile/fileDownload/kJQLn)
 - [2026 노동아카데미 신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/SfQLn)
 
-## 248. [2026년 『창창 창업 멘토단 운영사업』 참여 창업가 모집(상시멘토링 모집)  공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176978)
+## 247. [2026년 『창창 창업 멘토단 운영사업』 참여 창업가 모집(상시멘토링 모집)  공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176978)
 
 - **기관**: (재)창원산업진흥원
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 경남
-- **접수**: 2026-03-18 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-18 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27621,11 +27509,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 창창 창업 멘토단 운영사업 모집공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/djQLn)
 - [신청서_창창 창업 멘토단 운영사업.hwp](https://www.k-startup.go.kr/afile/fileDownload/YjQLn)
 
-## 249. [부산 관광ㆍ마이스 그로우업(Grow-up) 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176953)
+## 248. [부산 관광ㆍ마이스 그로우업(Grow-up) 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176953)
 
 - **기관**: (사)부산경영자총협회
 - 주관 민간 · 분야 사업화 · 지역 부산
-- **접수**: 2026-03-17 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-17 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -27722,11 +27610,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [부산 관광ㆍ마이스 그로우업(Grow-up) 지원사업 포스터.jpg](https://www.k-startup.go.kr/afile/fileDownload/t7QLn)
 - [부산 관광ㆍ마이스 그로우업(Grow-up) 지원사업 포스터.hwpx](https://www.k-startup.go.kr/afile/fileDownload/5VQLn)
 
-## 250. [2026년도 찾아가는 노무서비스 지원(방문) 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176952)
+## 249. [2026년도 찾아가는 노무서비스 지원(방문) 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176952)
 
 - **기관**: 대구노동권익센터
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 대구
-- **접수**: 2026-03-30 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-30 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27814,11 +27702,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(공고문) 찾아가는 노무서비스 지원.hwp](https://www.k-startup.go.kr/afile/fileDownload/JNQLn)
 - [(서식) 찾아가는 노무서비스 지원.hwp](https://www.k-startup.go.kr/afile/fileDownload/KNQLn)
 
-## 251. [2026년 소상공인 투자연계 지원사업 립스 프로그램 참여 소상공인 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176940)
+## 250. [2026년 소상공인 투자연계 지원사업 립스 프로그램 참여 소상공인 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176940)
 
 - **기관**: 소상공인시장진흥공단
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-03-27 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-27 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -27909,11 +27797,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 소상공인 투자연계 지원사업 립스(LIPS) 프로그램 소상공인 모집 공고.hwp](https://www.k-startup.go.kr/afile/fileDownload/g6QLn)
 - [[서식] LIPS 프로그램 운영사 투자제안서 및 사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/h6QLn)
 
-## 252. [2026년 스타트업 법률지원사업 참여기업 모집공고(수정)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176938)
+## 251. [2026년 스타트업 법률지원사업 참여기업 모집공고(수정)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176938)
 
 - **기관**: 중소벤처기업부
 - 주관 공공기관 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 전국
-- **접수**: 2026-03-27 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-27 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28020,11 +27908,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 스타트업 법률지원사업 참여기업 모집 공고(수정).pdf](https://www.k-startup.go.kr/afile/fileDownload/lfkLn)
 - [2026년 스타트업 법률지원사업 참여기업 모집 공고(수정).hwpx](https://www.k-startup.go.kr/afile/fileDownload/9fkLn)
 
-## 253. [종로여성인력개발센터 2026년 청년일자리도약장려금 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176856)
+## 252. [종로여성인력개발센터 2026년 청년일자리도약장려금 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176856)
 
 - **기관**: (사)여성중앙회 종로여성인력개발센터
 - 주관 민간 · 분야 인력 · 지역 서울
-- **접수**: 2026-03-24 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-24 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -28140,11 +28028,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[웹포스터] 종로여성인력개발센터 청년일자리도약장려금.hwp](https://www.k-startup.go.kr/afile/fileDownload/VBVLn)
 - [[첨부] 청년일자리도약장려금 사업 참여 신청 안내문.pdf](https://www.k-startup.go.kr/afile/fileDownload/DvVLn)
 
-## 254. [2026년 판교테크노밸리 입주기업 임대보증금 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176855)
+## 253. [2026년 판교테크노밸리 입주기업 임대보증금 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176855)
 
 - **기관**: (재)경기도경제과학진흥원
 - 주관 공공기관 · 분야 융자ㆍ보증 · 지역 경기
-- **접수**: 2026-03-18 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-18 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하
@@ -28260,11 +28148,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[크기변환]판교테크노밸리 임대보증금 지원사업 포스터(2026).jpg](https://www.k-startup.go.kr/afile/fileDownload/mvVLn)
 - [2026년 판교테크노밸리 입주기업 임대보증금 지원사업.txt](https://www.k-startup.go.kr/afile/fileDownload/AoQLn)
 
-## 255. [창원시 벤처투자 『매칭&피칭데이』참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176810)
+## 254. [창원시 벤처투자 『매칭&피칭데이』참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176810)
 
 - **기관**: (재)창원산업진흥원장
 - 주관 공공기관 · 분야 행사ㆍ네트워크 · 지역 경남
-- **접수**: 2026-03-20 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-20 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28351,11 +28239,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [1. 매칭&피칭데이 참여기업 모집공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/DaVLn)
 - [붙임. 참가신청서 양식(매칭&피칭데이).hwp](https://www.k-startup.go.kr/afile/fileDownload/6aVLn)
 
-## 256. [2026년 기술컨설팅 지원사업(서울 스타트업 Tech trade-on 프로그램) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176741)
+## 255. [2026년 기술컨설팅 지원사업(서울 스타트업 Tech trade-on 프로그램) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176741)
 
 - **기관**: 키스트이노베이션
 - 주관 민간 · 분야 멘토링ㆍ컨설팅ㆍ교육 · 지역 서울
-- **접수**: 2026-03-16 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-16 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28441,11 +28329,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 서울 스타트업 Tech trade-on 기술컨설팅 지원사업 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/a2VLn)
 
-## 257. [2026년 기술이전 지원사업 (서울 Tech trade-on 프로그램) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176739)
+## 256. [2026년 기술이전 지원사업 (서울 Tech trade-on 프로그램) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176739)
 
 - **기관**: 키스트이노베이션
 - 주관 민간 · 분야 사업화 · 지역 서울
-- **접수**: 2026-03-16 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-16 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28538,11 +28426,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [2026년 서울 스타트업 Tech trade-on 기술이전 지원사업 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/E2VLn)
 
-## 258. [2026년 전북글로벌게임센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176685)
+## 257. [2026년 전북글로벌게임센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176685)
 
 - **기관**: (재)전북특별자치도 콘텐츠융합진흥원장
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전북
-- **접수**: 2026-06-25 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-25 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28700,11 +28588,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임1. 입주기업 모집 공고문.pdf](https://www.k-startup.go.kr/afile/fileDownload/rhbLn)
 - [붙임2. 입주기업 신청 관련 서식.hwp](https://www.k-startup.go.kr/afile/fileDownload/shbLn)
 
-## 259. [한남대학교 캠퍼스혁신파크 산학연혁신허브 입점기업 모집 공고(A동 교차지원 허용)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176566)
+## 258. [한남대학교 캠퍼스혁신파크 산학연혁신허브 입점기업 모집 공고(A동 교차지원 허용)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176566)
 
 - **기관**: 한국토지주택공사
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 대전
-- **접수**: 2026-06-26 ~ 2026-12-31 (D-159)
+- **접수**: 2026-06-26 ~ 2026-12-31 (D-158)
 - **신청 대상**: 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28809,11 +28697,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [(제출서류)임대신청서및사업계획서 (1).hwpx](https://www.k-startup.go.kr/afile/fileDownload/HmcLn)
 - [공급호실세부내역(총28실).pdf](https://www.k-startup.go.kr/afile/fileDownload/FmcLn)
 
-## 260. [2026년 부산AI실증지원센터 고성능  컴퓨터 이용 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176563)
+## 259. [2026년 부산AI실증지원센터 고성능  컴퓨터 이용 지원사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176563)
 
 - **기관**: (재)부산정보산업진흥원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 부산
-- **접수**: 2026-03-06 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-06 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -28903,11 +28791,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[포스터] 고성능 컴퓨터 이용 지원사업.png](https://www.k-startup.go.kr/afile/fileDownload/6PVLn)
 - [[포스터] 고성능 컴퓨터 이용 지원사업.txt](https://www.k-startup.go.kr/afile/fileDownload/IPVLn)
 
-## 261. [『글로벌 교류·투자유치 지원사업』2026년 자율형 프로그램 참가 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176497)
+## 260. [『글로벌 교류·투자유치 지원사업』2026년 자율형 프로그램 참가 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176497)
 
 - **기관**: (재)부산기술창업투자원
 - 주관 공공기관 · 분야 글로벌 · 지역 부산
-- **접수**: 2026-03-03 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-03 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29018,11 +28906,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [『글로벌교류투자유치지원사업』 자율형 프로그램 참가기업 모집 공고 및 신청서식(안)_26년 최종.hwp](https://www.k-startup.go.kr/afile/fileDownload/FBjLn)
 
-## 262. [2026년 3D프린팅 전문기술 활용지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176442)
+## 261. [2026년 3D프린팅 전문기술 활용지원 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176442)
 
 - **기관**: 3D프린팅혁신성장센터
 - 주관 민간 · 분야 기술개발(R&amp;D) · 지역 전국
-- **접수**: 2026-01-01 ~ 2026-12-31 (D-159)
+- **접수**: 2026-01-01 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29122,11 +29010,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[공고문] '26년 3D-FAB3D프린팅 전문기술 활용지원 기업 모집 공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/6xjLn)
 
-## 263. [경기경영자총협회 26년 청년일자리도약장려금 사업 참여 기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176224)
+## 262. [경기경영자총협회 26년 청년일자리도약장려금 사업 참여 기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176224)
 
 - **기관**: (사)경기경영자총협회
 - 주관 민간 · 분야 사업화 · 지역 경기
-- **접수**: 2026-02-06 ~ 2026-12-31 (D-159)
+- **접수**: 2026-02-06 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하
@@ -29243,11 +29131,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [1.2026년 청년일자리도약장려금 사업 안내(기업 배부용).pdf](https://www.k-startup.go.kr/afile/fileDownload/Z4QLn)
 
-## 264. [2026년 기업인력애로센터 활용 취업지원 사업 구인기업 및 구직자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176129)
+## 263. [2026년 기업인력애로센터 활용 취업지원 사업 구인기업 및 구직자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176129)
 
 - **기관**: 중소벤처기업진흥공단
 - 주관 공공기관 · 분야 인력 · 지역 전국
-- **접수**: 2026-01-01 ~ 2026-12-31 (D-159)
+- **접수**: 2026-01-01 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29329,11 +29217,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [2026년 기업인력애로센터 활용 취업 지원 사업 구인기업 및 구직자 모집 공고_수정.hwp](https://www.k-startup.go.kr/afile/fileDownload/qRiLn)
 - [2026년 기업인력애로센터 활용 취업 지원 사업 구인기업 및 구직자 모집 공고_수정.pdf](https://www.k-startup.go.kr/afile/fileDownload/ORiLn)
 
-## 265. [2026년 팁스(TIPS) 창업기업 지원계획 수정 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076)
+## 264. [2026년 팁스(TIPS) 창업기업 지원계획 수정 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176076)
 
 - **기관**: 중소벤처기업부 장관
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-03-19 ~ 2026-12-31 (D-159)
+- **접수**: 2026-03-19 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29450,11 +29338,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[붙임3] 팁스 신청방법, 신청제한 및 유의사항.hwp](https://www.k-startup.go.kr/afile/fileDownload/aHiLn)
 - [[붙임4] 팁스 비R&D 연계사업(창업사업화·해외마케팅) 관련 안내.hwp](https://www.k-startup.go.kr/afile/fileDownload/rSiLn)
 
-## 266. [대구 동성로 1인 창조기업 지원센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175849)
+## 265. [대구 동성로 1인 창조기업 지원센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175849)
 
 - **기관**: 주식회사 디지스타트업인큐베이터
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 대구
-- **접수**: 2026-01-05 ~ 2026-12-31 (D-159)
+- **접수**: 2026-01-05 ~ 2026-12-31 (D-158)
 - **신청 대상**: 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29581,11 +29469,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [대구 동성로 1인 창조기업 지원센터 입주모집 공고문.hwp](https://www.k-startup.go.kr/afile/fileDownload/gDiLn)
 - [대구 동성로 1인 창조기업 지원센터 입주신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/hDiLn)
 
-## 267. [2026년 중앙부처 및 지자체 창업지원사업 통합공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783)
+## 266. [2026년 중앙부처 및 지자체 창업지원사업 통합공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783)
 
 - **기관**: 중소벤처기업부장관
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2025-12-19 ~ 2026-12-31 (D-159)
+- **접수**: 2025-12-19 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29670,11 +29558,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [★(공고문) 2026년도 중앙부처 및 지자체 창업지원사업 통합공고문(제2025-648호, 2025.12.19.).hwpx](https://www.k-startup.go.kr/afile/fileDownload/QAiLn)
 - [(안내책자) 2026년도 중앙부처 및 지자체 창업지원사업 통합공고.pdf](https://www.k-startup.go.kr/afile/fileDownload/1yiLn)
 
-## 268. [SK하이닉스청년창업파크 입주기업 모집(상시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175366)
+## 267. [SK하이닉스청년창업파크 입주기업 모집(상시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175366)
 
 - **기관**: 서원대학교 산학협력단
 - 주관 교육기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2025-10-27 ~ 2026-12-31 (D-159)
+- **접수**: 2025-10-27 ~ 2026-12-31 (D-158)
 - **신청 대상**: 대학생, 일반인, 일반기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29792,11 +29680,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [[별지 제4호 서식] 개인정보 수집·이용 및 제3자 제공동의서.hwp](https://www.k-startup.go.kr/afile/fileDownload/RI7Ln)
 - [[별지 제1호 서식] 입주신청서.hwp](https://www.k-startup.go.kr/afile/fileDownload/pI7Ln)
 
-## 269. [바이오 협력, 지금 시작하세요 – 'BioLink Starup Hub'에서 필요한 기술을 찾고, 가진 기술을 연결하세요!](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=173424)
+## 268. [바이오 협력, 지금 시작하세요 – 'BioLink Starup Hub'에서 필요한 기술을 찾고, 가진 기술을 연결하세요!](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=173424)
 
 - **기관**: (재)충북창조경제혁신센터
 - 주관 공공기관 · 분야 기술개발(R&amp;D) · 지역 전국
-- **접수**: 2025-05-23 ~ 2026-12-31 (D-159)
+- **접수**: 2025-05-23 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -29901,11 +29789,11 @@ k-starup 안내문.hwp
 - [K-Startup 안내문.jpg](https://www.k-startup.go.kr/afile/fileDownload/BHDLn)
 - [k-starup 안내문.hwp](https://www.k-startup.go.kr/afile/fileDownload/maDLn)
 
-## 270. [Startup Korea Special Visa Announcement on Application for Recommendations for the “Startup Korea Special Visa”](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419)
+## 269. [Startup Korea Special Visa Announcement on Application for Recommendations for the “Startup Korea Special Visa”](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419)
 
 - **기관**: Minister of SMEs and Startups
 - 주관 공공기관 · 분야 인력 · 지역 전국
-- **접수**: 2024-12-03 ~ 2026-12-31 (D-159)
+- **접수**: 2024-12-03 ~ 2026-12-31 (D-158)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30012,11 +29900,11 @@ Consent to provision, use and collection of personal information.docx
 - [Business Plan.docx](https://www.k-startup.go.kr/afile/fileDownload/ZjsLn)
 - [Consent to provision, use and collection of personal information.docx](https://www.k-startup.go.kr/afile/fileDownload/SjsLn)
 
-## 271. [경남 수도권 투자유치 거점센터 (G-Space@TIPS) 2026 G-Demoday&G-Mentoring day](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177113)
+## 270. [경남 수도권 투자유치 거점센터 (G-Space@TIPS) 2026 G-Demoday&G-Mentoring day](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177113)
 
 - **기관**: 제피러스랩
 - 주관 민간 · 분야 시설ㆍ공간ㆍ보육 · 지역 경남
-- **접수**: 2026-04-09 ~ 2027-01-31 (D-190)
+- **접수**: 2026-04-09 ~ 2027-01-31 (D-189)
 - **신청 대상**: 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30116,11 +30004,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 **첨부파일**:
 - [[G-Space@TIPS] 2026 G-Demoday&G-Mentoring day 포스터.pdf](https://www.k-startup.go.kr/afile/fileDownload/wUQLn)
 
-## 272. [성남 식품제조 소공인특화지원센터 촬영스튜디오 대관 및 사용자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176085)
+## 271. [성남 식품제조 소공인특화지원센터 촬영스튜디오 대관 및 사용자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176085)
 
 - **기관**: 성남산업진흥원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-02-01 ~ 2027-01-31 (D-190)
+- **접수**: 2026-02-01 ~ 2027-01-31 (D-189)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30205,11 +30093,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 사업신청 바로가기
 목록
 
-## 273. [LH한국토지주택공사 판교제2테크노밸리 기업지원허브 업무지원시설  선착순 수의계약 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177944)
+## 272. [LH한국토지주택공사 판교제2테크노밸리 기업지원허브 업무지원시설  선착순 수의계약 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177944)
 
 - **기관**: 한국토지주택공사
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 경기
-- **접수**: 2026-06-02 ~ 2027-05-29 (D-308)
+- **접수**: 2026-06-02 ~ 2027-05-29 (D-307)
 - **신청 대상**: 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30325,11 +30213,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [판교기업지원허브_업무지원시설_165호.jpeg](https://www.k-startup.go.kr/afile/fileDownload/XW9Ln)
 - [판교기업지원허브_업무지원시설_166호.jpeg](https://www.k-startup.go.kr/afile/fileDownload/1W9Ln)
 
-## 274. [2026년 ICT혁신센터 입주기업 모집공고(상시)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177493)
+## 273. [2026년 ICT혁신센터 입주기업 모집공고(상시)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177493)
 
 - **기관**: (재)충북과학기술혁신원
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 전국
-- **접수**: 2026-05-04 ~ 2027-12-31 (D-524)
+- **접수**: 2026-05-04 ~ 2027-12-31 (D-523)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30443,11 +30331,11 @@ ICT혁신센터 전경.png
 - [붙임 1. (공고문) ICT혁신센터 입주공고문(상시).hwp](https://www.k-startup.go.kr/afile/fileDownload/B2bLn)
 - [붙임 2. (신청서) ICT혁신센터 입주기업 신청서류(상시).hwp](https://www.k-startup.go.kr/afile/fileDownload/mebLn)
 
-## 275. [부산글로벌테크비즈센터 입주기관(기업) 모집공고(수시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177241)
+## 274. [부산글로벌테크비즈센터 입주기관(기업) 모집공고(수시모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177241)
 
 - **기관**: 연구개발특구진흥재단
 - 주관 공공기관 · 분야 시설ㆍ공간ㆍ보육 · 지역 부산
-- **접수**: 2026-04-20 ~ 2028-04-30 (D-645)
+- **접수**: 2026-04-20 ~ 2028-04-30 (D-644)
 - **신청 대상**: 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
@@ -30572,11 +30460,11 @@ K-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩�
 - [붙임2-2. 제조업 사업계획서.hwp](https://www.k-startup.go.kr/afile/fileDownload/JtkLn)
 - [붙임3. 부산특구 R&D(미음일반산업단지) 허용업종 분류표.pdf](https://www.k-startup.go.kr/afile/fileDownload/4tkLn)
 
-## 276. [민간기업 분야 우수인재 특별귀화 추천 신청 모집 공고  (Announcement on the Call for Applications for  Recommendation for Special Naturalization of Outstanding  Private-Sector Talent)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176286)
+## 275. [민간기업 분야 우수인재 특별귀화 추천 신청 모집 공고  (Announcement on the Call for Applications for  Recommendation for Special Naturalization of Outstanding  Private-Sector Talent)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=176286)
 
 - **기관**: 중소벤처기업부 장관
 - 주관 공공기관 · 분야 사업화 · 지역 전국
-- **접수**: 2026-02-11 ~ 2030-12-31 (D-1620)
+- **접수**: 2026-02-11 ~ 2030-12-31 (D-1619)
 - **신청 대상**: 청소년, 대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업
 - **창업 기간**: 예비창업자, 1년미만, 2년미만, 3년미만, 5년미만, 7년미만, 10년미만
 - **대상 연령**: 만 20세 미만, 만 20세 이상 ~ 만 39세 이하, 만 40세 이상
