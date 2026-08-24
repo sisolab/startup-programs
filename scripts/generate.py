@@ -12,7 +12,7 @@ import os
 import re
 import sys
 import time
-from datetime import date, datetime, timedelta, timezone
+from datetime import UTC, date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -27,6 +27,10 @@ DETAIL_BASE = "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do"
 
 PER_PAGE = 1000
 MAX_API_PAGES = 10
+# GitHub Actions(해외 IP)에서 apis.data.go.kr 접속이 간헐적으로 timeout됨
+# (2026-08 기준 최근 60회 중 8회). 한 번 실패로 죽지 않게 간격을 두고 재시도.
+API_RETRY_ATTEMPTS = 4
+API_RETRY_WAITS = (30, 60, 120)  # 재시도 사이 대기(초)
 STOP_AFTER_EMPTY = 2
 API_DELAY = 0.1
 DETAIL_DELAY = 0.5
@@ -83,7 +87,9 @@ ATTACHMENT_NAME_RE = re.compile(
     r"(?:hwpx?|pdf|docx?|xlsx?|pptx?|zip|jpe?g|png|gif|tiff?|bmp|txt|csv|tsv))",
     re.IGNORECASE,
 )
-ATTACHMENT_NOISE_RE = re.compile(r"(?:바로보기|다운로드|다운|preview|view|download)", re.IGNORECASE)
+ATTACHMENT_NOISE_RE = re.compile(
+    r"(?:바로보기|다운로드|다운|preview|view|download)", re.IGNORECASE
+)
 
 
 # ─── 환경변수 ───
@@ -118,9 +124,29 @@ def fetch_api_page(key: str, page: int) -> dict:
         "returnType": "json",
     }
     url = f"{API_URL}?{urlencode(params)}"
-    resp = requests.get(url, timeout=30)
-    resp.raise_for_status()
-    return resp.json()
+    last_error: Exception = RuntimeError("unreachable")
+    for attempt in range(1, API_RETRY_ATTEMPTS + 1):
+        try:
+            resp = requests.get(url, timeout=30)
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.ConnectionError, requests.Timeout, ValueError) as e:
+            last_error = e
+        except requests.HTTPError as e:
+            # 4xx(인증키 오류 등)는 재시도해도 결과가 같으므로 즉시 중단
+            if e.response is not None and e.response.status_code < 500:
+                raise
+            last_error = e
+        if attempt < API_RETRY_ATTEMPTS:
+            wait = API_RETRY_WAITS[min(attempt - 1, len(API_RETRY_WAITS) - 1)]
+            print(
+                f"[api] page {page} 시도 {attempt}/{API_RETRY_ATTEMPTS} 실패: "
+                f"{last_error} — {wait}초 후 재시도",
+                file=sys.stderr,
+                flush=True,
+            )
+            time.sleep(wait)
+    raise last_error
 
 
 def today_yyyymmdd() -> str:
@@ -209,7 +235,9 @@ def _extract_raw_body_fallback(soup: BeautifulSoup) -> str:
 
     "닫기" 이후를 본문 시작으로 보고, FOOTER_MARKERS 중 가장 앞을 종료점으로.
     """
-    for tag in soup.find_all(["script", "style", "noscript", "nav", "header", "footer"]):
+    for tag in soup.find_all(
+        ["script", "style", "noscript", "nav", "header", "footer"]
+    ):
         tag.decompose()
 
     text = soup.get_text("\n", strip=True)
@@ -231,9 +259,7 @@ def extract_attachments(soup: BeautifulSoup) -> list[dict]:
     attachments: list[dict] = []
     for a in soup.find_all("a", href=re.compile(r"/afile/fileDownload/")):
         href = a.get("href") or ""
-        full = (
-            "https://www.k-startup.go.kr" + href if href.startswith("/") else href
-        )
+        full = "https://www.k-startup.go.kr" + href if href.startswith("/") else href
         if full in seen:
             continue
         seen.add(full)
@@ -396,9 +422,7 @@ def build_item(api_item: dict, detail: dict) -> dict:
     }
 
 
-def build_markdown(
-    items: list[dict], fetched_at: datetime, stats: dict
-) -> str:
+def build_markdown(items: list[dict], fetched_at: datetime, stats: dict) -> str:
     fetched_at_kst = fetched_at.astimezone(KST)
     out: list[str] = []
 
@@ -416,14 +440,21 @@ def build_markdown(
         "",
         f"# K-Startup 모집중 공고 ({len(items)}건)",
         "",
-        "> 창업진흥원 K-Startup 공공데이터 API + 상세 페이지 파싱 결과. "
-        "마감일 가까운 순. 매일 KST 02:00 갱신.",
+        (
+            "> 창업진흥원 K-Startup 공공데이터 API + 상세 페이지 파싱 결과. "
+            "마감일 가까운 순. 매일 KST 02:00 갱신."
+        ),
         "",
-        f"상세 페이지 파싱 성공 **{stats['success']}건** / 실패 **{stats['failed']}건**. "
-        "구조화 데이터는 [grants.json](./grants.json) 참고.",
+        (
+            f"상세 페이지 파싱 성공 **{stats['success']}건** / "
+            f"실패 **{stats['failed']}건**. "
+            "구조화 데이터는 [grants.json](./grants.json) 참고."
+        ),
         "",
-        "**AI 사용 가이드:** 이 문서를 컨텍스트에 넣고 본인 프로필"
-        "(예비/창업기업, 업력, 연령, 지역, 분야)에 맞는 공고를 추천하도록 요청하세요.",
+        (
+            "**AI 사용 가이드:** 이 문서를 컨텍스트에 넣고 본인 프로필"
+            "(예비/창업기업, 업력, 연령, 지역, 분야)에 맞는 공고를 추천하도록 요청하세요."
+        ),
         "",
         "---",
         "",
@@ -537,7 +568,7 @@ def print_extraction_stats(items: list[dict]) -> None:
         flush=True,
     )
     if poor:
-        print(f"[stats] 부실 샘플(최대 10건):", flush=True)
+        print("[stats] 부실 샘플(최대 10건):", flush=True)
         for sn, title, length, s in poor[:10]:
             t = (title or "")[:50]
             print(f"  pbancSn={sn} len={length:5d} sec={s}/4 | {t}", flush=True)
@@ -552,7 +583,7 @@ def print_extraction_stats(items: list[dict]) -> None:
 # ─── 메인 ───
 def main() -> None:
     load_env_local()
-    fetched_at = datetime.now(timezone.utc)
+    fetched_at = datetime.now(UTC)
     fetched_kst = fetched_at.astimezone(KST).strftime("%Y-%m-%d %H:%M:%S KST")
     print(f"[main] 시작 ({fetched_kst})", flush=True)
 
@@ -616,7 +647,7 @@ def main() -> None:
     Path("grants.json").write_text(
         json.dumps(json_payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    print(f"[main] grants.json 작성 완료", flush=True)
+    print("[main] grants.json 작성 완료", flush=True)
 
     md = build_markdown(items, fetched_at, md_stats)
     Path("grants.md").write_text(md, encoding="utf-8")

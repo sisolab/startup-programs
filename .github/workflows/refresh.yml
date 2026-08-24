@@ -16,7 +16,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # 평소 6분 내외 + API 재시도 대기(최대 ~6분) 여유분
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
