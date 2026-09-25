@@ -1,172 +1,11 @@
 {
-  "fetched_at": "2026-09-24T20:20:00.771794+00:00",
-  "fetched_at_kst": "2026-09-25 05:20 KST",
+  "fetched_at": "2026-09-25T20:20:44.009347+00:00",
+  "fetched_at_kst": "2026-09-26 05:20 KST",
   "source": "K-Startup 공공데이터 API + detail page",
-  "total": 230,
-  "detail_fetch_success_count": 230,
+  "total": 227,
+  "detail_fetch_success_count": 227,
   "detail_fetch_failed_count": 0,
   "items": [
-    {
-      "pbanc_sn": 179163,
-      "title": "2026 천안 C-STAR Awards 기술/투자 상담회 참여기업 모집",
-      "organization": "주식회사 킹고스프링",
-      "supervising_institution": "민간",
-      "category": "멘토링ㆍ컨설팅ㆍ교육",
-      "region": "전국",
-      "application_period": {
-        "start": "2026-09-04",
-        "end": "2026-09-25",
-        "d_day": "D-day"
-      },
-      "target": [
-        "청소년",
-        "대학생",
-        "일반인",
-        "대학",
-        "연구기관",
-        "일반기업",
-        "1인 창조기업"
-      ],
-      "startup_period": [
-        "예비창업자",
-        "1년미만",
-        "2년미만",
-        "3년미만",
-        "5년미만",
-        "7년미만",
-        "10년미만"
-      ],
-      "age": [
-        "만 20세 미만",
-        "만 20세 이상 ~ 만 39세 이하",
-        "만 40세 이상"
-      ],
-      "contact": "03151715851",
-      "summary": "천안시와 천안과학산업진흥원이 지역 내 유망 창업기업의 투자유치 및 성장 지원을 위해 개최하는「2026 천안 C-STAR Awards」의 일환으로, 국내 주요 투자사 및 기술 전문가와의 1:1 맞춤형 상담을 제공하는「2026 천안 C-STAR Awards 기술/투자 상담회」 참여기업 모집을 안내해 드리오니 참여를 희망하는 기업은 아래 내용에 따라 신청하시기 바랍니다.",
-      "application_target_detail": "1. 투자유치 및 투자사와의 네트워크 구축을 희망하는 스타트업\n2. 기술사업화 및 사업 고도화를 추진 중인 기업\n3. IR 역량 강화 및 투자 전문가 상담을 희망하는 기업\n4. 천안시 내 사업자 등록 예정 또는 지역 창업 생태계 연계를 희망하는 예비·초기 창업기업\n5. 천안 8대 전략산업 및 기술창업 분야 관련 기업",
-      "exclusion_target": "",
-      "preferential": "",
-      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179163",
-      "detail_fetch_status": "success",
-      "detail_fetch_error": null,
-      "detail_raw": "2026 천안 C-STAR Awards 기술/투자 상담회 참여기업 모집\n사업안내 바로가기\n지원분야\n멘토링ㆍ컨설팅ㆍ교육\n대상연령\n전체\n기관구분\n민간\n담당부서\n기업성장본부\n지역\n전국\n접수기간\n2026-09-04 ~ 2026-09-25 23:59\n주관기관명\n주식회사 킹고스프링\n대상\n전체\n창업업력\n전체\n연락처\n031-5171-5851\n2026 천안 C-STAR Awards 기술/투자 상담회 참여기업 모집\n천안시와 천안과학산업진흥원이 지역 내 유망 창업기업의 투자유치 및 성장 지원을 위해 개최하는「2026 천안 C-STAR Awards」의 일환으로, 국내 주요 투자사 및 기술 전문가와의 1:1 맞춤형 상담을 제공하는「2026 천안 C-STAR Awards 기술/투자 상담회」 참여기업 모집을 안내해 드리오니 참여를 희망하는 기업은 아래 내용에 따라 신청하시기 바랍니다.\n2026년 09월 04일\n주식회사 킹고스프링\n신청방법 및 대상\n신청기간\n2026.09.04(금) 09:00\r\n~\r\n2026.09.25(금) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n1. 투자유치 및 투자사와의 네트워크 구축을 희망하는 스타트업\n2. 기술사업화 및 사업 고도화를 추진 중인 기업\n3. IR 역량 강화 및 투자 전문가 상담을 희망하는 기업\n4. 천안시 내 사업자 등록 예정 또는 지역 창업 생태계 연계를 희망하는 예비·초기 창업기업\n5. 천안 8대 전략산업 및 기술창업 분야 관련 기업\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n신청 구글폼\nhttps://forms.gle/AeiXGATPeyizct4D8\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n이벤터스 모집\n이벤터스 모집공고를 통해 외부링크 접수\n선착순 접수 및 모집 마감\n행사안내\n행사안내\n1. 행사 일시 : 2026. 9월 중 개최 예정\n2. 장소 : 천안 내 행사장(추후 안내)\n3. 내용 : 국내 주요 투자사 및 기술 전문가와의 1:1 투자·기술 상담, 네트워킹 등\n4. 참가비 : 무료\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n투자유치 및 기술사업화를 위한 1:1 맞춤형 상담, 투자 네트워킹 지원\n1. 1:1 투자 상담\n-국내 주요 투자사와의 개별 상담 기회 제공\n-투자유치 전략 및 IR 역량 강화 컨설팅\n-투자 검토 및 후속 미팅 연계 지원\n2. 기술 상담\n-기술 전문가 및 산업 전문가와의 맞춤형 상담 지원\n-기술사업화 방향 및 사업 고도화 전략 자문\n-기술 경쟁력 강화 및 사업화 가능성 검토\n3. 네트워킹 지원\n-투자사·창업기업 간 네트워크 구축 기회 제공\n-스타트업 생태계 관계자 간 교류 및 협력 기회 마련\n문의처\n운영사무국 킹고스프링\n연락처 : 031-5171-5851\n이메일 : cstar_kingo@kingospring.com\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n2026 천안 C-STAR Awards 기술투자 상담회 참여기업 모집공고.jpg\n바로보기\n다운로드\n2026 천안 C-STAR Awards 기술투자 상담회 참여기업 모집공고.txt\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n접수 바로가기\n목록",
-      "attachments": [
-        {
-          "name": "2026 천안 C-STAR Awards 기술투자 상담회 참여기업 모집공고.jpg",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/mvWLn"
-        },
-        {
-          "name": "2026 천안 C-STAR Awards 기술투자 상담회 참여기업 모집공고.txt",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/LvWLn"
-        }
-      ]
-    },
-    {
-      "pbanc_sn": 179098,
-      "title": "연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고",
-      "organization": "연구개발특구진흥재단",
-      "supervising_institution": "민간",
-      "category": "행사ㆍ네트워크",
-      "region": "전국",
-      "application_period": {
-        "start": "2026-09-01",
-        "end": "2026-09-25",
-        "d_day": "D-day"
-      },
-      "target": [
-        "대학생",
-        "일반인",
-        "일반기업",
-        "1인 창조기업"
-      ],
-      "startup_period": [
-        "예비창업자",
-        "1년미만",
-        "2년미만",
-        "3년미만",
-        "5년미만",
-        "7년미만",
-        "10년미만"
-      ],
-      "age": [
-        "만 20세 이상 ~ 만 39세 이하",
-        "만 40세 이상"
-      ],
-      "contact": "16706167",
-      "summary": "특구 내 유망 기술·기업을 발굴하여 투자역량을 강화하고, 현대차증권과의 투자 가능성 및 현대차그룹 현업 적용 가능성을 검토하고자 「연구개발특구진흥재단×현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램」 참가기업을 모집합니다.",
-      "application_target_detail": "연구소기업, 첨단기술기업 등 全특구 소재 기업*\n* 신청일 기준 연구개발특구(본사, 지사, 기업부설연구소, 공장 등) 내 소재기업",
-      "exclusion_target": "",
-      "preferential": "",
-      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179098",
-      "detail_fetch_status": "success",
-      "detail_fetch_error": null,
-      "detail_raw": "연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고\n지원분야\n행사ㆍ네트워크\n대상연령\n만 20세 이상 ~ 만 39세 이하, 만 40세 이상\n기관구분\n민간\n담당부서\nAC 부서\n지역\n전국\n접수기간\n2026-09-01 ~ 2026-09-25 17:00\n주관기관명\n주식회사 베타랩\n대상\n대학생, 일반인, 일반기업, 1인 창조기업\n창업업력\n전체\n연락처\n1670-6167\n연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고\n특구 내 유망 기술·기업을 발굴하여 투자역량을 강화하고, 현대차증권과의 투자 가능성 및 현대차그룹 현업 적용 가능성을 검토하고자 「연구개발특구진흥재단×현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램」 참가기업을 모집합니다.\n2026년 09월 01일\n연구개발특구진흥재단\n신청방법 및 대상\n신청기간\n2026.09.01(화) 00:00\r\n~\r\n2026.09.25(금) 17:00\r\n까지\n신청방법\n이메일 접수 : hmsec-oi@betalab.ac\n온라인 접수 :\n접수 바로가기\n신청대상\n연구소기업, 첨단기술기업 등 全특구 소재 기업*\n* 신청일 기준 연구개발특구(본사, 지사, 기업부설연구소, 공장 등) 내 소재기업\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n온라인 접수(설문폼) 제출 → 신청양식 제출(이메일)\n1. 설문폼 작성\n2. [별첨1] 양식 작성 후 이메일 제출(hmsec-oi@betalab.ac)\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n신청ㆍ접수 → 교육 → 서류 검토\n교육은 신청자 전원에게 제공하되, 일부 프로그램의 경우 적합성 및 평가 결과에 따라 지원 내용이 상이\n행사안내\n교육 → 서류 검토 → 인터뷰&멘토링 → 실전프로그램\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n지원내용\n역량강화교육, 맞춤형 멘토링, 현대차증권 투자운용인력 대상 IR, 후속 투자검토 및 현업 적용 가능성 검토\n- 현대차증권 오픈이노베이션 관련 공통교육 제공\n- 서면평가 통과기업을 대상으로 현대차증권 신기술금융팀의 투자 진단 및 사업 고도화를 위한 맞춤형 멘토링 지원\n- 현대차증권 신기술금융팀이 함께 참여하는 투자 IR 및 질의응답을 진행하여 투자검토 기회 제공\n- 우수기업 대상 현대차증권 직접투자 검토 및 현대차그룹 현업 연계 적용 가능성 검토\n- 우수기업 대상 후속 실증과제 기획 및 2027년 전북연구개발특구 「지역혁신 실증 스케일업」 사업 연계 지원\n※ 교육 프로그램은 신청기업 전원을 대상으로 제공되며, 이후 프로그램은 적합성 및 선정 결과에 따라 연계·운영됩니다.\n※ 후속사업 연계는 2027년 사업 공고상의 신청자격을 충족한 기업을 대상으로 하며, 과제 선정 및 지원 규모는 별도 검토 결과에 따라 결정됩니다.\n문의처\n전북특구 이노폴리스 캠퍼스 운영사 / 주식회사 베타랩\n- 연락처 : 1670-6167\n- 이메일 : hmsec-oi@betalab.ac\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n첨부파일 일괄 다운로드\n01. (모집공고) 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고.pdf\n바로보기\n다운로드\n02. [별첨 1] 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 사업계획서.hwpx\n바로보기\n다운로드\n03. (포스터) 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 포스터.pdf\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n접수 바로가기\n목록",
-      "attachments": [
-        {
-          "name": "01. (모집공고) 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고.pdf",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/6aWLn"
-        },
-        {
-          "name": "02. [별첨 1] 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 사업계획서.hwpx",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/MaWLn"
-        },
-        {
-          "name": "03. (포스터) 연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 포스터.pdf",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/7aWLn"
-        }
-      ]
-    },
-    {
-      "pbanc_sn": 178831,
-      "title": "[국비지원] AI 기반 서비스 개발·사업화 1인 창업가 캠프 7기 모집",
-      "organization": "넥스트러너스 주식회사",
-      "supervising_institution": "교육기관",
-      "category": "멘토링ㆍ컨설팅ㆍ교육",
-      "region": "전국",
-      "application_period": {
-        "start": "2026-08-01",
-        "end": "2026-09-25",
-        "d_day": "D-day"
-      },
-      "target": [
-        "대학생",
-        "일반인",
-        "대학",
-        "연구기관",
-        "일반기업",
-        "1인 창조기업"
-      ],
-      "startup_period": [
-        "예비창업자",
-        "1년미만",
-        "2년미만",
-        "3년미만",
-        "5년미만"
-      ],
-      "age": [
-        "만 20세 이상 ~ 만 39세 이하",
-        "만 40세 이상"
-      ],
-      "contact": "07040998219",
-      "summary": "예비·초기 창업가 대상 AI 기반 서비스 개발 및 사업화 역량 강화를 위한 「1인 창업가 국비지원 부트캠프」모집을 다음과 같이 공고합니다.",
-      "application_target_detail": "1. 내일배움카드 소지자 또는 발급 가능한 자\n2. 아이디어는 있지만 실행·개발이 어려웠던 예비창업자\n3. 개발자 없이 AI로 직접 서비스 출시까지 해보고 싶은 분\n4. AI 활용으로 1인 SaaS·자동화 서비스 제작에 관심 있는 분\n5. MVP 제작 → 검증 → 수익화까지 실전 창업 프로세스를 경험하고 싶은 분\n6. 외주 없이 직접 만들고 운영하는 ‘1인 창업’을 목표로 하는 분\n7. 창업은 처음이지만 AI 툴로 빠르게 사업 역량을 키우고 싶은 분\n8. 혼자 고민하기보다 실무 멘토링과 창업 지원을 함께 받고 싶은 분",
-      "exclusion_target": "",
-      "preferential": "",
-      "detail_url": "https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178831",
-      "detail_fetch_status": "success",
-      "detail_fetch_error": null,
-      "detail_raw": "[국비지원] AI 기반 서비스 개발·사업화 1인 창업가 캠프 7기 모집\n사업안내 바로가기\n지원분야\n멘토링ㆍ컨설팅ㆍ교육\n대상연령\n만 20세 이상 ~ 만 39세 이하, 만 40세 이상\n기관구분\n교육기관\n담당부서\n마케팅팀\n지역\n전국\n접수기간\n2026-08-01 ~ 2026-09-25 23:59\n주관기관명\n넥스트러너스주식회사\n대상\n대학생, 일반인, 대학, 연구기관, 일반기업, 1인 창조기업\n창업업력\n예비창업자, 1년미만, 2년미만, 3년미만, 5년미만\n연락처\n070-4099-8219\n[국비지원] AI 기반 서비스 개발·사업화 1인 창업가 캠프 7기 모집\n※(유의)해당 공고는 중소벤처기업부와 창업진흥원이 아닌 민간에서 지원하는 사업으로, 신청부터 관리까지 모든 과정을 해당기관에서 전담\n예비·초기 창업가 대상 AI 기반 서비스 개발 및 사업화 역량 강화를 위한 「1인 창업가 국비지원 부트캠프」모집을 다음과 같이 공고합니다.\n2026년 08월 01일\n넥스트러너스 주식회사\n신청방법 및 대상\n신청기간\n2026.08.01(토) 00:00\r\n~\r\n2026.09.25(금) 23:59\r\n까지\n신청방법\n온라인 접수 :\n접수 바로가기\n신청대상\n1. 내일배움카드 소지자 또는 발급 가능한 자\n2. 아이디어는 있지만 실행·개발이 어려웠던 예비창업자\n3. 개발자 없이 AI로 직접 서비스 출시까지 해보고 싶은 분\n4. AI 활용으로 1인 SaaS·자동화 서비스 제작에 관심 있는 분\n5. MVP 제작 → 검증 → 수익화까지 실전 창업 프로세스를 경험하고 싶은 분\n6. 외주 없이 직접 만들고 운영하는 ‘1인 창업’을 목표로 하는 분\n7. 창업은 처음이지만 AI 툴로 빠르게 사업 역량을 키우고 싶은 분\n8. 혼자 고민하기보다 실무 멘토링과 창업 지원을 함께 받고 싶은 분\n신청 시 요청하는 정보(개인정보포함)는 사업운영기관에서 관리되오니 이점 반드시 유의하여 주시기 바랍니다.\n제출서류\n온라인 신청서\n- 이름·연락처·지원동기 등 기본 정보 (온라인 링크 작성 제출)\n제출하신 서류는 사업운영기관에서 관리되오니 서류 반환 등 문의는 해당 기관으로 하시기 바랍니다.\n선정절차 및 평가방법\n선정 절차\n① 온라인 신청서 작성 (기본 정보 입력)\n② 서류 심사\n③ 필요시 유선 인터뷰 (5분 내외)\n④ 선발 완료 (개별 합격 안내)\n⑤ HRD-NET 수강신청 등록 (내일배움카드 활용)\n교육안내\n교육 기간\n- 2026년 10월 1일(목) ~ 2027년 3월 26일(금) (120일 커리큘럼)\n※ 공휴일 및 토·일 제외\n교육 시간\n- 평일 10:00 ~ 19:00\n교육 장소\n- 100% 온라인 (VOD + 라이브), 프로젝트 위주의 실전 과정\n교육비\n- 자부담: 400,000원 (훈련장려금으로 상쇄가능*월 최대 30만원 - 6개월지급)\n- 국비 지원(최대 96%): 8,710,000원\n* 총 교육비: 9,113,280원\n커리큘\n① 개발 기초부터 AI 활용 학습\n② React·Node.js 기반 서비스 제작\n③ 실전 프로젝트 및 MVP 배포 경험\n④ 시장 검증·PMF·마케팅 실전 운영\n수강생 혜택\n1. 훈련장려금 월 최대 30만원\n2. 맥북 프로 무상 대여 및 AI 툴 유료 구독 지원\n3. 수료 후 VC/VA 사업 피드백 및 투자 검토 기회 부여\n4. 창업실전 인프라 지원, 수석디렉터/현업 멘토링\n5. 수강생 전용 VC 데모데이 혹은 수강생 전용 파운더 네트워크(창업 전문가, 인플루언서 등)\n상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.\n문의처\n전화 문의\n070-4099-8219\n카카오톡 문의\nhttp://ozcodingschool.channel.io/\n자세한 내용은 첨부파일 참조 및 문의처로 문의하여 주시기 바랍니다.\nK-Startup에 공고되는 정보는 해당 기관의 요청에 의해 제공됩니다. 입주, 교육, 사업 신청 시 요청하는 정보(개인정보 포함)는 해당 기관에서 관리 되오니\n이점 유의하여 주시기 바랍니다.\n※(유의)해당 공고는 중소벤처기업부와 창업진흥원이 아닌 민간에서 지원하는 사업으로, 신청부터 관리까지 모든 과정을 해당기관에서 전담\n첨부파일 일괄 다운로드\n1인창업가_포스터_7기.txt\n바로보기\n다운로드\n1인창업가_포스터_7기.png\n바로보기\n다운로드\n본 저작물은 창업진흥원(K-Startup)이 게시한 공공누리 제1유형의 저작물이며, 공공데이터포털(www.data.go.kr)에서 공공데이터로 개방중이며 무료로 활용할 수 있습니다.\n접수 바로가기\n목록",
-      "attachments": [
-        {
-          "name": "1인창업가_포스터_7기.txt",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/ME0Ln"
-        },
-        {
-          "name": "1인창업가_포스터_7기.png",
-          "url": "https://www.k-startup.go.kr/afile/fileDownload/NE0Ln"
-        }
-      ]
-    },
     {
       "pbanc_sn": 179189,
       "title": "앤틀러코리아 ANTLER INCEPTION  참여 기업 모집  |  Build Money-making AI ",
@@ -177,7 +16,7 @@
       "application_period": {
         "start": "2026-09-08",
         "end": "2026-09-26",
-        "d_day": "D-1"
+        "d_day": "D-day"
       },
       "target": [
         "청소년",
@@ -226,7 +65,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -276,7 +115,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -322,7 +161,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -372,7 +211,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "대학생",
@@ -426,7 +265,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "청소년",
@@ -481,7 +320,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-27",
-        "d_day": "D-2"
+        "d_day": "D-1"
       },
       "target": [
         "일반인",
@@ -526,7 +365,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "일반기업"
@@ -564,7 +403,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -615,7 +454,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -670,7 +509,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -727,7 +566,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -785,7 +624,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -838,7 +677,7 @@
       "application_period": {
         "start": "2026-08-26",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "대학생",
@@ -892,7 +731,7 @@
       "application_period": {
         "start": "2026-08-26",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -951,7 +790,7 @@
       "application_period": {
         "start": "2026-08-31",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -1030,7 +869,7 @@
       "application_period": {
         "start": "2026-08-12",
         "end": "2026-09-28",
-        "d_day": "D-3"
+        "d_day": "D-2"
       },
       "target": [
         "청소년",
@@ -1136,7 +975,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반인",
@@ -1182,7 +1021,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반인",
@@ -1240,7 +1079,7 @@
       "application_period": {
         "start": "2026-09-02",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "대학생",
@@ -1302,7 +1141,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "연구기관",
@@ -1361,7 +1200,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "대학생",
@@ -1407,7 +1246,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "청소년",
@@ -1461,7 +1300,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-29",
-        "d_day": "D-4"
+        "d_day": "D-3"
       },
       "target": [
         "일반기업",
@@ -1511,7 +1350,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -1574,7 +1413,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생"
@@ -1629,7 +1468,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -1676,7 +1515,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -1731,7 +1570,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인"
@@ -1765,7 +1604,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -1815,7 +1654,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -1859,7 +1698,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -1919,7 +1758,7 @@
       "application_period": {
         "start": "2026-09-11",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -1962,7 +1801,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -2018,7 +1857,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -2070,7 +1909,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -2120,7 +1959,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -2173,7 +2012,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -2217,7 +2056,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -2270,7 +2109,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -2325,7 +2164,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -2374,7 +2213,7 @@
       "application_period": {
         "start": "2026-09-08",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -2424,7 +2263,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -2481,7 +2320,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -2533,7 +2372,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -2590,7 +2429,7 @@
       "application_period": {
         "start": "2026-09-04",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -2645,7 +2484,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -2703,7 +2542,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -2753,7 +2592,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -2820,7 +2659,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -2873,7 +2712,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -2914,7 +2753,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -2965,7 +2804,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3015,7 +2854,7 @@
       "application_period": {
         "start": "2026-08-31",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3070,7 +2909,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3133,7 +2972,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3184,7 +3023,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -3234,7 +3073,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3288,7 +3127,7 @@
       "application_period": {
         "start": "2026-08-31",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3343,7 +3182,7 @@
       "application_period": {
         "start": "2026-08-27",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3401,7 +3240,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -3450,7 +3289,7 @@
       "application_period": {
         "start": "2026-08-27",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -3499,7 +3338,7 @@
       "application_period": {
         "start": "2026-08-27",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3543,7 +3382,7 @@
       "application_period": {
         "start": "2026-08-14",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3590,7 +3429,7 @@
       "application_period": {
         "start": "2026-08-25",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3638,7 +3477,7 @@
       "application_period": {
         "start": "2026-08-24",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반인",
@@ -3712,7 +3551,7 @@
       "application_period": {
         "start": "2026-08-19",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3767,7 +3606,7 @@
       "application_period": {
         "start": "2026-08-06",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3830,7 +3669,7 @@
       "application_period": {
         "start": "2026-08-03",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3876,7 +3715,7 @@
       "application_period": {
         "start": "2026-07-29",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -3935,7 +3774,7 @@
       "application_period": {
         "start": "2026-07-15",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -3998,7 +3837,7 @@
       "application_period": {
         "start": "2026-07-13",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -4050,7 +3889,7 @@
       "application_period": {
         "start": "2026-08-21",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학",
@@ -4092,7 +3931,7 @@
       "application_period": {
         "start": "2026-06-19",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업",
@@ -4135,7 +3974,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "대학생",
@@ -4186,7 +4025,7 @@
       "application_period": {
         "start": "2026-04-08",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -4239,7 +4078,7 @@
       "application_period": {
         "start": "2026-04-01",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -4283,7 +4122,7 @@
       "application_period": {
         "start": "2026-03-12",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "청소년",
@@ -4354,7 +4193,7 @@
       "application_period": {
         "start": "2026-03-10",
         "end": "2026-09-30",
-        "d_day": "D-5"
+        "d_day": "D-4"
       },
       "target": [
         "일반기업"
@@ -4398,7 +4237,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-01",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "대학",
@@ -4447,7 +4286,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2026-10-01",
-        "d_day": "D-6"
+        "d_day": "D-5"
       },
       "target": [
         "청소년",
@@ -4506,7 +4345,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "대학생",
@@ -4551,7 +4390,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "일반기업"
@@ -4595,7 +4434,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "청소년",
@@ -4656,7 +4495,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "일반인",
@@ -4713,7 +4552,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "청소년",
@@ -4768,7 +4607,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-10-02",
-        "d_day": "D-7"
+        "d_day": "D-6"
       },
       "target": [
         "대학생",
@@ -4806,7 +4645,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-05",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -4857,7 +4696,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-10-05",
-        "d_day": "D-10"
+        "d_day": "D-9"
       },
       "target": [
         "청소년",
@@ -4918,7 +4757,7 @@
       "application_period": {
         "start": "2026-09-23",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -4964,7 +4803,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -5028,7 +4867,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -5091,7 +4930,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -5140,7 +4979,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "청소년",
@@ -5209,7 +5048,7 @@
       "application_period": {
         "start": "2026-09-08",
         "end": "2026-10-06",
-        "d_day": "D-11"
+        "d_day": "D-10"
       },
       "target": [
         "대학생",
@@ -5262,7 +5101,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반기업",
@@ -5307,7 +5146,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "대학생",
@@ -5352,7 +5191,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "청소년",
@@ -5411,7 +5250,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "일반인",
@@ -5453,7 +5292,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "청소년",
@@ -5503,7 +5342,7 @@
       "application_period": {
         "start": "2026-08-27",
         "end": "2026-10-07",
-        "d_day": "D-12"
+        "d_day": "D-11"
       },
       "target": [
         "대학생",
@@ -5556,7 +5395,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-10-08",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "대학생",
@@ -5620,7 +5459,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-10-08",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "청소년",
@@ -5678,7 +5517,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-08",
-        "d_day": "D-13"
+        "d_day": "D-12"
       },
       "target": [
         "일반기업",
@@ -5731,7 +5570,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-10-09",
-        "d_day": "D-14"
+        "d_day": "D-13"
       },
       "target": [
         "청소년",
@@ -5789,7 +5628,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-10-09",
-        "d_day": "D-14"
+        "d_day": "D-13"
       },
       "target": [
         "청소년",
@@ -5839,7 +5678,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-11",
-        "d_day": "D-16"
+        "d_day": "D-15"
       },
       "target": [
         "청소년",
@@ -5894,7 +5733,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-12",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -5973,7 +5812,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-12",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -6019,7 +5858,7 @@
       "application_period": {
         "start": "2026-09-08",
         "end": "2026-10-12",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "대학생",
@@ -6071,7 +5910,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-10-12",
-        "d_day": "D-17"
+        "d_day": "D-16"
       },
       "target": [
         "청소년",
@@ -6129,7 +5968,7 @@
       "application_period": {
         "start": "2026-09-18",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "대학생",
@@ -6183,7 +6022,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "대학생",
@@ -6235,7 +6074,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "일반인",
@@ -6280,7 +6119,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "청소년",
@@ -6343,7 +6182,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "일반인",
@@ -6389,7 +6228,7 @@
       "application_period": {
         "start": "2026-08-24",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "청소년",
@@ -6435,7 +6274,7 @@
       "application_period": {
         "start": "2026-08-10",
         "end": "2026-10-13",
-        "d_day": "D-18"
+        "d_day": "D-17"
       },
       "target": [
         "일반기업"
@@ -6486,7 +6325,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-10-14",
-        "d_day": "D-19"
+        "d_day": "D-18"
       },
       "target": [
         "청소년",
@@ -6541,7 +6380,7 @@
       "application_period": {
         "start": "2026-08-31",
         "end": "2026-10-14",
-        "d_day": "D-19"
+        "d_day": "D-18"
       },
       "target": [
         "일반기업",
@@ -6591,7 +6430,7 @@
       "application_period": {
         "start": "2026-07-15",
         "end": "2026-10-15",
-        "d_day": "D-20"
+        "d_day": "D-19"
       },
       "target": [
         "청소년",
@@ -6642,7 +6481,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-16",
-        "d_day": "D-21"
+        "d_day": "D-20"
       },
       "target": [
         "청소년",
@@ -6693,7 +6532,7 @@
       "application_period": {
         "start": "2026-09-08",
         "end": "2026-10-16",
-        "d_day": "D-21"
+        "d_day": "D-20"
       },
       "target": [
         "일반기업",
@@ -6742,7 +6581,7 @@
       "application_period": {
         "start": "2026-08-20",
         "end": "2026-10-19",
-        "d_day": "D-24"
+        "d_day": "D-23"
       },
       "target": [
         "대학생",
@@ -6815,7 +6654,7 @@
       "application_period": {
         "start": "2026-07-28",
         "end": "2026-10-19",
-        "d_day": "D-24"
+        "d_day": "D-23"
       },
       "target": [
         "청소년",
@@ -6869,7 +6708,7 @@
       "application_period": {
         "start": "2026-09-11",
         "end": "2026-10-20",
-        "d_day": "D-25"
+        "d_day": "D-24"
       },
       "target": [
         "청소년",
@@ -6924,7 +6763,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-23",
-        "d_day": "D-28"
+        "d_day": "D-27"
       },
       "target": [
         "대학",
@@ -6971,7 +6810,7 @@
       "application_period": {
         "start": "2026-09-03",
         "end": "2026-10-25",
-        "d_day": "D-30"
+        "d_day": "D-29"
       },
       "target": [
         "대학생",
@@ -7022,7 +6861,7 @@
       "application_period": {
         "start": "2026-09-11",
         "end": "2026-10-26",
-        "d_day": "D-31"
+        "d_day": "D-30"
       },
       "target": [
         "일반인",
@@ -7084,7 +6923,7 @@
       "application_period": {
         "start": "2026-08-24",
         "end": "2026-10-26",
-        "d_day": "D-31"
+        "d_day": "D-30"
       },
       "target": [
         "일반기업"
@@ -7124,7 +6963,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-10-27",
-        "d_day": "D-32"
+        "d_day": "D-31"
       },
       "target": [
         "청소년",
@@ -7170,7 +7009,7 @@
       "application_period": {
         "start": "2026-09-04",
         "end": "2026-10-27",
-        "d_day": "D-32"
+        "d_day": "D-31"
       },
       "target": [
         "일반기업"
@@ -7217,7 +7056,7 @@
       "application_period": {
         "start": "2026-07-20",
         "end": "2026-10-27",
-        "d_day": "D-32"
+        "d_day": "D-31"
       },
       "target": [
         "청소년",
@@ -7272,7 +7111,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "청소년",
@@ -7327,7 +7166,7 @@
       "application_period": {
         "start": "2026-09-10",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "일반기업",
@@ -7384,7 +7223,7 @@
       "application_period": {
         "start": "2026-09-16",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "청소년",
@@ -7430,7 +7269,7 @@
       "application_period": {
         "start": "2026-09-02",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "일반기업"
@@ -7476,7 +7315,7 @@
       "application_period": {
         "start": "2026-07-03",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "청소년",
@@ -7531,7 +7370,7 @@
       "application_period": {
         "start": "2026-06-23",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "청소년",
@@ -7594,7 +7433,7 @@
       "application_period": {
         "start": "2026-04-30",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "일반기업"
@@ -7641,7 +7480,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2026-10-30",
-        "d_day": "D-35"
+        "d_day": "D-34"
       },
       "target": [
         "대학생",
@@ -7690,7 +7529,7 @@
       "application_period": {
         "start": "2026-09-28",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "일반기업",
@@ -7743,7 +7582,7 @@
       "application_period": {
         "start": "2026-09-07",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "일반인",
@@ -7820,7 +7659,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "청소년",
@@ -7875,7 +7714,7 @@
       "application_period": {
         "start": "2026-06-01",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "일반기업",
@@ -7931,7 +7770,7 @@
       "application_period": {
         "start": "2026-04-14",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "청소년",
@@ -7992,7 +7831,7 @@
       "application_period": {
         "start": "2026-02-04",
         "end": "2026-10-31",
-        "d_day": "D-36"
+        "d_day": "D-35"
       },
       "target": [
         "청소년",
@@ -8046,7 +7885,7 @@
       "application_period": {
         "start": "2026-02-11",
         "end": "2026-11-06",
-        "d_day": "D-42"
+        "d_day": "D-41"
       },
       "target": [
         "청소년",
@@ -8091,7 +7930,7 @@
       "application_period": {
         "start": "2026-02-23",
         "end": "2026-11-07",
-        "d_day": "D-43"
+        "d_day": "D-42"
       },
       "target": [
         "청소년",
@@ -8136,7 +7975,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-11-10",
-        "d_day": "D-46"
+        "d_day": "D-45"
       },
       "target": [
         "일반기업"
@@ -8183,7 +8022,7 @@
       "application_period": {
         "start": "2026-02-24",
         "end": "2026-11-20",
-        "d_day": "D-56"
+        "d_day": "D-55"
       },
       "target": [
         "청소년",
@@ -8233,7 +8072,7 @@
       "application_period": {
         "start": "2026-06-24",
         "end": "2026-11-22",
-        "d_day": "D-58"
+        "d_day": "D-57"
       },
       "target": [
         "일반기업"
@@ -8278,7 +8117,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-11-23",
-        "d_day": "D-59"
+        "d_day": "D-58"
       },
       "target": [
         "청소년",
@@ -8328,7 +8167,7 @@
       "application_period": {
         "start": "2026-03-03",
         "end": "2026-11-25",
-        "d_day": "D-61"
+        "d_day": "D-60"
       },
       "target": [
         "청소년",
@@ -8380,7 +8219,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-11-27",
-        "d_day": "D-63"
+        "d_day": "D-62"
       },
       "target": [
         "대학생",
@@ -8434,7 +8273,7 @@
       "application_period": {
         "start": "2026-04-13",
         "end": "2026-11-27",
-        "d_day": "D-63"
+        "d_day": "D-62"
       },
       "target": [
         "청소년",
@@ -8488,7 +8327,7 @@
       "application_period": {
         "start": "2026-09-04",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "대학생",
@@ -8549,7 +8388,7 @@
       "application_period": {
         "start": "2026-08-25",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "대학생",
@@ -8593,7 +8432,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "청소년",
@@ -8647,7 +8486,7 @@
       "application_period": {
         "start": "2026-05-15",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "일반기업"
@@ -8700,7 +8539,7 @@
       "application_period": {
         "start": "2026-05-11",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "일반기업",
@@ -8748,7 +8587,7 @@
       "application_period": {
         "start": "2026-02-20",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "청소년",
@@ -8797,7 +8636,7 @@
       "application_period": {
         "start": "2026-02-13",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "청소년",
@@ -8846,7 +8685,7 @@
       "application_period": {
         "start": "2026-02-09",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "대학생",
@@ -8900,7 +8739,7 @@
       "application_period": {
         "start": "2026-02-04",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "청소년",
@@ -8955,7 +8794,7 @@
       "application_period": {
         "start": "2026-01-27",
         "end": "2026-11-30",
-        "d_day": "D-66"
+        "d_day": "D-65"
       },
       "target": [
         "대학생",
@@ -9009,7 +8848,7 @@
       "application_period": {
         "start": "2026-09-09",
         "end": "2026-12-07",
-        "d_day": "D-73"
+        "d_day": "D-72"
       },
       "target": [
         "청소년",
@@ -9064,7 +8903,7 @@
       "application_period": {
         "start": "2026-08-06",
         "end": "2026-12-11",
-        "d_day": "D-77"
+        "d_day": "D-76"
       },
       "target": [
         "청소년",
@@ -9131,7 +8970,7 @@
       "application_period": {
         "start": "2026-08-06",
         "end": "2026-12-11",
-        "d_day": "D-77"
+        "d_day": "D-76"
       },
       "target": [
         "청소년",
@@ -9194,7 +9033,7 @@
       "application_period": {
         "start": "2026-09-17",
         "end": "2026-12-15",
-        "d_day": "D-81"
+        "d_day": "D-80"
       },
       "target": [
         "대학생",
@@ -9233,7 +9072,7 @@
       "application_period": {
         "start": "2026-03-03",
         "end": "2026-12-15",
-        "d_day": "D-81"
+        "d_day": "D-80"
       },
       "target": [
         "일반기업"
@@ -9280,7 +9119,7 @@
       "application_period": {
         "start": "2026-09-15",
         "end": "2026-12-21",
-        "d_day": "D-87"
+        "d_day": "D-86"
       },
       "target": [
         "청소년",
@@ -9335,7 +9174,7 @@
       "application_period": {
         "start": "2026-07-07",
         "end": "2026-12-30",
-        "d_day": "D-96"
+        "d_day": "D-95"
       },
       "target": [
         "대학생",
@@ -9389,7 +9228,7 @@
       "application_period": {
         "start": "2026-09-14",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -9436,7 +9275,7 @@
       "application_period": {
         "start": "2026-09-01",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -9502,7 +9341,7 @@
       "application_period": {
         "start": "2026-08-20",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업",
@@ -9548,7 +9387,7 @@
       "application_period": {
         "start": "2026-08-26",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -9603,7 +9442,7 @@
       "application_period": {
         "start": "2026-08-19",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -9649,7 +9488,7 @@
       "application_period": {
         "start": "2026-08-10",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -9704,7 +9543,7 @@
       "application_period": {
         "start": "2026-08-07",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -9769,7 +9608,7 @@
       "application_period": {
         "start": "2026-07-15",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -9823,7 +9662,7 @@
       "application_period": {
         "start": "2026-07-01",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "연구기관",
@@ -9873,7 +9712,7 @@
       "application_period": {
         "start": "2026-07-07",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -9929,7 +9768,7 @@
       "application_period": {
         "start": "2026-06-27",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업",
@@ -9977,7 +9816,7 @@
       "application_period": {
         "start": "2026-06-22",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10033,7 +9872,7 @@
       "application_period": {
         "start": "2026-06-11",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업",
@@ -10078,7 +9917,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업",
@@ -10122,7 +9961,7 @@
       "application_period": {
         "start": "2026-06-08",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학",
@@ -10181,7 +10020,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반인",
@@ -10249,7 +10088,7 @@
       "application_period": {
         "start": "2026-06-05",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -10318,7 +10157,7 @@
       "application_period": {
         "start": "2026-05-22",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10377,7 +10216,7 @@
       "application_period": {
         "start": "2026-04-21",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반인",
@@ -10440,7 +10279,7 @@
       "application_period": {
         "start": "2026-05-26",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -10501,7 +10340,7 @@
       "application_period": {
         "start": "2026-07-19",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "연구기관",
@@ -10546,7 +10385,7 @@
       "application_period": {
         "start": "2026-04-27",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -10605,7 +10444,7 @@
       "application_period": {
         "start": "2026-04-22",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10660,7 +10499,7 @@
       "application_period": {
         "start": "2026-04-17",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10715,7 +10554,7 @@
       "application_period": {
         "start": "2026-04-06",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -10765,7 +10604,7 @@
       "application_period": {
         "start": "2026-04-03",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10824,7 +10663,7 @@
       "application_period": {
         "start": "2026-03-18",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -10878,7 +10717,7 @@
       "application_period": {
         "start": "2026-03-17",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업"
@@ -10928,7 +10767,7 @@
       "application_period": {
         "start": "2026-03-30",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업"
@@ -10976,7 +10815,7 @@
       "application_period": {
         "start": "2026-03-27",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11033,7 +10872,7 @@
       "application_period": {
         "start": "2026-03-27",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11088,7 +10927,7 @@
       "application_period": {
         "start": "2026-03-24",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업"
@@ -11139,7 +10978,7 @@
       "application_period": {
         "start": "2026-03-18",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -11202,7 +11041,7 @@
       "application_period": {
         "start": "2026-03-20",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업"
@@ -11250,7 +11089,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11295,7 +11134,7 @@
       "application_period": {
         "start": "2026-03-16",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11340,7 +11179,7 @@
       "application_period": {
         "start": "2026-06-26",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "일반기업",
@@ -11393,7 +11232,7 @@
       "application_period": {
         "start": "2026-03-06",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학",
@@ -11449,7 +11288,7 @@
       "application_period": {
         "start": "2026-07-15",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11503,7 +11342,7 @@
       "application_period": {
         "start": "2026-01-01",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -11552,7 +11391,7 @@
       "application_period": {
         "start": "2026-02-06",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11602,7 +11441,7 @@
       "application_period": {
         "start": "2026-01-01",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -11654,7 +11493,7 @@
       "application_period": {
         "start": "2026-03-19",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11725,7 +11564,7 @@
       "application_period": {
         "start": "2026-01-05",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "1인 창조기업"
@@ -11774,7 +11613,7 @@
       "application_period": {
         "start": "2025-12-19",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11833,7 +11672,7 @@
       "application_period": {
         "start": "2025-10-27",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "대학생",
@@ -11891,7 +11730,7 @@
       "application_period": {
         "start": "2025-05-23",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -11954,7 +11793,7 @@
       "application_period": {
         "start": "2024-12-03",
         "end": "2026-12-31",
-        "d_day": "D-97"
+        "d_day": "D-96"
       },
       "target": [
         "청소년",
@@ -12021,7 +11860,7 @@
       "application_period": {
         "start": "2026-04-09",
         "end": "2027-01-31",
-        "d_day": "D-128"
+        "d_day": "D-127"
       },
       "target": [
         "대학생",
@@ -12070,7 +11909,7 @@
       "application_period": {
         "start": "2026-02-01",
         "end": "2027-01-31",
-        "d_day": "D-128"
+        "d_day": "D-127"
       },
       "target": [
         "청소년",
@@ -12116,7 +11955,7 @@
       "application_period": {
         "start": "2026-02-08",
         "end": "2027-02-07",
-        "d_day": "D-135"
+        "d_day": "D-134"
       },
       "target": [
         "청소년",
@@ -12167,7 +12006,7 @@
       "application_period": {
         "start": "2026-06-02",
         "end": "2027-05-29",
-        "d_day": "D-246"
+        "d_day": "D-245"
       },
       "target": [
         "일반인",
@@ -12236,7 +12075,7 @@
       "application_period": {
         "start": "2026-05-04",
         "end": "2027-12-31",
-        "d_day": "D-462"
+        "d_day": "D-461"
       },
       "target": [
         "청소년",
@@ -12294,7 +12133,7 @@
       "application_period": {
         "start": "2026-04-20",
         "end": "2028-04-30",
-        "d_day": "D-583"
+        "d_day": "D-582"
       },
       "target": [
         "대학",
